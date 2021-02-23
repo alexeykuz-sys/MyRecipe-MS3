@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recipe</title>
-</head>
-<body>
+{% extends "base.html" %}
+{% block content %}
+
+    <h4>fkfkf</h4>
+
     {% for recipe in recipes %}
         {{recipe.category_name }}<br>
         {{recipe.receipe_image_URL }}<br>
@@ -16,6 +13,4 @@
         {{recipe.recipe_serving }}<br>
 
     {% endfor %}
-    
-</body>
-</html>
+{% endblock %}   
