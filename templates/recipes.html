@@ -1,16 +1,32 @@
 {% extends "base.html" %}
 {% block content %}
 
-    <h4>fkfkf</h4>
+<h1 class="align-center">Recipes</h1>
 
-    {% for recipe in recipes %}
-        {{recipe.category_name }}<br>
-        {{recipe.receipe_image_URL }}<br>
-        {{recipe.recipe_unit }}<br>
-        {{recipe.recipe_indgredients }}<br>
-        {{recipe.recipe_method }}<br>
-        {{recipe.recipe_time }}<br>
-        {{recipe.recipe_serving }}<br>
 
-    {% endfor %}
+    <div class="row">
+        {% for recipe in recipes %} 
+            <div class="col s12 m4">
+                <div class="card">
+                    <div class="card-image">
+                        {% if img in recipes %}
+                            <img src="{{recipe.receipe_image_URL }}">
+                        {% else %}
+                            <img src="../static/images/myRecipeLogo.png">
+                        {% endif %}
+                    </div>
+                    <div class="card-content">
+                        <p>{{recipe.recipe_name }}</p>
+                    </div>
+                    <div class="card-details">
+                        <p class="cook-time">Cook Time<span class="card-span">{{recipe.recipe_time }}</span></p>
+                        <p class="servings">Serves<span class="card-span">{{recipe.recipe_serving }}</span></p>
+
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
 {% endblock %}   
+            
+
