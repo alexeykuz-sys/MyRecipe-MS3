@@ -9,11 +9,12 @@
             <div class="col s12 m4">
                 <div class="card">
                     <div class="card-image">
-                        {% if img in recipes %}
+                        {% if recipe_img_URL in recipes %}
                             <img src="{{recipe.receipe_image_URL }}">
                         {% else %}
                             <img src="../static/images/myRecipeLogo.png">
                         {% endif %}
+                         
                     </div>
                     <div class="card-content">
                         <p>{{recipe.recipe_name }}</p>
