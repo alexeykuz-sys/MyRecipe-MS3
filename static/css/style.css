@@ -1,5 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
+* {
+  padding: 0;
+  border: 0;
+}
+
+html {
+  box-sizing: border-box;
+  height: auto;
+  width: auto;
+}
+
+body {
+  font-family: "Spartan", Helvetica, sans-serif;
+  min-height: 100vh;
+  font-size: 15px;
+  background-color: #effafa;
+}
+.nav-wrapper ul{
+    margin-right: 40px;
+}
+
 nav a img {
     width:60px;
     height:57px;
@@ -10,14 +31,33 @@ nav a img {
     line-height: 2;
 }
 
+.field-wrapper{
+    display: block;
+}
+
+
+.button-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}
+
+
 .card{
-    width: 300px;
-    height:350px;
+    /* width: 250px; */
+    height:250px; 
     border-radius: 10px;
+    display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
 
 }
 
 .card-content {
+    text-align: center;
+    position: absolute;
+   
     text-align: center;
 }
 .card-image img {
@@ -26,13 +66,14 @@ nav a img {
 
 .card .card-content p {
     margin: 0;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 500;
     letter-spacing: 0.5px;
 }
 
 .card-details{
-    display: flex;
+     display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
     align-items: center;
     justify-content: space-evenly;
 }
@@ -50,4 +91,18 @@ nav a img {
     
 .card-span{
     font-weight: 700;
+}
+
+.footer-text {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-evenly;
+    
 }
