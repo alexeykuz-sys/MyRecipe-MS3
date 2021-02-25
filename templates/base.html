@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
     integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" type="text/css">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" type="text/css">
      <link rel="stylesheet" href="{{url_for('static', filename = 'css/style.css')}}" type="text/css">
@@ -16,7 +16,7 @@
         <!-- top navbar -->
         <nav class="nav-extended  green accent-4">
             <div class="nav-wrapper">
-            <a href="{{url_for('get_recipes')}}" class="brand-logo"><img src="static/images/myRecipeLogo.png" alt="logo name My Recipe"></a>
+            <a href="{{url_for('get_recipes')}}" class="brand-logo left"><img src="static/images/myRecipeLogo.png" alt="logo name My Recipe"></a>
             <a href="#" data-target="mobile-demo" class="sidenav-trigger right"><i class="fas fa-bars"></i></a>
             <ul class="right hide-on-med-and-down">
                     <li><a href="{{url_for('get_recipes')}}">Recipes</a></li>
@@ -32,7 +32,7 @@
             </div>
         </nav>
         <!-- mobile side navbar -->
-        <ul class="sidenav" id="mobile-demo">
+        <ul class="sidenav green accent-4" id="mobile-demo">
                     <li><a href="{{url_for('get_recipes')}}">Recipes</a></li>
                 {% if session.user %}
                     <li><a href="{{url_for('profile', username=session['user']) }}">Profile</a></li>
@@ -63,7 +63,23 @@
     
     {% endblock %}
     </div>
+        <footer class="page-footer green accent-4">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">My Recipes</h5>
+                <p class="grey-text text-lighten-4">The way YOU cook.</p>
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <img src="../static/images/icons8-facebook-80.png">
+                <img src="../static/images/icons8-instagram-80.png">
+                <img src="../static/images/icons8-twitter-100.png">
+              </div>
+            </div>
+          </div>
 
+        </footer>
+            
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script src="{{url_for('static', filename='js/script.js')}}"></script>
   {% block scripts%}
