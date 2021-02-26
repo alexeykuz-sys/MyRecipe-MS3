@@ -8,14 +8,15 @@
 html {
   box-sizing: border-box;
   height: auto;
-  width: auto;
+  width: 100%;
+ 
 }
 
 body {
-  font-family: "Spartan", Helvetica, sans-serif;
-  min-height: 100vh;
-  font-size: 15px;
+  font-family: "Lato", Helvetica, sans-serif;
   background-color: #effafa;
+  width: 100vw;
+  
 }
 .nav-wrapper ul{
     margin-right: 40px;
@@ -31,6 +32,31 @@ nav a img {
     line-height: 2;
 }
 
+.bg-img{
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    
+    
+}
+
+.bg-img img {
+    width: 100%;
+    height: 80%;
+}
+.search-box {
+    position: absolute;
+     top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input, select, textarea{
+    color:white;
+}
+
 .field-wrapper{
     display: block;
 }
@@ -43,25 +69,30 @@ nav a img {
     margin: 0 auto;
 }
 
+.btn {
+    border-radius: 10px;
+}
 
 .card{
     /* width: 250px; */
-    height:250px; 
+    /* height:350px;  */
     border-radius: 10px;
-    display: flex;
+    display: block;
    flex-direction: column;
    justify-content: space-evenly;
 
 }
 
 .card-content {
-    text-align: center;
-    position: absolute;
+    /* text-align: center;
+    position: absolute; */
    
     text-align: center;
 }
 .card-image img {
     height: 150px;
+    width: 150px;
+    object-fit: cover;
 }
 
 .card .card-content p {
@@ -76,6 +107,7 @@ nav a img {
     grid-template-columns: repeat(2, 1fr) ;
     align-items: center;
     justify-content: space-evenly;
+    border: 1px gainsboro solid;
 }
 
 .cook-time,
@@ -87,6 +119,7 @@ nav a img {
     display: flex;
     flex-flow: column;
     text-align: center;
+    
 }
     
 .card-span{
@@ -99,6 +132,22 @@ nav a img {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+
+.ingredients-content {
+    margin-top: 35px;
+    line-height: 2rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+.method-content {
+    margin-top: 35px;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: justify;
 }
 
 .social-icons {
