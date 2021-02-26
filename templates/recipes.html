@@ -1,38 +1,50 @@
 {% extends "base.html" %}
 {% block content %}
-<div class="image">
-    <!-- <div class="row">
-        <div class="col"> -->
-            <div class="bg-img">
-                <img src="../static/images/food-crop.png" alt="food image">
+    <div class="image">
+        <div class="bg-img">
+            <img src="../static/images/food-crop.png" alt="food image">
 
-                <form action="{{ url_for('search') }}" method="post" class="search-box">
-                    <div class="row  center-align">
-                        <div class="field-wrapper">
-                            <div class="input-field ">
-                                <i class="fas fa-search prefix light-blue-text text-darken-4"></i>
-                                <input type="text" name="query" id="query" style="color: #C0C0C0;" minlength="3" class="validate " required>
-                                <label for="query">Search Recipes</label>
-                            </div>
-                        
-                            <div class="valign-wrapper button-wrapper">
-                                <a href="{{ url_for('recipes') }}" class="red btn text-shadow">Reset</a>
-                                <button type="submit" class="green accent-4 ml-3 darken-1 btn text-shadow">
-                                    <i class="fas fa-search left"></i> Search
-                                </button>
-                            </div>
-                            </div>
-                    </div>
-                </form>
-            </div>
-        <!-- </div>
-    </div> -->
-</div>
+            <form action="{{ url_for('search') }}" method="post" class="search-box">
+                <div class="row  center-align">
+                    <div class="field-wrapper">
+                        <div class="input-field ">
+                            <i class="fas fa-search prefix light-blue-text text-darken-4"></i>
+                            <input type="text" name="query" id="query" style="color: #C0C0C0;" minlength="3" class="validate " required>
+                            <label for="query">Search Recipes</label>
+                        </div>
+                    
+                        <div class="valign-wrapper button-wrapper">
+                            <a href="{{ url_for('recipes') }}" class="red btn text-shadow">Reset</a>
+                            <button type="submit" class="green accent-4 ml-3 darken-1 btn text-shadow">
+                                <i class="fas fa-search left"></i> Search
+                            </button>
+                        </div>
+                        </div>
+                </div>
+            </form>
+        </div>
+
+    </div>
     <h1 class="center-align">Recipes</h1>
-
+    <hr class="hr-recipes">
+    <div class="food-wrapper center-align">
+        <div>
+            <img src="/static/images/breakfast.png" alt="breakfast" >
+            <div class="breakfast">Breakfast</div>
+        </div>
+        <div>
+            <img src="/static/images/lunch.png" alt="lunch" >
+            <div class="lunch">Lunch</div>
+        </div>
+        <div>
+            <img src="/static/images/dinner.png" alt="dinner" >
+            <div class="dinner">Dinner</div>
+        </div>
+    </div>
+    <hr class="hr-recipes">
     <div class="row">
         {% for recipe in recipes %} 
-            <div class="col s12 m3">
+            <div class="col s12 m4">
                 <a href="{{ url_for('get_recipe', recipe_id=recipe._id) }}">
                     <div class="card hoverable">
                         <div class="card-image">
