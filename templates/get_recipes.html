@@ -1,13 +1,12 @@
 {% extends "base.html" %}
 {% block content %}
 
-{% for recipe in recipes %}
 <h1 class="center-align">{{recipes.recipe_name }}</h1>
 <div class="container">
     <div class="row">
         <div class="col s12">
             <div class="recipe-image">
-                {% if recipe_img_URL  %}
+                {% if recipes.recipe_img_URL  %}
                     <img src="{{ recipes.recipe_img_URL }}">
                 {% else %}
                     <img src="../static/images/myRecipeLogo.png">
@@ -27,58 +26,14 @@
             </div>
             <div>
                 <h4>Ingredients</h4>
-                <p class="ingredients-content">
-                    1 (3 to 4-pound) beef chuck roast
-                    <br>
-                    Salt and freshly ground black pepper to taste
-                     <br>
-                    1 tablespoon plain flour
-                    3 tablespoons vegetable oil
-                    5 cloves garlic, smashed
-                    1 large onion, sliced
-                    1 (15-ounce) can whole tomatoes, in juice
-                    1/2 cup red wine
-                    2 cups beef broth, homemade or made from beef bouillon (2 bouillon cubes and 2 cups hot water) not canned
-                    3 sprigs fresh thyme, or 2 teaspoons dried
-                    2 bay leaves
-                    1 tablespoon cornflour, mixed with 2 tablespoons water, optional
-                    1/3 cup coarsely chopped fresh flat-leaf parsley, optional
-                    For the Roasted Vegetables
-                    2 medium red onions, peeled and quartered, or 6 shallots, peeled and halved
-                    3 carrot carrots, peeled and cut into 2-inch chunks
-                    2 medium parsnips, peeled, cut into 1/2-inch coins
-                    1 medium turnip, peeled and cut into 8 wedges or 1 medium celery root, peeled and cut into 8 large chunks or both
-                    About 5 tablespoons olive oil
-                    Salt and freshly ground black pepper
-                </p>
+                <p class="ingredients-content">{{ recipes.recipe_ingredients }}</p>
             </div>
 
         </div>
         <div class="col s12 m7 offset-m2 method">
             <h4>Method</h4>
-            <p class="method-content">
-                Preheat the oven to 190°C.
-                Heat a large Dutch oven, with a lid, over medium-high heat. Season the meat generously with salt and pepper, and sprinkle lightly with the flour.
-                Add the oil to the pot, lay the meat in the pan and sear on both sides until a deep mahogany brown, about 10 minutes. 
-                Transfer the meat to a plate. Pour all but about 2 tablespoons of the oil from the pan.
-                Add the onion and garlic to the pan, and cook until fragrant and soft, about 5 minutes. 
-                Add the tomatoes, breaking them up by hand as you add them to the pot, and cook until a deep brick red, about 2 minutes more. 
-                Add the wine, and with a wooden spoon scrape up any browned bits that cling to the bottom of the pot. 
-                Add the remaining tomato liquid, beef broth, thyme, and bay leaves, and bring to a boil. Return the roast to the pot, 
-                nestle it in the liquid, cover and transfer pot to the oven.
-                Cook until the roast is just tender, about 1 1/2 hours. Remove the lid and continue to cook, uncovered until tender about 1 hour more.
-                Meanwhile, toss the onions, carrots, parsnips, and turnips with the olive oil, salt, and pepper. Spread out on a baking sheet in 1 layer.
-                You may have to use 2 baking sheets. Once the roast comes out of the oven, raise the temperature to 220°C. 
-                Roast the vegetables, turning about halfway through cooking, until caramelized and tender, about 30 to 45 minutes.
-                Transfer the roast to a plate and cover loosely with foil. Skim the fat off the surface of the liquid and discard. 
-                Bring the sauce to a boil over medium-high heat, and cook until thickened. For a thicken sauce whisk in the cornstarch 
-                mixture and bring to a boil. (Test the thickness of the sauce by spooning some onto a plate and checking the consistency). 
-                Stir in the parsley, taste and adjust salt and pepper, as needed. Keep the roast warm in the sauce until ready to slice.
-                Slice the pot roast and lay on a platter, surround with the vegetables. Pour some of the sauce on top and serve the remaining 
-                in a sauceboat on the side.
-            </p>
+            <p class="method-content">{{ recipes.recipe_description }}</p>
         </div>
     </div>
 </div>
-{% endfor %}
 {% endblock %}

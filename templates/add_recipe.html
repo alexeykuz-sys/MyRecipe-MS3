@@ -17,6 +17,13 @@
                     <label>Recipe Category</label>
                 </div>
             </div>
+             <div class="row">
+                <div class="input-field col s12">
+                    <i class="material-icons prefix"></i>
+                    <input id="recipe_img_URL" name="recipe_img_URL" type="text" class="validate" required>
+                    <label for="recipe_img_URL">Recipe Image URL</label>
+                </div>
+            </div>
             <div class="row">
                 <div class="input-field col s12">
                     <i class="material-icons prefix"></i>
@@ -38,10 +45,18 @@
                     <label for="recipe_serving">Serving</label>
                 </div>
             </div>
+             <div class="row">
+                <div class="input-field col s12">
+                    <i class="material-icons prefix"></i>
+                    <textarea id="recipe_ingredients" name="recipe_ingredients" minlength="5" maxlength="500"
+                    class="materialize-textarea" required></textarea>
+                    <label for="recrecipe_ingredientsipe_description">Cooking Ingredients</label>
+                </div>
+            </div>
             <div class="row">
                 <div class="input-field col s12">
                     <i class="material-icons prefix"></i>
-                    <textarea id="recipe_description" name="recipe_description" minlength="5" maxlength="200"
+                    <textarea id="recipe_description" name="recipe_description" minlength="5" maxlength="1000"
                     class="materialize-textarea" required></textarea>
                     <label for="recipe_description">Cooking Method</label>
                 </div>

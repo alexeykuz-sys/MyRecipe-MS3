@@ -53,9 +53,6 @@ nav a img {
     transform: translate(-50%, -50%);
 }
 
-input, select, textarea{
-    color:white;
-}
 
 .field-wrapper{
     display: block;
@@ -132,6 +129,10 @@ input, select, textarea{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+
+.recipe-image img{
+    width: 100%;
 }
 
 .ingredients-content {
