@@ -1,7 +1,7 @@
 import os
 from flask import (
-                Flask, flash, render_template,
-                redirect, request, session, url_for)
+    Flask, flash, render_template,
+    redirect, request, session, url_for)
 from flask_pymongo import PyMongo
 from bson.objectid import ObjectId
 from werkzeug.security import generate_password_hash, check_password_hash
@@ -18,6 +18,30 @@ app.secret_key = os.environ.get("SECRET_KEY")
 mongo = PyMongo(app)
 
 
+@app.errorhandler(404)
+def page_not_found(e):
+    """
+    Displays page not found error
+    """
+    return render_template("404.html"), 404
+
+
+@app.errorhandler(500)
+def internal_server_error(e):
+    """
+    Displays internal server error
+    """
+    return render_template("500.html"), 500
+
+
+@app.errorhandler(403)
+def page_note_found(e):
+    """
+    Displays forbidden page error
+    """
+    return render_template("403.html"), 403
+
+
 @app.route("/")
 @app.route("/recipes")
 def recipes():
@@ -25,10 +49,10 @@ def recipes():
     return render_template("recipes.html", recipes=recipes)
 
 
-@app.route("/get_recipes")
-def get_recipes():
-    recipes = list(mongo.db.recipes.find())
-    return render_template("get_recipes.html", recipes=recipes)
+@app.route("/get_recipe/<recipe_id>", methods=["GET", "POST"])
+def get_recipe(recipe_id):
+    recipes = mongo.db.recipes.find_one({"_id": ObjectId(recipe_id)})
+    return render_template('get_recipes.html', recipes=recipes)
 
 
 @app.route("/search", methods=["GET", "POST"])
@@ -36,7 +60,6 @@ def search():
     query = request.form.get("query")
     recipes = list(mongo.db.recipes.find({"$text": {"$search": query}}))
     return render_template("recipes.html", recipes=recipes)
-
 
 
 @app.route("/register", methods=["GET", "POST"])
@@ -75,11 +98,11 @@ def login():
             # ensure hashed password matches user input
             if check_password_hash(
                     existing_user["password"], request.form.get("password")):
-                        session["user"] = request.form.get("username").lower()
-                        flash("Welcome, {}".format(
-                            request.form.get("username")))
-                        return redirect(url_for(
-                            "profile", username=session["user"]))
+                session["user"] = request.form.get("username").lower()
+                flash("Welcome, {}".format(
+                    request.form.get("username")))
+                return redirect(url_for(
+                    "profile", username=session["user"]))
             else:
                 # invalid password match
                 flash("Incorrect Username and/or Password")

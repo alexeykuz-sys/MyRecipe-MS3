@@ -1,6 +1,8 @@
 {% extends "base.html" %}
 {% block content %}
-<h1 class="center-align">Recipe Name</h1>
+
+{% for recipe in recipes %}
+<h1 class="center-align">{{recipes.recipe_name }}</h1>
 <div class="container">
     <div class="row">
         <div class="col s12">
@@ -17,9 +19,11 @@
     <div class="row">
         <div class="col s12 m3 ingredients">
             <div class="info">
+                
                 <h4>Info</h4>
-                <p>{{recipes.recipe_time }}</p>
-                <p>Serves 4 people</p>
+                <p>{{ recipes.recipe_time }}</p>
+                <p>{{ recipes.recipe_serving }}</p>
+            
             </div>
             <div>
                 <h4>Ingredients</h4>
@@ -76,5 +80,5 @@
         </div>
     </div>
 </div>
-
+{% endfor %}
 {% endblock %}
