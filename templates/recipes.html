@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
-    <div class="image">
+<div class="image">
         <div class="bg-img">
             <img src="../static/images/food-crop.png" alt="food image">
 
@@ -29,16 +29,22 @@
     <hr class="hr-recipes">
     <div class="food-wrapper center-align">
         <div>
-            <img src="/static/images/breakfast.png" alt="breakfast" >
-            <div class="breakfast">Breakfast</div>
+            <a href="{{ url_for('search_category', category_name='breakfast') }}">
+                <img src="/static/images/breakfast.png" alt="breakfast" >
+                <div class="breakfast">Breakfast</div>
+            </a>
         </div>
         <div>
-            <img src="/static/images/lunch.png" alt="lunch" >
-            <div class="lunch">Lunch</div>
+            <a href="{{ url_for('search_category', category_name='lunch') }}">
+                <img src="/static/images/lunch.png" alt="lunch" >
+                <div class="lunch">Lunch</div>
+            </a>
         </div>
         <div>
-            <img src="/static/images/dinner.png" alt="dinner" >
-            <div class="dinner">Dinner</div>
+            <a href="{{ url_for('search_category', category_name='dinner') }}">
+                <img src="/static/images/dinner.png" alt="dinner" >
+                <div class="dinner">Dinner</div>
+            </a>
         </div>
     </div>
     <hr class="hr-recipes">

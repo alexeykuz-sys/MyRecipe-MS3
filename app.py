@@ -62,6 +62,16 @@ def search():
     return render_template("recipes.html", recipes=recipes)
 
 
+
+@app.route("/search_category", methods=["GET", "POST"])
+def search_category():
+    category = request.args.get("category_name")
+    recipes = list(
+                mongo.db.recipes.find(
+                    {"category_name": category.lower()}))
+    return render_template("recipes.html", recipes=recipes, category=category)
+
+
 @app.route("/register", methods=["GET", "POST"])
 def register():
     if request.method == "POST":

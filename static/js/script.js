@@ -64,3 +64,32 @@
         });
     }
 });
+
+
+const add_ingredient = document.getElementById('add_ingredient');
+function addIngredient(){
+    let card_panel = document.querySelector('#ingredients')
+//     console.log(card_panel)
+   let newDiv = document.createElement('div')
+    newDiv.className = 'cooking-ingredients'
+    // let inputDiv = document.createElement('div')
+    // inputDiv.className = 'input-field col s12'
+    let icon = document.createElement('i')
+    icon.className = 'material-icons prefix'
+    let textarea = document.createElement('textarea')
+    textarea.id = 'recipe_ingredients'
+    textarea.name = 'recipe_ingredients'
+    textarea.className = 'materialize-textarea'
+    // textarea.setAttribute(minlength="5" maxlength="500")
+    let label = document.createElement('label')
+    label.setAttribute('for', 'recrecipe_ingredients_description')
+    label.innerText = 'Cooking Ingredients'
+    newDiv.appendChild(label)
+    newDiv.appendChild(textarea)
+    newDiv.appendChild(icon)
+    // newDiv.appendChild(inputDiv)
+    card_panel.appendChild(newDiv)
+    
+}
+
+add_ingredient.addEventListener('click', addIngredient);

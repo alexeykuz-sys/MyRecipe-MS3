@@ -167,6 +167,10 @@ nav a img {
     text-align: justify;
 }
 
+.buttons {
+    float: right;
+    padding: 10px;
+}
 .social-icons {
     display: flex;
     justify-content: space-evenly;
