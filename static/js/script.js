@@ -67,11 +67,12 @@
 
 
 const add_ingredient = document.getElementById('add_ingredient');
-function addIngredient(){
+function createIngredient(){
     let card_panel = document.querySelector('#ingredients')
 //     console.log(card_panel)
+    counter = 2
    let newDiv = document.createElement('div')
-    newDiv.className = 'cooking-ingredients'
+    newDiv.className = 'cooking-ingredients-'+counter
     // let inputDiv = document.createElement('div')
     // inputDiv.className = 'input-field col s12'
     let icon = document.createElement('i')
@@ -89,7 +90,7 @@ function addIngredient(){
     newDiv.appendChild(icon)
     // newDiv.appendChild(inputDiv)
     card_panel.appendChild(newDiv)
-    
+    console.log(card_panel)
 }
 
-add_ingredient.addEventListener('click', addIngredient);
+add_ingredient.addEventListener('click', createIngredient);

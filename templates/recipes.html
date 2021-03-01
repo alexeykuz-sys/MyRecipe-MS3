@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block content %}
+{% block image %}
 <div class="image">
         <div class="bg-img">
             <img src="../static/images/food-crop.png" alt="food image">
@@ -23,8 +23,9 @@
                 </div>
             </form>
         </div>
-
+    {% endblock image%}
     </div>
+    {% block content %}
     <h1 class="center-align">Recipes</h1>
     <hr class="hr-recipes">
     <div class="food-wrapper center-align">

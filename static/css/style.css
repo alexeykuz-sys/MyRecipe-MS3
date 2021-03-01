@@ -139,6 +139,22 @@ nav a img {
     font-weight: 700;
 }
 
+#controls {
+    margin-top: 25px;
+}
+
+/* .user-info {
+    float: right;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+} */
+
+.control-btn {
+    margin: 5px;
+}
+
+
 .footer-text {
     margin-left: 20px;
     display: flex;

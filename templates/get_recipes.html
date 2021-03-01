@@ -16,24 +16,44 @@
         </div>
     </div>
     <div class="row">
-        <div class="col s12 m3 ingredients">
+    
+        <div class="col s12 m3 ingredients-info">
             <div class="info">
                 
                 <h4>Info</h4>
                 <p>{{ recipes.recipe_time }}</p>
                 <p>{{ recipes.recipe_serving }}</p>
-            
+                <div class="user-info">
+                    <p class="user-added-info">Added by: {{ username }}</p>
+                </div>
             </div>
+        </div>
+        <div class="col s12 m7 offset-m2 method">
+            
+            <div id="controls">
+                <a href="{{ url_for('edit_recipe', recipe_id=recipes._id)}}" class="control-btn btn-small">Edit</a>
+                <a class="control-btn btn-small">Delete</a>
+             
+            </div>
+            
+        </div>
+    
+    </div>
+    <div class="row">
+        <div class="col s12 m3 ingredients">
             <div>
                 <h4>Ingredients</h4>
                 <p class="ingredients-content">{{ recipes.recipe_ingredients }}</p>
             </div>
-
         </div>
         <div class="col s12 m7 offset-m2 method">
-            <h4>Method</h4>
-            <p class="method-content">{{ recipes.recipe_description }}</p>
+            <div class="method-section">
+                <h4>Method</h4>
+                <p class="method-content">{{ recipes.recipe_description }}</p>
+            </div>
+
         </div>
+
     </div>
 </div>
 {% endblock %}
