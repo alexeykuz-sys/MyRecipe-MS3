@@ -23,7 +23,7 @@ def page_not_found(e):
     """
     Displays page not found error
     """
-    return render_template("404.html"), 404
+    return redirect(url_for("recipes"))
 
 
 @app.errorhandler(500)

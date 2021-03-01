@@ -13,8 +13,9 @@
 </head>
 <body>
     <header>
+        
         <!-- top navbar -->
-        <nav class="nav-extended grey darken-3">
+        <nav class="nav-extended grey darken-4">
             <div class="nav-wrapper">
             <a href="{{url_for('recipes')}}" class="brand-logo left"><img src="static/images/myRecipeLogo.png" alt="logo name"></a>
             <a href="#" data-target="mobile-demo" class="sidenav-trigger right"><i class="fas fa-bars"></i></a>
@@ -32,7 +33,7 @@
             </div>
         </nav>
         <!-- mobile side navbar -->
-        <ul class="sidenav green accent-4" id="mobile-demo">
+        <ul class="sidenav grey darken-4 " id="mobile-demo">
                     <li><a href="{{url_for('recipes')}}">Recipes</a></li>
                 {% if session.user %}
                     <li><a href="{{url_for('profile', username=session['user']) }}">Profile</a></li>
@@ -44,7 +45,7 @@
                 {% endif %}
         </ul>
     </header>
-
+   
     <section>
         <!-- flash message -->
         {% with messages = get_flashed_messages() %}
@@ -58,31 +59,32 @@
         {% endwith %}
     </section>
     <div class="container-fluid">
-    {% block image %}
+     {% block image %}
+     {% endblock image %}
 
     
-    {% endblock image %}
     </div>
+
     <div class="container">
     {% block content %}
 
     
     {% endblock %}
     </div>
-        <footer class="page-footer grey">
-          <div class="container-fluid">
-            <div class="row">
-              <div class="col l6 s12 footer-text">
-                <h5 class="white-text">My Recipes</h5>
-                <p class="grey-text text-lighten-4">The way YOU cook.</p>
-              </div>
-              <div class="col l4 offset-l2 s12 social-icons">
-                <img src="../static/images/facebook.png">
-                <img src="../static/images/instagram.png">
-                <img src="../static/images/twitter.png">
-              </div>
+        <footer class="page-footer grey darken-4">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col s12 social-icons ">
+                        <div class="footer-text">
+                        <h5 class="white-text">My Recipes</h5>
+                        <p class="grey-text text-lighten-4">The way YOU cook.</p>
+                        </div>
+                        <a href="https://www.facebook.com" target="_blank"><img src="/static/images/facebook.png" alt="facebook icon" ></a>
+                        <a href="https://www.instagram.com" target="_blank"><img src="/static/images/instagram.png" alt="instagram icon"></a>
+                        <a href="https://twitter.com/?lang=en-gb" target="_blank"><img src="/static/images/twitter.png" alt="twitter icon"></a>
+                    </div>
+                </div>
             </div>
-          </div>
 
         </footer>
             

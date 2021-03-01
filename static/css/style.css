@@ -18,6 +18,7 @@ body {
   width: 100vw;
   
 }
+
 .nav-wrapper ul{
     margin-right: 40px;
 }
@@ -28,6 +29,9 @@ nav a img {
     margin-left: 10px;
 }
 
+.sidenav li>a{
+    color: #effafa;    
+}
 .flashes h4 {
     line-height: 2;
 }
@@ -154,14 +158,32 @@ nav a img {
     margin: 5px;
 }
 
-
+.page-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .footer-text {
     margin-left: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    float: left;
 }
+
+
+.social-icons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    float: right;
+}
+
+.social-icons a img{
+    width: 40px;
+}
+
 
 .recipe-image img{
     width: 100%;
@@ -186,9 +208,4 @@ nav a img {
 .buttons {
     float: right;
     padding: 10px;
-}
-.social-icons {
-    display: flex;
-    justify-content: space-evenly;
-    
 }
