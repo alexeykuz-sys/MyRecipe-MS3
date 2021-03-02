@@ -183,12 +183,12 @@ To run this code locally, you can clone this repository directly into the editor
 1.  Open Terminal.
 2.  Change the current working directory to the location when you want the cloned directory.
 3.  Type the following into your Terminal:  
-    git clone  [https://github.com/jamie120/ms3-eat-vegan-recipes.git](https://github.com/jamie120/ms3-eat-vegan-recipes.git)
+    git clone  [insert link]()
 4.  Press Enter to create a local clone.
 
 -   To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
-##### [](https://github.com/jamie120/ms3-eat-vegan-recipes#for-more-information-regarding-cloning-of-a-repository-click-here)For more information regarding cloning of a repository click  [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+##### [](https://github.com/alexeykuz-sys#for-more-information-regarding-cloning-of-a-repository-click-here)For more information regarding cloning of a repository click  [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#credits)Credits
 
@@ -221,7 +221,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODQxOTE5NCwxNDQ5Nzg3NDA3LC0xND
+eyJoaXN0b3J5IjpbLTEwMTIzNDg3OSwxNDQ5Nzg3NDA3LC0xND
 U0NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4
 MzUsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMj
 A2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
