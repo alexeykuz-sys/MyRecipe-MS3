@@ -1,4 +1,4 @@
-My Recipes is a recipe site is a hub of user's  favourite receipes. The recipes are added by users in order to have a single point of reference. The site is designed to be easy to navigate, promoting a simple layout with minimal but effective and purposeful features.
+My Recipes is a recipe site of user's  favourite receipes. The recipes are added by users to have a single digitised point of reference for user's favorite recipes. The site is designed to be easy to navigate and use, promoting a simple layout with minimal but effective and purposeful features.
 
 **Project Requirements:**
 
@@ -221,8 +221,8 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMzODM1MTAsMTQ0OTc4NzQwNywtMT
-Q1NDU4MzY5NCwtNDAzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1
-ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLD
-IwNjg5NDAwOTIsLTk0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbLTE5NTkyNzYxMjIsLTEwMzMzODM1MTAsMT
+Q0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3OTgyLDE5Nzcy
+NzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MC
+wxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2MF19
 -->
