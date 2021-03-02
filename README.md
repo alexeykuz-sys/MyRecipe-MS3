@@ -190,7 +190,7 @@ To run this code locally, you can clone this repository directly into the editor
 
 ##### [](https://github.com/jamie120/ms3-eat-vegan-recipes#for-more-information-regarding-cloning-of-a-repository-click-here)For more information regarding cloning of a repository click  [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-# [](https://github.com/alexeukuzmyRecipe-MS3#credits)Credits
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#credits)Credits
 
 ### [](https://github.com/jamie120/ms3-eat-vegan-recipes#images)Images
 
@@ -201,17 +201,14 @@ Recipes - Unsplash:
 
 All other images were contributed from personal sources, of which no acknowledgement is required.
 
-## [](https://github.com/jamie120/ms3-eat-vegan-recipes#acknowledgements)Acknowledgements
+## [](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)Acknowledgements
 
-### [](https://github.com/jamie120/ms3-eat-vegan-recipes#sites-used-for-information-and-support)Sites used for information and support
+Sites used for information and support
 
 -   [W3C](https://www.w3.org/)
 -   [Stack overflow](https://stackoverflow.com/)
 -   [W3schools](https://www.w3schools.com/)
 -   CSS Tricks
--   [JQuery Documentation](https://api.jquery.com/)
--   Start Bootstrap
--   [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 -   [JS Commenting](https://jsdoc.app/about-getting-started.html)
 -   [MongoDB Documentation](https://docs.atlas.mongodb.com/)
 -   [Python Documentation](https://docs.python.org/3/)
@@ -224,8 +221,8 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTA4NTc4MiwtMTQ1NDU4MzY5NCwtND
-AzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0
-NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLT
-k0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbLTE1ODU1MjAwNjAsLTE0NTQ1ODM2OTQsLT
+QwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUw
+NDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC
+05NDg2NDE1NjBdfQ==
 -->
