@@ -135,7 +135,7 @@ Features to implement:
 -   [Figma](https://figma.com/)
 -   [Canva](https://canva.com/)
 -   [Flask](https://flask.palletsprojects.com/en/1.1.x/)
--   [MongoDB]()
+-   [MongoDB](https://www.mongodb.com/)
 - 
 
 
@@ -230,8 +230,8 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc0MzkwNTMsLTE0NTQ1ODM2OTQsLT
-QwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUw
-NDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC
-05NDg2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbLTU4NjgxODE0MSwtMTQ1NDU4MzY5NCwtND
+AzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0
+NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLT
+k0ODY0MTU2MF19
 -->
