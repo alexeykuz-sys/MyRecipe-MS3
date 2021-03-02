@@ -1,11 +1,10 @@
-My Recipes is a recipe site is a hub of user's  favourite receipes. The recipes are added by users in order to have a single point of reference. The site is designed to be easy to navigate, promoting a simple layout with minimal but effective and purposeful features.
+My Recipes is a recipe site of user's  favourite receipes. The recipes are added by users to have a single digitised point of reference for user's favorite recipes. The site is designed to be easy to navigate and use, promoting a simple layout with minimal but effective and purposeful features.
 
 **Project Requirements:**
 
 Build an interactive front-end website that responds to user actions and alters the way the site displays data/information.
 
-Required Technologies : HTML, CSS, JavaScript, Python+Flask, MongoDB. Optional: Include use of JQuery, other Javascript libraries and external APIs.
-
+Required Technologies : HTML, CSS, JavaScript, Python+Flask, MongoDB. 
 A live version of the site is available  [here.]()
 
 **Contents**
@@ -50,17 +49,17 @@ A live version of the site is available  [here.]()
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-development)UX Development
 
 My Recipe website will help users to have all their recipes  in one place, easily accessible.
-As user, I have always wanted to have a single point of access to all recipes my family has collected throuout the years, which are written on pieces of paper.
+As user, I have always wanted to have a single point of access to all recipes my family has collected throuout the years, which until now were written on pieces of paper.
 
-The primary goal of the website is to have easy access to recipes and preservance for the future.
+The primary goal of the website is to have easy access to recipes, digitise and save for the future.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-goals)Project goals
 
-The purpose of this project to create website to enable users to be able to create, use, read, edit and delete their favourite recipes. The website has to be easy to navigate with clear purpose of the buttons and screen space.
+The purpose of this project is to create website that allow users to create, use, read, edit and delete their favourite recipes. The website has to be easy to navigate and use, with clear purpose of the buttons and screen space.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-requirements)UX requirements
 
-The website targets the individuals interested to stop using paper and notes, old fashion way of recording recipes and digitise the records.
+The website targets the individuals interested to transfer their paper recorded recipes into digital form and copy recipes availalbe on other websites to one single hub.
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#developers-goals)Developer's Goals
 
 The site owner has the following goals:
@@ -73,13 +72,29 @@ The site owner has the following goals:
 Individuals interested to keep their recipes in digital form
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#user-goals)User goals:
+The users goal is to identify application allowing them to have access to the recipe any time anywhere.
 
-# Design Choices
+
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#user-stories)User Stories
+
+**- First Time Visitor Goals:**
+
+1.  As a visitor to the website, I want to easily understand the main purpose of the website.
+2.  As a visitor easy to register and login/out
+3.  As a visitor I want to see recipes on my frontpage
+4.  As a visitor i want an easy to add,edit and delete recipes.
+
+**- Returning Visitor Goals:**
+
+1.  Returning Visitor I would like to be able to add ingredients to the shopping list
+2.  Returning Visitor I would like to share recipe by email or via social media.
+
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#design-choices) Design Choices
 
 When designing website I took inspiration from various recipe websites like BBCGoodFood and AllRecipes. The website was adapted to fit user requirements. 
 The webpages consist of :
 1. Navbar and Footbar - simple layout. Navbar gives mobile and desktop menu views with options for user to see all recipes, register and login. Once loged in user can add,edit and delete recipes.
-2. Recipe Page - single page devided in two parts. Upper parts represents the hero imag with search bar.
+2. Recipe Page - single page devided in two parts. Upper parts represents the hero image with a search bar.
 The bottom part is the section where all recipes are seen and can be separate into Breakfast, Lunch and Dinner categories.
 3. Add Recipe page - simple page with recipe catgories, linked to MongoDB database.
 4. Register Page  - user has to input username and password that are restricted to min and max number of characters.
@@ -149,7 +164,7 @@ All-testing has been documented  [testing.md]()
 -   The site was developed in GitPod and pushed to the following remote GitHub repository -  []()
     -   The following GIT commands were used throughout deployment:
         -   **git status**  ------ used to check the status of files and any changes made / untracked.
-        -   **git add**  ------ to stage files ready to commit.
+        -   **git add -A**  ------ to stage files ready to commit.
         -   **git commit -m " "**  ------ to commit the files.
         -   **git push**  ------ to push the files to the master branch of the GitHub repo.
 
@@ -221,8 +236,10 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMzODM1MTAsMTQ0OTc4NzQwNywtMT
-Q1NDU4MzY5NCwtNDAzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1
-ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLD
-IwNjg5NDAwOTIsLTk0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbLTI2MDAyNTU1NCw0MDM3MDgzODIsMTU0OT
+M1MTg3MiwtMTE4MDc5OTQ0NSwtNDM4NDU1MjQzLC0xMDMzMzgz
+NTEwLDE0NDk3ODc0MDcsLTE0NTQ1ODM2OTQsLTQwMzg0Nzk4Mi
+wxOTc3MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUwNDczLC00NDMx
+MzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05NDg2NDE1Nj
+BdfQ==
 -->
