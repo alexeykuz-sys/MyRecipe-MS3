@@ -89,7 +89,7 @@ The users goal is to identify application allowing them to have access to the re
 1.  Returning Visitor I would like to be able to add ingredients to the shopping list
 2.  Returning Visitor I would like to share recipe by email or via social media.
 
-# Design Choices
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#design-choices) Design Choices
 
 When designing website I took inspiration from various recipe websites like BBCGoodFood and AllRecipes. The website was adapted to fit user requirements. 
 The webpages consist of :
@@ -236,9 +236,9 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTM1MTg3MiwtMTE4MDc5OTQ0NSwtND
-M4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLTE0NTQ1
-ODM2OTQsLTQwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNS
-wtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4
-OTQwMDkyLC05NDg2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbMTA3NjY3MTE3NiwxNTQ5MzUxODcyLC0xMT
+gwNzk5NDQ1LC00Mzg0NTUyNDMsLTEwMzMzODM1MTAsMTQ0OTc4
+NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3OTgyLDE5NzcyNzA0Mz
+EsOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MCwxNjUw
+ODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2MF19
 -->
