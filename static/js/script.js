@@ -68,7 +68,7 @@
 
 const add_ingredient = document.getElementById('add_ingredient');
 function createIngredient(){
-    let card_panel = document.querySelector('#ingredients')
+    let card_panel = document.querySelector('.cooking-ingredients-1')
 //     console.log(card_panel)
     counter = 2
    let newDiv = document.createElement('div')
@@ -89,8 +89,13 @@ function createIngredient(){
     newDiv.appendChild(textarea)
     newDiv.appendChild(icon)
     // newDiv.appendChild(inputDiv)
-    card_panel.appendChild(newDiv)
-    console.log(card_panel)
+    // card_panel.appendChild(newDiv)
+    console.log(newDiv)
+    insertAfter(newDiv, card_panel.nextSibling)
 }
 
 add_ingredient.addEventListener('click', createIngredient);
+
+function insertAfter(newNode, referenceNode) {
+    referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+}

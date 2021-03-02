@@ -62,7 +62,6 @@ def search():
     return render_template("recipes.html", recipes=recipes)
 
 
-
 @app.route("/search_category", methods=["GET", "POST"])
 def search_category():
     category = request.args.get("category_name")
@@ -165,6 +164,7 @@ def add_recipe():
 
     categories = mongo.db.categories.find().sort("category_name", 1)
     return render_template("add_recipe.html", categories=categories)
+
 
 @app.route("/edit_recipe/<recipe_id>", methods=["GET", "POST"])
 def edit_recipe(recipe_id):

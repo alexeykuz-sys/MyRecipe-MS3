@@ -2,7 +2,7 @@
 {% block image %}
 <div class="image">
         <div class="bg-img">
-            <img src="../static/images/food-crop.png" alt="food image">
+            <img src="../static/images/bgimg.jpg" alt="food image">
 
             <form action="{{ url_for('search') }}" method="post" class="search-box">
                 <div class="row  center-align">
@@ -58,7 +58,7 @@
                             {% if recipe.recipe_img_URL  %}
                             <img src="{{ recipe.recipe_img_URL }}">
                             {% else %}
-                            <img src="../static/images/myRecipeLogo.png">
+                            <img src="../static/images/bgimg.jpg">
                             {% endif %}
                             
                         </div>

@@ -9,7 +9,7 @@
                 {% if recipes.recipe_img_URL  %}
                     <img src="{{ recipes.recipe_img_URL }}">
                 {% else %}
-                    <img src="../static/images/myRecipeLogo.png">
+                    <img src="../static/images/bgimg.jpg">
                 {% endif %}
             </div>
 
@@ -24,7 +24,7 @@
                 <p>{{ recipes.recipe_time }}</p>
                 <p>{{ recipes.recipe_serving }}</p>
                 <div class="user-info">
-                    <p class="user-added-info">Added by: {{ username }}</p>
+                    <p class="user-added-info">Added by: {{ recipes.created_by }}</p>
                 </div>
             </div>
         </div>
@@ -33,7 +33,11 @@
             <div id="controls">
                 <a href="{{ url_for('edit_recipe', recipe_id=recipes._id)}}" class="control-btn btn-small">Edit</a>
                 <a href="{{ url_for('delete_recipe', recipe_id=recipes._id)}}" class="control-btn btn-small">Delete</a>
-             
+                <div>
+                    <a href="">
+                    <img src="/static/images/favourite.png" alt="favourite" >
+                    </a>
+                </div>
             </div>
             
         </div>
