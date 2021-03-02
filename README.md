@@ -33,17 +33,17 @@ A live version of the site is available  [here.]()
     -   [Technologies used](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)
 9.  [Testing](https://github.com/alexeykuz-sys/myRecipe-MS3#testing)
     
-10.  [Testing User Stories from UX Section](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#testing-user-stories-from-ux-section)
+10.  [Testing User Stories from UX Section](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories-from-ux-section)
     
-11.  [Bugs and De-bugging](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#bugs-and-debugging)
+11.  [Bugs and De-bugging](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)
     
-12.  [Version Control](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#version-control)
+12.  [Version Control](https://github.com/alexeykuz-sys/myRecipe-MS3#version-control)
     
-13.  [Project Deployment](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#project-deployment)
+13.  [Project Deployment](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)
     
-14.  [Credits](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#credits)
+14.  [Credits](https://github.com/alexeykuz-sys/myRecipe-MS3#credits)
     
-15.  [Acknowledgements](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#acknowledgements)
+15.  [Acknowledgements](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)
 
 ====
 
@@ -171,6 +171,6 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05ND
-g2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNj
+g5NDAwOTIsLTk0ODY0MTU2MF19
 -->
