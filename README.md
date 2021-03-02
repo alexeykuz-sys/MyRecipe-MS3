@@ -83,11 +83,10 @@ The users goal is to identify application allowing them to have access to the re
 2.  As a visitor easy to register and login/out
 3.  As a visitor I want to see recipes on my frontpage
 4.  As a visitor i want an easy to add,edit and delete recipes.
-5.  As a vis
 
 **- Returning Visitor Goals:**
 
-1.  Returning Visitor I would like to find more languages available and more difficulty levels.
+1.  Returning Visitor I would like to be able to add ingredients to 
 2.  Returning Visitor I would like to find social community links.
 
 **- Frequent Visitor Goals:**  1. Frequent Visitor i would like to see more challenges and alternative way of learning languages 2. Frequent Visitor I would like to see better way to interact with the game. 3. Frequent Visitor I would like to see competing board and possibility to compete with other players and friends.
@@ -239,9 +238,9 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDMxMzEzNCwtMTE4MDc5OTQ0NSwtND
-M4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLTE0NTQ1
-ODM2OTQsLTQwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNS
-wtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4
-OTQwMDkyLC05NDg2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbLTE0MjIyOTIxODYsLTExODA3OTk0NDUsLT
+QzODQ1NTI0MywtMTAzMzM4MzUxMCwxNDQ5Nzg3NDA3LC0xNDU0
+NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4Mz
+UsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2
+ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
 -->
