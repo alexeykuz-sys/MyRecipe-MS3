@@ -47,11 +47,10 @@ A live version of the site is available  [here.]()
 
 ====
 
-# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#ux-development)UX Development
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-development)UX Development
 
-Language based memory game will help users to learn a new language in the relaxed, entertaining way.
-
-As user, I have never enjoyed playing games that do not have a purpose. Therefore, as a developer, I have decided to create the game that will help purpose and will make users interested to play a game and to learn a new language.
+My Recipe website will help users to have all their recipes  in one place, easily accessible.
+As user, I have always wanted to have a single 
 
 The primary goal of the website is to make learning fun and inspire users to return to the game, as they progress.
 
@@ -174,5 +173,5 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDE2MDAwLC05NDg2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDU4MzMwNzcsLTk0ODY0MTU2MF19
 -->
