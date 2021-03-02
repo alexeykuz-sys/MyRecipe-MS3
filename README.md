@@ -56,7 +56,7 @@ The primary goal of the website is to have easy access to recipes and preservanc
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-goals)Project goals
 
-The purpose of this project to create website to enable consumers to have fun interactive experience in learning of the new words. The website has to be easy to navigate with clear purpose of the buttons and screen space. The game has to provide the clear and safe framework for clients and to make the experience casual rather than requirement.
+The purpose of this project to create website to enable users to be able to create, use, read, edit and delete their favourite recipes. The website has to be easy to navigate with clear purpose of the buttons and screen space.
 
 # [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#ux-requirements)UX requirements
 
@@ -171,6 +171,6 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNj
-g5NDAwOTIsLTk0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NT
+A4OTU4NzAsMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
 -->
