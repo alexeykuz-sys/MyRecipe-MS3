@@ -79,11 +79,11 @@ The users goal is to identify application allowing them to have access to the re
 
 **- First Time Visitor Goals:**
 
-1.  As a visitor to the website, I want to easily understand the main purpose of the game.
-2.  As a visitor navigate through the game
-3.  As a visitor I want to have a clear rules, how to play.
-4.  As a visitor want an easy way to contact developer.
-5.  As a returning visitor to the website, I would like to have a choice of languages to learn or improve
+1.  As a visitor to the website, I want to easily understand the main purpose of the website.
+2.  As a visitor easy to register and login/out
+3.  As a visitor I want to see recipes on my frontpage
+4.  As a visitor i want an easy to add,edit and delete recipes.
+5.  As a vis
 
 **- Returning Visitor Goals:**
 
@@ -239,9 +239,9 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA3OTk0NDUsLTQzODQ1NTI0MywtMT
-AzMzM4MzUxMCwxNDQ5Nzg3NDA3LC0xNDU0NTgzNjk0LC00MDM4
-NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4MzUsLTg2MDI1MDQ3My
-wtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2ODk0MDA5MiwtOTQ4
-NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbLTE1MDMxMzEzNCwtMTE4MDc5OTQ0NSwtND
+M4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLTE0NTQ1
+ODM2OTQsLTQwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNS
+wtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4
+OTQwMDkyLC05NDg2NDE1NjBdfQ==
 -->
