@@ -59,7 +59,7 @@ The purpose of this project is to create website that allow users to create, use
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-requirements)UX requirements
 
-The website targets the individuals interested to transfer their paper recorded recipes into digital form and copy recipes availalbe on other websites to one 
+The website targets the individuals interested to transfer their paper recorded recipes into digital form and copy recipes availalbe on other websites to one single hub.
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#developers-goals)Developer's Goals
 
 The site owner has the following goals:
@@ -220,8 +220,8 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ2NzA3NTIsLTEwMzMzODM1MTAsMT
-Q0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3OTgyLDE5Nzcy
-NzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MC
-wxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbLTQzODQ1NTI0MywtMTAzMzM4MzUxMCwxND
+Q5Nzg3NDA3LC0xNDU0NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3
+MDQzMSw5Mjc5MTU4MzUsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLD
+E2NTA4OTU4NzAsMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
 -->
