@@ -72,6 +72,7 @@ The site owner has the following goals:
 Individuals interested to keep their recipes in digital form
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#user-goals)User goals:
+The users goal is to identify application allowing them to have access to the recipe any time an
 
 # Design Choices
 
@@ -220,8 +221,9 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODQ1NTI0MywtMTAzMzM4MzUxMCwxND
-Q5Nzg3NDA3LC0xNDU0NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3
-MDQzMSw5Mjc5MTU4MzUsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLD
-E2NTA4OTU4NzAsMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbODI2MTcxMjI0LC00Mzg0NTUyNDMsLTEwMz
+MzODM1MTAsMTQ0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3
+OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0NzMsLT
+Q0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0
+MTU2MF19
 -->
