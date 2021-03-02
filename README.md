@@ -214,15 +214,15 @@ Sites used for information and support
 -   [Python Documentation](https://docs.python.org/3/)
 -   [Reading for Pagination](https://www.thatsoftwaredude.com/content/6125/how-to-paginate-through-a-collection-in-javascript)
 
-#### [](https://github.com/jamie120/ms3-eat-vegan-recipes#i-received-advice-and-support-from)I received advice and support from
+#### [](https://github.com/alexeykuz-sys/myRecipe-MS3#I-received-advice-and-support-from)I received advice and support from
 
 -   Oluwafemi Medale (mentor)
 -   Code Institute - Slack Community (various students, tutors and mentors)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU1MjAwNjAsLTE0NTQ1ODM2OTQsLT
-QwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUw
-NDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC
-05NDg2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbMTQ0OTc4NzQwNywtMTQ1NDU4MzY5NCwtND
+AzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0
+NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLT
+k0ODY0MTU2MF19
 -->
