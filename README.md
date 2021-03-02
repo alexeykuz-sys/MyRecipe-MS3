@@ -108,7 +108,7 @@ and rgb(10, 105, 177);
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)Features and Future Releases
 
-View my wireframes  [here](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/blob/master/WIREFRAMES.md). It's one-page website with a number of modal windows. I used JS to hide windows and information to make sure users are not distracted by excessive information on the page. I placed only fixed navigation bar with Logo and menu, linking user to the rules of the game and contact modal, and cards to play with.
+View my wireframes  [here](https://github.com/alexeykuz-sys/myr/blob/master/WIREFRAMES.md). It's one-page website with a number of modal windows. I used JS to hide windows and information to make sure users are not distracted by excessive information on the page. I placed only fixed navigation bar with Logo and menu, linking user to the rules of the game and contact modal, and cards to play with.
 
 Translation API that translates seamlessly behind the scene English words into three languages. More languages can be implemented at any time
 
@@ -234,7 +234,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNz
-kxNTgzNSwtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3
-MCwyMDY4OTQwMDkyLC05NDg2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbNDY3OTUxNDc4LC00MDM4NDc5ODIsMTk3Nz
+I3MDQzMSw5Mjc5MTU4MzUsLTg2MDI1MDQ3MywtNDQzMTMxNzkw
+LDE2NTA4OTU4NzAsMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
 -->
