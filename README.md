@@ -192,7 +192,7 @@ To run this code locally, you can clone this repository directly into the editor
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#credits)Credits
 
-### [](https://github.com/jamie120/ms3-eat-vegan-recipes#images)Images
+### [](https://github.com/alexeykuz-sys/myRecipe-MS3#images)Images
 
 The following images used for this app/website were taken from Unsplash:
 
@@ -221,8 +221,8 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTc4NzQwNywtMTQ1NDU4MzY5NCwtND
-AzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0
-NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLT
-k0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbMjAwODQxOTE5NCwxNDQ5Nzg3NDA3LC0xND
+U0NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4
+MzUsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMj
+A2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
 -->
