@@ -51,11 +51,11 @@ A live version of the site is available  [here.]()
 My Recipe website will help users to have all their recipes  in one place, easily accessible.
 As user, I have always wanted to have a single point of access to all recipes my family has collected throuout the years, which until now were written on pieces of paper.
 
-The primary goal of the website is to have easy access to recipes and preservance for the future.
+The primary goal of the website is to have easy access to recipes, digitise and save for the future.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-goals)Project goals
 
-The purpose of this project to create website to enable users to be able to create, use, read, edit and delete their favourite recipes. The website has to be easy to navigate with clear purpose of the buttons and screen space.
+The purpose of this project is to create website that allow users to create, use, read, edit and delete their favourite recipes. The website has to be easy to navigate and usewith clear purpose of the buttons and screen space.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-requirements)UX requirements
 
@@ -220,7 +220,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDUwMDEzNCwtMTAzMzM4MzUxMCwxND
+eyJoaXN0b3J5IjpbLTQ5MDg2NzEwNywtMTAzMzM4MzUxMCwxND
 Q5Nzg3NDA3LC0xNDU0NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3
 MDQzMSw5Mjc5MTU4MzUsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLD
 E2NTA4OTU4NzAsMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
