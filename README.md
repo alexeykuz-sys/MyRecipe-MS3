@@ -58,23 +58,83 @@ The primary goal of the website is to have easy access to recipes and preservanc
 
 The purpose of this project to create website to enable users to be able to create, use, read, edit and delete their favourite recipes. The website has to be easy to navigate with clear purpose of the buttons and screen space.
 
-# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#ux-requirements)UX requirements
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-requirements)UX requirements
 
 The website targets the individuals interested to stop using paper and notes, old fashion way of recording recipes and digitise the records.
-# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#developers-goals)Developer's Goals
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#developers-goals)Developer's Goals
 
 The site owner has the following goals:
 
 -   To provide users with clean and easy way to create recipes
 -   To give users control over the ingredients and methods of cooking.
 
-# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#users)Users:
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#users)Users:
 
 Individuals interested to keep their recipes in digital form
 
-# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#user-goals)User goals:
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#user-goals)User goals:
 
+# Design Choices
 
+When designing website I took inspiration for colours and fonts from the game Memory. The application is using colours and fonts scientifically proven to help users to learn and stimulate their cognitive functions.
+
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)Fonts
+
+I have used Google Fonts to determine the best fonts suitable for each part of the website, I.e. Logo, Menu and Body information.
+
+I opted to use Open Sans font for my website, which is one of the most popular fonts used by major internet companies.
+
+[Top 10 Best Google Fonts](https://nestify.io/blog/top-10-best-google-fonts/)
+
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#icons)Icons
+
+Icons used where provided by  [icons8](https://icons8.com/), used in moderation and are self explanatory.
+
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#colours)Colours
+
+The colours were determined by the pallet of Cooler website:
+
+-   For navbar  [![navbar](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/raw/master/assets/colors/navbar.jpeg)](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/blob/master/assets/colors/navbar.jpeg)  I used linear gradient of rgb(5, 57, 97),
+
+and rgb(10, 105, 177);
+
+-   For body background: rgb(55, 149, 93).  [![Background](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/raw/master/assets/colors/green.jpeg)](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/blob/master/assets/colors/green.jpeg)
+
+# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#features-and-future-releases)Features and Future Releases
+
+View my wireframes  [here](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/blob/master/WIREFRAMES.md). It's one-page website with a number of modal windows. I used JS to hide windows and information to make sure users are not distracted by excessive information on the page. I placed only fixed navigation bar with Logo and menu, linking user to the rules of the game and contact modal, and cards to play with.
+
+Translation API that translates seamlessly behind the scene English words into three languages. More languages can be implemented at any time
+
+Features to implement:
+
+-   To add bigger choice of languages;
+-   To increase number and difficulty of words;
+-   To create competition board.
+-   To create virtual badges, stars and list of words learn during the session to measure the learning process.
+-   To add links to social media to enable users to share their achievements.
+
+# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#technologies-used)Technologies Used
+
+**UX/UI design**
+
+-   [Figma](https://figma.com/)
+
+**Languages**
+
+-   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+-   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Tools & Libraries**
+
+-   [Git](https://git-scm.com/)
+-   [Bootstrap](https://getbootstrap.com/)
+-   [Icons8](https://icons8.com/)
+-   [Google fonts](https://fonts.google.com/)
+-   [Figma](https://figma.com/)
+-   [Icons8](https://icons8.com/)
+-   [Canva](https://canva.com/)
+-   [RapidApi](https://rapidapi.com/)
 
 
 
@@ -168,7 +228,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzYxNjIzNCwtODYwMjUwNDczLC00ND
-MxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05NDg2NDE1
-NjBdfQ==
+eyJoaXN0b3J5IjpbMTEzOTQ2NDk1LC04NjAyNTA0NzMsLTQ0Mz
+EzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2
+MF19
 -->
