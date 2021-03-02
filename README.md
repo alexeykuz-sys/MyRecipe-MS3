@@ -86,10 +86,8 @@ The users goal is to identify application allowing them to have access to the re
 
 **- Returning Visitor Goals:**
 
-1.  Returning Visitor I would like to be able to add ingredients to 
-2.  Returning Visitor I would like to find social community links.
-
-**- Frequent Visitor Goals:**  1. Frequent Visitor i would like to see more challenges and alternative way of learning languages 2. Frequent Visitor I would like to see better way to interact with the game. 3. Frequent Visitor I would like to see competing board and possibility to compete with other players and friends.
+1.  Returning Visitor I would like to be able to add ingredients to the shopping list
+2.  Returning Visitor I would like to share recipe by email or via social media.
 
 # Design Choices
 
@@ -238,9 +236,9 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIyOTIxODYsLTExODA3OTk0NDUsLT
-QzODQ1NTI0MywtMTAzMzM4MzUxMCwxNDQ5Nzg3NDA3LC0xNDU0
-NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4Mz
-UsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2
-ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbMTU0OTM1MTg3MiwtMTE4MDc5OTQ0NSwtND
+M4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLTE0NTQ1
+ODM2OTQsLTQwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNS
+wtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4
+OTQwMDkyLC05NDg2NDE1NjBdfQ==
 -->
