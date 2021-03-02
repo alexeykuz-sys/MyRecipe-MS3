@@ -108,18 +108,13 @@ and rgb(10, 105, 177);
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)Features and Future Releases
 
-View my wireframes  [here](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/wireframes.md). It's one-page website with a number of modal windows. I used JS to hide windows and information to make sure users are not distracted by excessive information on the page. I placed only fixed navigation bar with Logo and menu, linking user to the rules of the game and contact modal, and cards to play with.
-
-Translation API that translates seamlessly behind the scene English words into three languages. More languages can be implemented at any time
+View my wireframes  [here](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/wireframes.md). It's website with a landing page, register, log in/out and recipe editing page.  
 
 Features to implement:
 
--   To add bigger choice of languages;
--   To increase number and difficulty of words;
--   To create competition board.
--   To create virtual badges, stars and list of words learn during the session to measure the learning process.
--   To add links to social media to enable users to share their achievements.
-
+-   To add favourite option
+-   To add shopping list option
+-
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)Technologies Used
 
 **UX/UI design**
@@ -134,21 +129,22 @@ Features to implement:
 **Tools & Libraries**
 
 -   [Git](https://git-scm.com/)
--   [Bootstrap](https://getbootstrap.com/)
+-   [Materialize](https://materializecss.com/)
 -   [Icons8](https://icons8.com/)
 -   [Google fonts](https://fonts.google.com/)
 -   [Figma](https://figma.com/)
--   [Icons8](https://icons8.com/)
 -   [Canva](https://canva.com/)
--   [RapidApi](https://rapidapi.com/)
+-   [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+-   [MongoDB](https://www.mongodb.com/)
+-  [Herku](https://www.heroku.com/)
 
 
 
 # Testing
 
-All-testing has been documented  [testing.md](https://github.com/jamie120/ms3-eat-vegan-recipes/blob/master/testing.md)
+All-testing has been documented  [testing.md]()
 
-Deployment
+# Deployment
 
 -   The site was developed in GitPod and pushed to the following remote GitHub repository -  []()
     -   The following GIT commands were used throughout deployment:
@@ -166,7 +162,7 @@ Hosting on Heroku
     1.  Set  **_debug=False_**  in the app.py file.
     2.  Created a requirements.txt file from the terminal, using  **_pip3 freeze --local > requirements.txt_**, to allow Heroku to detect this project as a python app and any required package dependencies.
     3.  Created a Procfile using  **_echo web: python app.py > Procfile_**  from the Gitpod terminal so Heroku would be informed on which file runs the app and how to run this project.
-    4.  Created a new Heroku app,  **_ms3_eat-vegan-recipes**  and set its region to Europe.
+    4.  Created a new Heroku app,  **??????**  and set its region to Europe.
     5.  Automatic deployment was set up on Heroku - On the app dashboard, in the deploy menu. Connect to GitHub section. The GitHub repository was searched for and connected to the app.
     6.  In the settings tab on the app dashboard, 'Reveal Config Vars' was used to tell Heroku which variableS are required to run the app. The following config vars were added:
         -   **_IP_**
@@ -187,22 +183,16 @@ To run this code locally, you can clone this repository directly into the editor
 1.  Open Terminal.
 2.  Change the current working directory to the location when you want the cloned directory.
 3.  Type the following into your Terminal:  
-    git clone  [https://github.com/jamie120/ms3-eat-vegan-recipes.git](https://github.com/jamie120/ms3-eat-vegan-recipes.git)
+    git clone  [insert link]()
 4.  Press Enter to create a local clone.
 
 -   To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
-##### [](https://github.com/jamie120/ms3-eat-vegan-recipes#for-more-information-regarding-cloning-of-a-repository-click-here)For more information regarding cloning of a repository click  [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+##### [](https://github.com/alexeykuz-sys#for-more-information-regarding-cloning-of-a-repository-click-here)For more information regarding cloning of a repository click  [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-# [](https://github.com/jamie120/ms3-eat-vegan-recipes#credits)Credits
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#credits)Credits
 
-## [](https://github.com/jamie120/ms3-eat-vegan-recipes#content)Content
-
-All the written content of the website has been written by myself.
-
-## [](https://github.com/jamie120/ms3-eat-vegan-recipes#media)Media
-
-### [](https://github.com/jamie120/ms3-eat-vegan-recipes#images)Images
+### [](https://github.com/alexeykuz-sys/myRecipe-MS3#images)Images
 
 The following images used for this app/website were taken from Unsplash:
 
@@ -211,31 +201,28 @@ Recipes - Unsplash:
 
 All other images were contributed from personal sources, of which no acknowledgement is required.
 
-## [](https://github.com/jamie120/ms3-eat-vegan-recipes#acknowledgements)Acknowledgements
+## [](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)Acknowledgements
 
-### [](https://github.com/jamie120/ms3-eat-vegan-recipes#sites-used-for-information-and-support)Sites used for information and support
+Sites used for information and support
 
 -   [W3C](https://www.w3.org/)
 -   [Stack overflow](https://stackoverflow.com/)
 -   [W3schools](https://www.w3schools.com/)
 -   CSS Tricks
--   [JQuery Documentation](https://api.jquery.com/)
--   Start Bootstrap
--   [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 -   [JS Commenting](https://jsdoc.app/about-getting-started.html)
 -   [MongoDB Documentation](https://docs.atlas.mongodb.com/)
 -   [Python Documentation](https://docs.python.org/3/)
 -   [Reading for Pagination](https://www.thatsoftwaredude.com/content/6125/how-to-paginate-through-a-collection-in-javascript)
 
-#### [](https://github.com/jamie120/ms3-eat-vegan-recipes#i-received-advice-and-support-from)I received advice and support from
+#### [](https://github.com/alexeykuz-sys/myRecipe-MS3#I-received-advice-and-support-from)I received advice and support from
 
 -   Oluwafemi Medale (mentor)
 -   Code Institute - Slack Community (various students, tutors and mentors)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ1ODM2OTQsLTQwMzg0Nzk4MiwxOT
-c3MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUwNDczLC00NDMxMzE3
-OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05NDg2NDE1NjBdfQ
-==
+eyJoaXN0b3J5IjpbLTEwMzMzODM1MTAsMTQ0OTc4NzQwNywtMT
+Q1NDU4MzY5NCwtNDAzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1
+ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLD
+IwNjg5NDAwOTIsLTk0ODY0MTU2MF19
 -->
