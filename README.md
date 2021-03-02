@@ -1,4 +1,4 @@
-My Recipes is a recipe site dedicated to Vegan food, the recipes are added by and reviewed by the site's visitors. The site is designed to be easy to navigate, promoting a simple layout with minimal but effective and purposeful features.
+My Recipes is a recipe site is a hub of user's  favourite receipes. The recipes are added by users in order to have a single point of reference. The site is designed to be easy to navigate, promoting a simple layout with minimal but effective and purposeful features.
 
 #### [](https://github.com/jamie120/ms3-eat-vegan-recipes#project-requirements)**Project Requirements:**
 
@@ -8,5 +8,5 @@ Required Technologies : HTML, CSS, JavaScript, Python+Flask, MongoDB. Optional: 
 
 A live version of the site is available  [here.](https://ms3-eat-vegan-recipes.herokuapp.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTU0OTAyNV19
+eyJoaXN0b3J5IjpbLTE1MzI0MDE3MDBdfQ==
 -->
