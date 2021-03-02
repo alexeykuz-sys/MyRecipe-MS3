@@ -76,8 +76,7 @@ Individuals interested to keep their recipes in digital form
 
 # Design Choices
 
-When designing website I took inspiration for colours and fonts from the game Memory. The application is using colours and fonts scientifically proven to help users to learn and stimulate their cognitive functions.
-
+When designing website I took inspiration from various recipe websites like BBCGoodFood and AllRecipes. The website was adapted to fit user requirements. 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)Fonts
 
 I have used Google Fonts to determine the best fonts suitable for each part of the website, I.e. Logo, Menu and Body information.
@@ -228,7 +227,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0Mz
-EzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2
-MF19
+eyJoaXN0b3J5IjpbMzI5Mjg3NDksOTI3OTE1ODM1LC04NjAyNT
+A0NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIs
+LTk0ODY0MTU2MF19
 -->
