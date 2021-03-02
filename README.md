@@ -79,9 +79,10 @@ Individuals interested to keep their recipes in digital form
 When designing website I took inspiration from various recipe websites like BBCGoodFood and AllRecipes. The website was adapted to fit user requirements. 
 The webpages consist of :
 1. Navbar and Footbar - simple layout. Navbar gives mobile and desktop menu views with options for user to see all recipes, register and login. Once loged in user can add,edit and delete recipes.
-1. Recipe Page - single page devided in two parts. Upper parts represents the hero imag with search bar.
+2. Recipe Page - single page devided in two parts. Upper parts represents the hero imag with search bar.
 The bottom part is the section where all recipes are seen and can be separate into Breakfast, Lunch and Dinner categories.
-2. Add Recipe page - simple page with recipe catgories, linked to MongoDB 
+3. Add Recipe page - simple page with recipe catgories, linked to MongoDB database.
+4. Register Page  - user has to ad
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)Fonts
 
 I have used Google Fonts to determine the best fonts suitable for each part of the website, I.e. Logo, Menu and Body information.
@@ -232,7 +233,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NTI1ODI3LDkyNzkxNTgzNSwtODYwMj
-UwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDky
-LC05NDg2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbLTE2NDIyOTk2NCw5Mjc5MTU4MzUsLTg2MD
+I1MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2ODk0MDA5
+MiwtOTQ4NjQxNTYwXX0=
 -->
