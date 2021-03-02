@@ -24,14 +24,14 @@ A live version of the site is available  [here.]()
     
 7.  [User Stories](https://github.com/alexeykuz-sys/myRecipe-MS3#user-stories)
     
-8.  [Design Choices](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#design-choices)
+8.  [Design Choices](https://github.com/alexeykuz-sys/myRecipe-MS3#design-choices)
     
-    -   [Fonts](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#fonts)
-    -   [Icons](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#icons)
-    -   [Colours](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#colours)
-    -   [Features and Future Releases](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#features-and-future-releases)
-    -   [Technologies used](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#technologies-used)
-9.  [Testing](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#testing)
+    -   [Fonts](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)
+    -   [Icons](https://github.com/alexeykuz-sys/myRecipe-MS3#icons)
+    -   [Colours](https://github.com/alexeykuz-sys/myRecipe-MS3#colours)
+    -   [Features and Future Releases](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)
+    -   [Technologies used](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)
+9.  [Testing](https://github.com/alexeykuz-sys/myRecipe-MS3#testing)
     
 10.  [Testing User Stories from UX Section](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#testing-user-stories-from-ux-section)
     
@@ -171,6 +171,6 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjAzMTc4MDIsMjA2ODk0MDA5MiwtOT
-Q4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05ND
+g2NDE1NjBdfQ==
 -->
