@@ -49,18 +49,18 @@ A live version of the site is available  [here.]()
 
 All-testing has been documented  [testing.md](https://github.com/jamie120/ms3-eat-vegan-recipes/blob/master/testing.md)
 
-# [](https://github.com/jamie120/ms3-eat-vegan-recipes#deployment)Deployment
+Deployment
 
--   The site was developed in GitPod and pushed to the following remote GitHub repository -  [REPO](https://github.com/jamie120/ms3-eat-eat_vegan_recipes)
+-   The site was developed in GitPod and pushed to the following remote GitHub repository -  []()
     -   The following GIT commands were used throughout deployment:
         -   **git status**  ------ used to check the status of files and any changes made / untracked.
         -   **git add**  ------ to stage files ready to commit.
         -   **git commit -m " "**  ------ to commit the files.
         -   **git push**  ------ to push the files to the master branch of the GitHub repo.
 
-### [](https://github.com/jamie120/ms3-eat-vegan-recipes#hosting-on-heroku)Hosting on Heroku
+Hosting on Heroku
 
--   This site is hosted using Heroku, deployed directly from the master branch via GitHub. -  [LIVE SITE](https://ms3-eat-vegan-recipes.herokuapp.com/)
+-   This site is hosted using Heroku, deployed directly from the master branch via GitHub. -  [LIVE SITE]
     
     -   The following steps were taken to complete the hosting process.
     
@@ -79,9 +79,9 @@ All-testing has been documented  [testing.md](https://github.com/jamie120/ms3-ea
     9.  Clicked the  **_Deploy Branch_**  button located in the  **_Deploy_**  section of Heroku to finally deploy this project.
     10.  Clicked the  **_View_**  button to launch this project's app.
     
-    -   The deployed site on Heroku will update automatically upon new commits to the master branch in the GitHub Repo :  [REPO](https://github.com/jamie120/ms3-eat-eat_vegan_recipes).
-
-### [](https://github.com/jamie120/ms3-eat-vegan-recipes#cloning)Cloning
+    -   The deployed site on Heroku will update automatically upon new commits to the master branch in the GitHub Repo :  [REPO]
+    
+Cloning
 
 To run this code locally, you can clone this repository directly into the editor of your choice by following the steps below:
 
@@ -109,22 +109,6 @@ The following images used for this app/website were taken from Unsplash:
 
 Recipes - Unsplash:
 
--   Avacado Pitta -  [https://unsplash.com/photos/MAbhhj3QCXQ](https://unsplash.com/photos/MAbhhj3QCXQ)  - @atasteofwellbeing
-    
--   Vegan Burger -  [https://unsplash.com/photos/kPLccIMtS8E](https://unsplash.com/photos/kPLccIMtS8E)  - @runningonrealfood
-    
--   Buddah Bowl -  [https://unsplash.com/photos/IGfIGP5ONV0](https://unsplash.com/photos/IGfIGP5ONV0)  - @annapelzer
-    
--   Tofu Curry -  [https://unsplash.com/photos/PqsImnjuElM](https://unsplash.com/photos/PqsImnjuElM)  - @charlesdeluvio
-    
--   Red Lentil Dahl -  [https://unsplash.com/photos/gVOvZFcYBMY](https://unsplash.com/photos/gVOvZFcYBMY)  - @edgarraw
-    
--   Pistaccio Ice-cream -  [https://unsplash.com/photos/alEZLDPPRBU](https://unsplash.com/photos/alEZLDPPRBU)  - @aribes
-    
--   Landing Page - Unsplash -  [https://unsplash.com/photos/Ww8eQWjMJWk](https://unsplash.com/photos/Ww8eQWjMJWk)  - @hermez777
-    
--   Fish and chips -  [https://unsplash.com/photos/hfK401V_NXk](https://unsplash.com/photos/hfK401V_NXk)  - @jannerboy62
-    
 
 All other images were contributed from personal sources, of which no acknowledgement is required.
 
@@ -151,5 +135,5 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzExOTEyNiwtOTQ4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbNDYxMjgxODM2LC05NDg2NDE1NjBdfQ==
 -->
