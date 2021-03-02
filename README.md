@@ -10,19 +10,19 @@ A live version of the site is available  [here.]()
 
 **Contents**
 
-1.  [UX Development](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#ux-development)
+1.  [UX Development](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-development)
     
-2.  [Project Goals](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#project-goals)
+2.  [Project Goals](https://github.com/alexeykuz-sys/myRecipe-MS3#project-goals)
     
-3.  [UX Requirements](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#ux-requirements)
+3.  [UX Requirements](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-requirements)
     
-4.  [Developer's goal](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#developers-goals)
+4.  [Developer's goal](https://github.com/alexeykuz-sys/myRecipe-MS3#developers-goals)
     
-5.  [Users](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#users)
+5.  [Users](https://github.com/alexeykuz-sys/myRecipe-MS3#users)
     
-6.  [User Goals](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#user-goals)
+6.  [User Goals](https://github.com/alexeykuz-sys/myRecipe-MS3#user-goals)
     
-7.  [User Stories](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#user-stories)
+7.  [User Stories](https://github.com/alexeykuz-sys/myRecipe-MS3#user-stories)
     
 8.  [Design Choices](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#design-choices)
     
@@ -171,5 +171,6 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbLTE0NjAzMTc4MDIsMjA2ODk0MDA5MiwtOT
+Q4NjQxNTYwXX0=
 -->
