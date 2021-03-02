@@ -45,6 +45,45 @@ A live version of the site is available  [here.]()
     
 15.  [Acknowledgements](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#acknowledgements)
 
+====
+
+# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#ux-development)UX Development
+
+Language based memory game will help users to learn a new language in the relaxed, entertaining way.
+
+As user, I have never enjoyed playing games that do not have a purpose. Therefore, as a developer, I have decided to create the game that will help purpose and will make users interested to play a game and to learn a new language.
+
+The primary goal of the website is to make learning fun and inspire users to return to the game, as they progress.
+
+Playing memory games can improve other brain functions, such as attention, concentration, and focus. Memory games give space to critical thinking and that helps children nurture their attention to detail. Memory games can improve visual recognition.
+
+# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#project-goals)Project goals
+
+The purpose of this project to create website to enable consumers to have fun interactive experience in learning of the new words. The website has to be easy to navigate with clear purpose of the buttons and screen space. The game has to provide the clear and safe framework for clients and to make the experience casual rather than requirement.
+
+# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#ux-requirements)UX requirements
+
+The website targets the individuals interested to learn or improve the knowledge of the foreign languages in the casual way, through the game experience. Present level of development offers only fail/win notification. Please see future implementations plan for more details of users progress measurement.
+
+# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#developers-goals)Developer's Goals
+
+The site owner has the following goals:
+
+-   To provide users with interactive and easy navigation learning process.
+-   To encourage users to learn more
+-   To provide platform with colours and fonts stimulating users experience.
+-   To give users control over the game, by choosing of the language, initiating and resetting the game and timer.
+
+# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#users)Users:
+
+Individuals interested to learn a new language with no age limitation.
+
+# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#user-goals)User goals:
+
+Person interested to learn basics of the new language has to learn 300-600 words to be to travel and 1000 words to be able to converse; the users goals is to identify application allowing them to have access to the application teaching them the most common words used in any language. Therefore, i have used the most common words used in English language
+
+
+
 # Testing
 
 All-testing has been documented  [testing.md](https://github.com/jamie120/ms3-eat-vegan-recipes/blob/master/testing.md)
@@ -135,5 +174,5 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMjgxODM2LC05NDg2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbLTMxNDE2MDAwLC05NDg2NDE1NjBdfQ==
 -->
