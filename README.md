@@ -65,7 +65,7 @@ The website targets the individuals interested to stop using paper and notes, ol
 
 The site owner has the following goals:
 
--   To provide users with interactive and easy navigation learning process.
+-   To provide users with clean and easy way to create recipes
 -   To encourage users to learn more
 -   To provide platform with colours and fonts stimulating users experience.
 -   To give users control over the game, by choosing of the language, initiating and resetting the game and timer.
@@ -170,7 +170,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MTcxOTY1LC04NjAyNTA0NzMsLTQ0Mz
-EzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2
-MF19
+eyJoaXN0b3J5IjpbMTQyMTQzNTM4OCwtODYwMjUwNDczLC00ND
+MxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05NDg2NDE1
+NjBdfQ==
 -->
