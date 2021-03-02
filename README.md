@@ -60,8 +60,7 @@ The purpose of this project to create website to enable users to be able to crea
 
 # [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#ux-requirements)UX requirements
 
-The website targets the individuals interested to learn or improve the knowledge of the foreign languages in the casual way, through the game experience. Present level of development offers only fail/win notification. Please see future implementations plan for more details of users progress measurement.
-
+The website targets the individuals interested to stop using paper and notes, old fashion way of recording recipes and digitise the records.
 # [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#developers-goals)Developer's Goals
 
 The site owner has the following goals:
@@ -171,6 +170,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NT
-A4OTU4NzAsMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbOTg2MTcxOTY1LC04NjAyNTA0NzMsLTQ0Mz
+EzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2
+MF19
 -->
