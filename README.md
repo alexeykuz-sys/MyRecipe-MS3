@@ -88,7 +88,7 @@ The bottom part is the section where all recipes are seen and can be separate in
 
 I have used Google Fonts to determine the best fonts suitable for each part of the website, I.e. Logo, Menu and Body information.
 
-I opted to use Open Sans font for my website, which is one of the most popular fonts used by major internet companies.
+I opted to use Lato font for my website, which is one of the most popular fonts used by major internet companies.
 
 [Top 10 Best Google Fonts](https://nestify.io/blog/top-10-best-google-fonts/)
 
@@ -234,7 +234,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzI3MDQzMSw5Mjc5MTU4MzUsLTg2MD
-I1MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2ODk0MDA5
-MiwtOTQ4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbLTQwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNz
+kxNTgzNSwtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3
+MCwyMDY4OTQwMDkyLC05NDg2NDE1NjBdfQ==
 -->
