@@ -136,7 +136,7 @@ Features to implement:
 -   [Canva](https://canva.com/)
 -   [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 -   [MongoDB](https://www.mongodb.com/)
-- 
+-  [Herku](https://www.heroku.com/)
 
 
 
@@ -230,8 +230,8 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjgxODE0MSwtMTQ1NDU4MzY5NCwtND
-AzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0
-NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLT
-k0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbNTQ0NzkxNzkxLC0xNDU0NTgzNjk0LC00MD
+M4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4MzUsLTg2MDI1MDQ3
+MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2ODk0MDA5MiwtOT
+Q4NjQxNTYwXX0=
 -->
