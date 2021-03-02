@@ -133,9 +133,10 @@ Features to implement:
 -   [Icons8](https://icons8.com/)
 -   [Google fonts](https://fonts.google.com/)
 -   [Figma](https://figma.com/)
--   [Icons8](https://icons8.com/)
 -   [Canva](https://canva.com/)
--   [RapidApi](https://rapidapi.com/)
+-   [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+-   [MongoDB]()
+- 
 
 
 
@@ -229,8 +230,8 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzMzMDEyNSwtMTQ1NDU4MzY5NCwtND
-AzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0
-NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLT
-k0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbLTIxMjc0MzkwNTMsLTE0NTQ1ODM2OTQsLT
+QwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUw
+NDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC
+05NDg2NDE1NjBdfQ==
 -->
