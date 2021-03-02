@@ -164,7 +164,7 @@ All-testing has been documented  [testing.md]()
 -   The site was developed in GitPod and pushed to the following remote GitHub repository -  []()
     -   The following GIT commands were used throughout deployment:
         -   **git status**  ------ used to check the status of files and any changes made / untracked.
-        -   **git add**  ------ to stage files ready to commit.
+        -   **git add -A**  ------ to stage files ready to commit.
         -   **git commit -m " "**  ------ to commit the files.
         -   **git push**  ------ to push the files to the master branch of the GitHub repo.
 
@@ -236,9 +236,10 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNzA4MzgyLDE1NDkzNTE4NzIsLTExOD
-A3OTk0NDUsLTQzODQ1NTI0MywtMTAzMzM4MzUxMCwxNDQ5Nzg3
-NDA3LC0xNDU0NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3MDQzMS
-w5Mjc5MTU4MzUsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NTA4
-OTU4NzAsMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbLTI2MDAyNTU1NCw0MDM3MDgzODIsMTU0OT
+M1MTg3MiwtMTE4MDc5OTQ0NSwtNDM4NDU1MjQzLC0xMDMzMzgz
+NTEwLDE0NDk3ODc0MDcsLTE0NTQ1ODM2OTQsLTQwMzg0Nzk4Mi
+wxOTc3MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUwNDczLC00NDMx
+MzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05NDg2NDE1Nj
+BdfQ==
 -->
