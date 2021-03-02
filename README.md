@@ -83,7 +83,7 @@ The webpages consist of :
 The bottom part is the section where all recipes are seen and can be separate into Breakfast, Lunch and Dinner categories.
 3. Add Recipe page - simple page with recipe catgories, linked to MongoDB database.
 4. Register Page  - user has to input username and password that are restricted to min and max number of characters.
-5. Profile Page - user profile page, basic card, which
+5. Profile Page - user profile page, basic card, which will be expanded in later versions.
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)Fonts
 
 I have used Google Fonts to determine the best fonts suitable for each part of the website, I.e. Logo, Menu and Body information.
@@ -234,7 +234,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTIzMDE3OSw5Mjc5MTU4MzUsLTg2MD
+eyJoaXN0b3J5IjpbMTk3NzI3MDQzMSw5Mjc5MTU4MzUsLTg2MD
 I1MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2ODk0MDA5
 MiwtOTQ4NjQxNTYwXX0=
 -->
