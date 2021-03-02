@@ -94,7 +94,7 @@ The users goal is to identify application allowing them to have access to the re
 When designing website I took inspiration from various recipe websites like BBCGoodFood and AllRecipes. The website was adapted to fit user requirements. 
 The webpages consist of :
 1. Navbar and Footbar - simple layout. Navbar gives mobile and desktop menu views with options for user to see all recipes, register and login. Once loged in user can add,edit and delete recipes.
-2. Recipe Page - single page devided in two parts. Upper parts represents the hero imag with search bar.
+2. Recipe Page - single page devided in two parts. Upper parts represents the hero image with a search bar.
 The bottom part is the section where all recipes are seen and can be separate into Breakfast, Lunch and Dinner categories.
 3. Add Recipe page - simple page with recipe catgories, linked to MongoDB database.
 4. Register Page  - user has to input username and password that are restricted to min and max number of characters.
@@ -236,9 +236,9 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjY3MTE3NiwxNTQ5MzUxODcyLC0xMT
-gwNzk5NDQ1LC00Mzg0NTUyNDMsLTEwMzMzODM1MTAsMTQ0OTc4
-NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3OTgyLDE5NzcyNzA0Mz
-EsOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MCwxNjUw
-ODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbNDAzNzA4MzgyLDE1NDkzNTE4NzIsLTExOD
+A3OTk0NDUsLTQzODQ1NTI0MywtMTAzMzM4MzUxMCwxNDQ5Nzg3
+NDA3LC0xNDU0NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3MDQzMS
+w5Mjc5MTU4MzUsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NTA4
+OTU4NzAsMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
 -->
