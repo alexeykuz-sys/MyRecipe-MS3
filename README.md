@@ -72,7 +72,25 @@ The site owner has the following goals:
 Individuals interested to keep their recipes in digital form
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#user-goals)User goals:
-The users goal is to identify application allowing them to have access to the recipe any time an
+The users goal is to identify application allowing them to have access to the recipe any time anywhere.
+
+
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#user-stories)User Stories
+
+**- First Time Visitor Goals:**
+
+1.  As a visitor to the website, I want to easily understand the main purpose of the game.
+2.  As a visitor navigate through the game
+3.  As a visitor I want to have a clear rules, how to play.
+4.  As a visitor want an easy way to contact developer.
+5.  As a returning visitor to the website, I would like to have a choice of languages to learn or improve
+
+**- Returning Visitor Goals:**
+
+1.  Returning Visitor I would like to find more languages available and more difficulty levels.
+2.  Returning Visitor I would like to find social community links.
+
+**- Frequent Visitor Goals:**  1. Frequent Visitor i would like to see more challenges and alternative way of learning languages 2. Frequent Visitor I would like to see better way to interact with the game. 3. Frequent Visitor I would like to see competing board and possibility to compete with other players and friends.
 
 # Design Choices
 
@@ -221,9 +239,9 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MTcxMjI0LC00Mzg0NTUyNDMsLTEwMz
-MzODM1MTAsMTQ0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3
-OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0NzMsLT
-Q0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0
-MTU2MF19
+eyJoaXN0b3J5IjpbLTExODA3OTk0NDUsLTQzODQ1NTI0MywtMT
+AzMzM4MzUxMCwxNDQ5Nzg3NDA3LC0xNDU0NTgzNjk0LC00MDM4
+NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4MzUsLTg2MDI1MDQ3My
+wtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2ODk0MDA5MiwtOTQ4
+NjQxNTYwXX0=
 -->
