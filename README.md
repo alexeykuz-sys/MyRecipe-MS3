@@ -4,8 +4,7 @@ My Recipes is a recipe site of user's  favourite receipes. The recipes are added
 
 Build an interactive front-end website that responds to user actions and alters the way the site displays data/information.
 
-Required Technologies : HTML, CSS, JavaScript, Python+Flask, MongoDB. Optional: Include use of JQuery, other Javascript libraries and external APIs.
-
+Required Technologies : HTML, CSS, JavaScript, Python+Flask, MongoDB. 
 A live version of the site is available  [here.]()
 
 **Contents**
@@ -50,7 +49,7 @@ A live version of the site is available  [here.]()
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-development)UX Development
 
 My Recipe website will help users to have all their recipes  in one place, easily accessible.
-As user, I have always wanted to have a single point of access to all recipes my family has collected throuout the years, which are written on pieces of paper.
+As user, I have always wanted to have a single point of access to all recipes my family has collected throuout the years, which until now were written on pieces of paper.
 
 The primary goal of the website is to have easy access to recipes and preservance for the future.
 
@@ -221,8 +220,8 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTkyNzYxMjIsLTEwMzMzODM1MTAsMT
-Q0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3OTgyLDE5Nzcy
-NzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MC
-wxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbMTY5NDUwMDEzNCwtMTAzMzM4MzUxMCwxND
+Q5Nzg3NDA3LC0xNDU0NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3
+MDQzMSw5Mjc5MTU4MzUsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLD
+E2NTA4OTU4NzAsMjA2ODk0MDA5MiwtOTQ4NjQxNTYwXX0=
 -->
