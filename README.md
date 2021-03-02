@@ -74,7 +74,7 @@ Individuals interested to keep their recipes in digital form
 
 # [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#user-goals)User goals:
 
-Person interested to learn basics of the new language has to learn 300-600 words to be to travel and 1000 words to be able to converse; the users goals is to identify application allowing them to have access to the application teaching them the most common words used in any language. Therefore, i have used the most common words used in English language
+
 
 
 
@@ -168,7 +168,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTg2MDYxNiwtODYwMjUwNDczLC00ND
+eyJoaXN0b3J5IjpbMTc4MzYxNjIzNCwtODYwMjUwNDczLC00ND
 MxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05NDg2NDE1
 NjBdfQ==
 -->
