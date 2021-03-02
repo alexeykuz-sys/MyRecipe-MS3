@@ -50,11 +50,9 @@ A live version of the site is available  [here.]()
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-development)UX Development
 
 My Recipe website will help users to have all their recipes  in one place, easily accessible.
-As user, I have always wanted to have a single 
+As user, I have always wanted to have a single point of access to all recipes my family has collected throuout the years, which are written on pieces of paper.
 
-The primary goal of the website is to make learning fun and inspire users to return to the game, as they progress.
-
-Playing memory games can improve other brain functions, such as attention, concentration, and focus. Memory games give space to critical thinking and that helps children nurture their attention to detail. Memory games can improve visual recognition.
+The primary goal of the website is to have easy access to recipes and preservance for the future.
 
 # [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#project-goals)Project goals
 
@@ -173,5 +171,5 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU4MzMwNzcsLTk0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbLTM2ODQ4NzA0LC05NDg2NDE1NjBdfQ==
 -->
