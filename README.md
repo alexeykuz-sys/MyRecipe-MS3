@@ -100,7 +100,7 @@ and rgb(10, 105, 177);
 
 -   For body background: rgb(55, 149, 93).  [![Background](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/raw/master/assets/colors/green.jpeg)](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/blob/master/assets/colors/green.jpeg)
 
-# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#features-and-future-releases)Features and Future Releases
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)Features and Future Releases
 
 View my wireframes  [here](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/blob/master/WIREFRAMES.md). It's one-page website with a number of modal windows. I used JS to hide windows and information to make sure users are not distracted by excessive information on the page. I placed only fixed navigation bar with Logo and menu, linking user to the rules of the game and contact modal, and cards to play with.
 
@@ -114,7 +114,7 @@ Features to implement:
 -   To create virtual badges, stars and list of words learn during the session to measure the learning process.
 -   To add links to social media to enable users to share their achievements.
 
-# [](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2#technologies-used)Technologies Used
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)Technologies Used
 
 **UX/UI design**
 
@@ -228,7 +228,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTQ2NDk1LC04NjAyNTA0NzMsLTQ0Mz
+eyJoaXN0b3J5IjpbOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0Mz
 EzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2
 MF19
 -->
