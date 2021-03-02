@@ -77,6 +77,9 @@ Individuals interested to keep their recipes in digital form
 # Design Choices
 
 When designing website I took inspiration from various recipe websites like BBCGoodFood and AllRecipes. The website was adapted to fit user requirements. 
+The webpages consist of :
+1. Recipe Page - single page devided in two parts. Upper parts represents the hero imag with search bar.
+The bottom part is the section where all recipes are seen 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)Fonts
 
 I have used Google Fonts to determine the best fonts suitable for each part of the website, I.e. Logo, Menu and Body information.
@@ -227,7 +230,7 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5Mjg3NDksOTI3OTE1ODM1LC04NjAyNT
-A0NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIs
-LTk0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbNjE1NjE0NDM0LDkyNzkxNTgzNSwtODYwMj
+UwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDky
+LC05NDg2NDE1NjBdfQ==
 -->
