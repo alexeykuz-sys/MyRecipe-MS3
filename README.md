@@ -142,9 +142,9 @@ Features to implement:
 
 # Testing
 
-All-testing has been documented  [testing.md](https://github.com/jamie120/ms3-eat-vegan-recipes/blob/master/testing.md)
+All-testing has been documented  [testing.md]()
 
-Deployment
+# Deployment
 
 -   The site was developed in GitPod and pushed to the following remote GitHub repository -  []()
     -   The following GIT commands were used throughout deployment:
@@ -190,13 +190,7 @@ To run this code locally, you can clone this repository directly into the editor
 
 ##### [](https://github.com/jamie120/ms3-eat-vegan-recipes#for-more-information-regarding-cloning-of-a-repository-click-here)For more information regarding cloning of a repository click  [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-# [](https://github.com/jamie120/ms3-eat-vegan-recipes#credits)Credits
-
-## [](https://github.com/jamie120/ms3-eat-vegan-recipes#content)Content
-
-All the written content of the website has been written by myself.
-
-## [](https://github.com/jamie120/ms3-eat-vegan-recipes#media)Media
+# [](https://github.com/alexeukuzmyRecipe-MS3#credits)Credits
 
 ### [](https://github.com/jamie120/ms3-eat-vegan-recipes#images)Images
 
@@ -230,8 +224,8 @@ All other images were contributed from personal sources, of which no acknowledge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NzkxNzkxLC0xNDU0NTgzNjk0LC00MD
-M4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4MzUsLTg2MDI1MDQ3
-MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2ODk0MDA5MiwtOT
-Q4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbMjAwNTA4NTc4MiwtMTQ1NDU4MzY5NCwtND
+AzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0
+NzMsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLT
+k0ODY0MTU2MF19
 -->
