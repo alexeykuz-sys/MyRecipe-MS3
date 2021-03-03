@@ -1,37 +1,45 @@
 {% extends "base.html" %}
 {% block image %}
-<div class="image">
-        <div class="bg-img">
-            <img src="../static/images/bgimg.jpg" alt="food image">
-
-            <form action="{{ url_for('search') }}" method="post" class="search-box">
-                <div class="row  center-align">
-                    <div class="field-wrapper">
-                        <div class="input-field ">
-                            <i class="fas fa-search prefix light-blue-text text-darken-4"></i>
-                            <input type="text" name="query" id="query" style="color: #C0C0C0;" minlength="3" class="validate " required>
-                            <label for="query">Search Recipes</label>
-                        </div>
-                    
-                        <div class="valign-wrapper button-wrapper">
-                            <a href="{{ url_for('recipes') }}" class="red btn text-shadow">Reset</a>
-                            <button type="submit" class=" search-btn green accent-4 darken-1 btn text-shadow">
-                                Search
-                            </button>
-                        </div>
-                        </div>
+<div class="row">
+    <div class="con s12">
+        <div class="image">
+            <div class="bg-img">
+                <img src="../static/images/bgimg.jpg" alt="food image">
+                <div class="row">
+                    <div class="col s12">
+                        <form action="{{ url_for('search') }}" method="post" class="search-box">
+                            <div class=" center-align">
+                                <div class="field-wrapper">
+                                    <div class="input-field ">
+                                        <i class="fas fa-search prefix light-blue-text text-darken-4"></i>
+                                        <input type="text" name="query" id="query" style="color: #C0C0C0;" minlength="3" class="validate " required>
+                                        <label for="query">Search Recipes</label>
+                                    </div>
+                                
+                                    <div class="valign-wrapper button-wrapper">
+                                        <a href="{{ url_for('recipes') }}" class="red btn text-shadow">Reset</a>
+                                        <button type="submit" class=" search-btn green accent-4 darken-1 btn text-shadow">
+                                            Search
+                                        </button>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </form>
+                    </div>
                 </div>
-            </form>
+            </div>
         </div>
-    {% endblock image%}
     </div>
+</div>
+    {% endblock image%}
     {% block content %}
     <h1 class="center-align">Recipes</h1>
     <hr class="hr-recipes">
     <div class="food-wrapper center-align">
         <div>
-            <a href="{{ url_for('search_category', category_name='breakfast') }}">
-                <img src="/static/images/breakfast.png" alt="breakfast" >
+            <a href="{{ url_for('search_category', category_name='breakfast') }}" >
+                <img src="/static/images/breakfast.png">
                 <div class="breakfast">Breakfast</div>
             </a>
         </div>

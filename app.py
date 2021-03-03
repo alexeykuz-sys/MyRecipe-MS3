@@ -66,8 +66,7 @@ def search():
 def search_category():
     category = request.args.get("category_name")
     recipes = list(
-                mongo.db.recipes.find(
-                    {"category_name": category.lower()}))
+                mongo.db.recipes.find({"category_name": category}))
     return render_template("recipes.html", recipes=recipes, category=category)
 
 
@@ -186,6 +185,7 @@ def edit_recipe(recipe_id):
     categories = mongo.db.categories.find().sort("category_name", 1)
     return render_template(
         "edit_recipe.html", recipe=recipe, categories=categories)
+   
 
 
 @app.route("/delete_recipe/<recipe_id>")

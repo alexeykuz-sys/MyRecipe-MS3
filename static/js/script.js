@@ -66,36 +66,36 @@
 });
 
 
-const add_ingredient = document.getElementById('add_ingredient');
-function createIngredient(){
-    let card_panel = document.querySelector('.cooking-ingredients-1')
-//     console.log(card_panel)
-    counter = 2
-   let newDiv = document.createElement('div')
-    newDiv.className = 'cooking-ingredients-'+counter
-    // let inputDiv = document.createElement('div')
-    // inputDiv.className = 'input-field col s12'
-    let icon = document.createElement('i')
-    icon.className = 'material-icons prefix'
-    let textarea = document.createElement('textarea')
-    textarea.id = 'recipe_ingredients'
-    textarea.name = 'recipe_ingredients'
-    textarea.className = 'materialize-textarea'
-    // textarea.setAttribute(minlength="5" maxlength="500")
-    let label = document.createElement('label')
-    label.setAttribute('for', 'recrecipe_ingredients_description')
-    label.innerText = 'Cooking Ingredients'
-    newDiv.appendChild(label)
-    newDiv.appendChild(textarea)
-    newDiv.appendChild(icon)
-    // newDiv.appendChild(inputDiv)
-    // card_panel.appendChild(newDiv)
-    console.log(newDiv)
-    insertAfter(newDiv, card_panel.nextSibling)
-}
+// const add_ingredient = document.getElementById('add_ingredient');
+// function createIngredient(){
+//     let card_panel = document.querySelector('.cooking-ingredients-1')
+// //     console.log(card_panel)
+//     counter = 2
+//    let newDiv = document.createElement('div')
+//     newDiv.className = 'cooking-ingredients-'+counter
+//     // let inputDiv = document.createElement('div')
+//     // inputDiv.className = 'input-field col s12'
+//     let icon = document.createElement('i')
+//     icon.className = 'material-icons prefix'
+//     let textarea = document.createElement('textarea')
+//     textarea.id = 'recipe_ingredients'
+//     textarea.name = 'recipe_ingredients'
+//     textarea.className = 'materialize-textarea'
+//     // textarea.setAttribute(minlength="5" maxlength="500")
+//     let label = document.createElement('label')
+//     label.setAttribute('for', 'recrecipe_ingredients_description')
+//     label.innerText = 'Cooking Ingredients'
+//     newDiv.appendChild(label)
+//     newDiv.appendChild(textarea)
+//     newDiv.appendChild(icon)
+//     // newDiv.appendChild(inputDiv)
+//     // card_panel.appendChild(newDiv)
+//     console.log(newDiv)
+//     insertAfter(newDiv, card_panel.nextSibling)
+// }
 
-add_ingredient.addEventListener('click', createIngredient);
+// add_ingredient.addEventListener('click', createIngredient);
 
-function insertAfter(newNode, referenceNode) {
-    referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
-}
+// function insertAfter(newNode, referenceNode) {
+//     referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+// }
