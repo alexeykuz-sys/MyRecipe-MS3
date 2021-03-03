@@ -115,11 +115,9 @@ Icons used where provided by  [icons8](https://icons8.com/), used in moderation 
 
 The colours were determined by the pallet of Cooler website:
 
--   For navbar  [![navbar](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/raw/master/assets/colors/navbar.jpeg)](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/blob/master/assets/colors/navbar.jpeg)  I used linear gradient of rgb(5, 57, 97),
+-   For navbar #212121  [![navbar](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/blackColor.png?raw=true)](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/blackColor.png?raw=true)
 
-and rgb(10, 105, 177);
-
--   For body background: rgb(55, 149, 93).  [![Background](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/raw/master/assets/colors/green.jpeg)](https://github.com/alexeykuz-sys/LinguaGames-Project-MS2/blob/master/assets/colors/green.jpeg)
+-   For body background: #effafa.  [![Background](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png)](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png?raw=true)
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)Features and Future Releases
 
