@@ -22,28 +22,24 @@
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
-                        <i class="material-icons prefix"></i>
                         <input id="recipe_img_URL" name="recipe_img_URL" value="{{ recipe.recipe_img_URL }}" type="text" class="validate" required>
                         <label for="recipe_img_URL">Recipe Image URL</label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
-                        <i class="material-icons prefix"></i>
                         <input id="recipe_name" name="recipe_name" value="{{ recipe.recipe_name }}" type="text" class="validate" required>
                         <label for="recipe_name">Recipe Name</label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
-                        <i class="material-icons prefix"></i>
                         <input id="recipe_time" name="recipe_time" type="text" value="{{ recipe.recipe_time }}" class="validate" required>
                         <label for="recipe_time">Recipe Time</label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
-                        <i class="material-icons prefix"></i>
                         <input id="recipe_serving" name="recipe_serving" type="text" value="{{ recipe.recipe_serving }}" class="validate" required>
                         <label for="recipe_serving">Serving</label>
                     </div>
@@ -52,7 +48,6 @@
                     <div class="input-field col s12" id="ingredients">
                        
                         <div class="cooking-ingredients-1">
-                            <i class="material-icons prefix"></i>
                             <textarea id="recipe_ingredients" name="recipe_ingredients" minlength="5" maxlength="500"
                             class="materialize-textarea" required>
                             {{- recipe.recipe_ingredients -}}
@@ -69,7 +64,6 @@
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
-                        <i class="material-icons prefix"></i>
                         <textarea id="recipe_description" name="recipe_description" minlength="5" maxlength="1000"
                         class="materialize-textarea" required>
                         {{- recipe.recipe_description -}}

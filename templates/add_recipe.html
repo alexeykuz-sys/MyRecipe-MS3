@@ -7,7 +7,6 @@
         <form class="col s12" method="POST" action="{{url_for('add_recipe')}}">
             <div class="row">
                 <div class="input-field col s12">
-                    <i class="material-icons prefix"></i>
                     <select id="category_name" name="category_name" class="validate" required>
                         <option value="" disabled selected>Choose Category</option>
                         {% for category in categories %}
@@ -18,28 +17,24 @@
             </div>
              <div class="row">
                 <div class="input-field col s12">
-                    <i class="material-icons prefix"></i>
                     <input id="recipe_img_URL" name="recipe_img_URL" type="text" class="validate" required>
                     <label for="recipe_img_URL">Recipe Image URL</label>
                 </div>
             </div>
             <div class="row">
                 <div class="input-field col s12">
-                    <i class="material-icons prefix"></i>
                     <input id="recipe_name" name="recipe_name" type="text" class="validate"  minlength="5" maxlength="20" required>
                     <label for="recipe_name">Recipe Name</label>
                 </div>
             </div>
             <div class="row">
                 <div class="input-field col s12">
-                    <i class="material-icons prefix"></i>
                     <input id="recipe_time" name="recipe_time" type="text" class="validate" required>
                     <label for="recipe_time">Recipe Time</label>
                 </div>
             </div>
             <div class="row">
                 <div class="input-field col s12">
-                    <i class="material-icons prefix"></i>
                     <input id="recipe_serving" name="recipe_serving" type="text" class="validate" required>
                     <label for="recipe_serving">Serving</label>
                 </div>
@@ -47,7 +42,6 @@
              <div class="row ">
                 <div class="input-field col s12" id="ingredients">
                     <div class="cooking-ingredients-1">
-                        <i class="material-icons prefix"></i>
                         <textarea id="recipe_ingredients" name="recipe_ingredients" minlength="5" maxlength="500"
                         class="materialize-textarea" required></textarea>
                         <label for="recipe_ingredients">Cooking Ingredients</label>
@@ -61,7 +55,6 @@
             </div>
             <div class="row">
                 <div class="input-field col s12">
-                    <i class="material-icons prefix"></i>
                     <textarea id="recipe_description" name="recipe_description" minlength="5" maxlength="1000"
                     class="materialize-textarea" required></textarea>
                     <label for="recipe_description">Cooking Method</label>
