@@ -5,7 +5,7 @@ My Recipes is a recipe site of user's  favourite receipes. The recipes are added
 Build an interactive front-end website that responds to user actions and alters the way the site displays data/information.
 
 Required Technologies : HTML, CSS, JavaScript, Python+Flask, MongoDB. 
-A live version of the site is available  [here.]()
+A live version of the site is available  [here.](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/images/aimiresponsive.PNG)
 
 **Contents**
 
@@ -234,10 +234,10 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDAyNTU1NCw0MDM3MDgzODIsMTU0OT
-M1MTg3MiwtMTE4MDc5OTQ0NSwtNDM4NDU1MjQzLC0xMDMzMzgz
-NTEwLDE0NDk3ODc0MDcsLTE0NTQ1ODM2OTQsLTQwMzg0Nzk4Mi
-wxOTc3MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUwNDczLC00NDMx
-MzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05NDg2NDE1Nj
-BdfQ==
+eyJoaXN0b3J5IjpbNzI4NTg5ODE3LC0yNjAwMjU1NTQsNDAzNz
+A4MzgyLDE1NDkzNTE4NzIsLTExODA3OTk0NDUsLTQzODQ1NTI0
+MywtMTAzMzM4MzUxMCwxNDQ5Nzg3NDA3LC0xNDU0NTgzNjk0LC
+00MDM4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4MzUsLTg2MDI1
+MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2ODk0MDA5Mi
+wtOTQ4NjQxNTYwXX0=
 -->
