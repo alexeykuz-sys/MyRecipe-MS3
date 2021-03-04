@@ -160,7 +160,7 @@ First time visitor testing:
 - The page layout is simple and easy to navigate. It consist of basic colors, which do not distract visitors attention.
 - Navbar - Logo is clear and describes the purpose of the website. It has a link to home page. Navbar menu has three options: Recipes, Register and Log in leading user to the specific pages. Once loged in, use sees Menu options of Profile and Edit Recipes.
 - Footer - simple footer that has links to social media and website slogan.
-- 
+2. 
 
 # Deployment
 
@@ -239,11 +239,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTAyNTU0MCwyMTMzODg4NDUwLC0xMD
-gxMDg5OTYxLC0yNjM3NDc0ODAsNzI4NTg5ODE3LC0yNjAwMjU1
-NTQsNDAzNzA4MzgyLDE1NDkzNTE4NzIsLTExODA3OTk0NDUsLT
-QzODQ1NTI0MywtMTAzMzM4MzUxMCwxNDQ5Nzg3NDA3LC0xNDU0
-NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4Mz
-UsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2
-ODk0MDA5Ml19
+eyJoaXN0b3J5IjpbLTM3OTg5MzM5MywtNDcxMDI1NTQwLDIxMz
+M4ODg0NTAsLTEwODEwODk5NjEsLTI2Mzc0NzQ4MCw3Mjg1ODk4
+MTcsLTI2MDAyNTU1NCw0MDM3MDgzODIsMTU0OTM1MTg3MiwtMT
+E4MDc5OTQ0NSwtNDM4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3
+ODc0MDcsLTE0NTQ1ODM2OTQsLTQwMzg0Nzk4MiwxOTc3MjcwND
+MxLDkyNzkxNTgzNSwtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1
+MDg5NTg3MF19
 -->
