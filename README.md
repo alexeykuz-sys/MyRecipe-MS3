@@ -175,7 +175,7 @@ Hosting on Heroku
     1.  Set  **_debug=False_**  in the app.py file.
     2.  Created a requirements.txt file from the terminal, using  **_pip3 freeze --local > requirements.txt_**, to allow Heroku to detect this project as a python app and any required package dependencies.
     3.  Created a Procfile using  **_echo web: python app.py > Procfile_**  from the Gitpod terminal so Heroku would be informed on which file runs the app and how to run this project.
-    4.  Created a new Heroku app,  **??????**  and set its region to Europe.
+    4.  Created a new Heroku app,  **my-recipe-m3**  and set its region to Europe.
     5.  Automatic deployment was set up on Heroku - On the app dashboard, in the deploy menu. Connect to GitHub section. The GitHub repository was searched for and connected to the app.
     6.  In the settings tab on the app dashboard, 'Reveal Config Vars' was used to tell Heroku which variableS are required to run the app. The following config vars were added:
         -   **_IP_**
@@ -234,7 +234,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE2MDQ4NCwtMjYzNzQ3NDgwLDcyOD
+eyJoaXN0b3J5IjpbLTM2MjExMTMyOCwtMjYzNzQ3NDgwLDcyOD
 U4OTgxNywtMjYwMDI1NTU0LDQwMzcwODM4MiwxNTQ5MzUxODcy
 LC0xMTgwNzk5NDQ1LC00Mzg0NTUyNDMsLTEwMzMzODM1MTAsMT
 Q0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3OTgyLDE5Nzcy
