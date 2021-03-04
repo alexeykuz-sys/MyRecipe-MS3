@@ -159,7 +159,7 @@ All-testing has been documented  [testing.md]()
 
 # Deployment
 
--   The site was developed in GitPod and pushed to the following remote GitHub repository -  []()
+-   The site was developed in GitPod and pushed to the following remote GitHub repository -  [here](https://github.com/alexeykuz-sys/myRecipe-MS3)
     -   The following GIT commands were used throughout deployment:
         -   **git status**  ------ used to check the status of files and any changes made / untracked.
         -   **git add -A**  ------ to stage files ready to commit.
@@ -234,10 +234,10 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NTg5ODE3LC0yNjAwMjU1NTQsNDAzNz
-A4MzgyLDE1NDkzNTE4NzIsLTExODA3OTk0NDUsLTQzODQ1NTI0
-MywtMTAzMzM4MzUxMCwxNDQ5Nzg3NDA3LC0xNDU0NTgzNjk0LC
-00MDM4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4MzUsLTg2MDI1
-MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2ODk0MDA5Mi
-wtOTQ4NjQxNTYwXX0=
+eyJoaXN0b3J5IjpbLTI2Mzc0NzQ4MCw3Mjg1ODk4MTcsLTI2MD
+AyNTU1NCw0MDM3MDgzODIsMTU0OTM1MTg3MiwtMTE4MDc5OTQ0
+NSwtNDM4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLT
+E0NTQ1ODM2OTQsLTQwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkx
+NTgzNSwtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MC
+wyMDY4OTQwMDkyLC05NDg2NDE1NjBdfQ==
 -->
