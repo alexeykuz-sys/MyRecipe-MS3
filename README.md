@@ -187,7 +187,7 @@ Hosting on Heroku
     9.  Clicked the  **_Deploy Branch_**  button located in the  **_Deploy_**  section of Heroku to finally deploy this project.
     10.  Clicked the  **_View_**  button to launch this project's app.
     
-    -   The deployed site on Heroku will update automatically upon new commits to the master branch in the GitHub Repo :  [REPO]
+    -   The deployed site on Heroku will update automatically upon new commits to the master branch in the GitHub Repo :  [REPO](https://github.com/alexeykuz-sys/myRecipe-MS3)
     
 Cloning
 
@@ -196,7 +196,7 @@ To run this code locally, you can clone this repository directly into the editor
 1.  Open Terminal.
 2.  Change the current working directory to the location when you want the cloned directory.
 3.  Type the following into your Terminal:  
-    git clone  [insert link]()
+    git clone  [insert link](https://github.com/alexeykuz-sys/myRecipe-MS3)
 4.  Press Enter to create a local clone.
 
 -   To cut ties with this GitHub repository, type git remote rm origin into the terminal.
@@ -234,10 +234,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjExMTMyOCwtMjYzNzQ3NDgwLDcyOD
-U4OTgxNywtMjYwMDI1NTU0LDQwMzcwODM4MiwxNTQ5MzUxODcy
-LC0xMTgwNzk5NDQ1LC00Mzg0NTUyNDMsLTEwMzMzODM1MTAsMT
-Q0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3OTgyLDE5Nzcy
-NzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MC
-wxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2MF19
+eyJoaXN0b3J5IjpbLTEwODEwODk5NjEsLTI2Mzc0NzQ4MCw3Mj
+g1ODk4MTcsLTI2MDAyNTU1NCw0MDM3MDgzODIsMTU0OTM1MTg3
+MiwtMTE4MDc5OTQ0NSwtNDM4NDU1MjQzLC0xMDMzMzgzNTEwLD
+E0NDk3ODc0MDcsLTE0NTQ1ODM2OTQsLTQwMzg0Nzk4MiwxOTc3
+MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUwNDczLC00NDMxMzE3OT
+AsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05NDg2NDE1NjBdfQ==
+
 -->
