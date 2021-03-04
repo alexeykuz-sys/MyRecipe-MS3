@@ -168,7 +168,7 @@ All-testing has been documented  [testing.md]()
 
 Hosting on Heroku
 
--   This site is hosted using Heroku, deployed directly from the master branch via GitHub. -  [LIVE SITE]
+-   This site is hosted using Heroku, deployed directly from the master branch via GitHub. -  [LIVE SITE](https://my-recipe-ms3.herokuapp.com/)
     
     -   The following steps were taken to complete the hosting process.
     
@@ -234,10 +234,10 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mzc0NzQ4MCw3Mjg1ODk4MTcsLTI2MD
-AyNTU1NCw0MDM3MDgzODIsMTU0OTM1MTg3MiwtMTE4MDc5OTQ0
-NSwtNDM4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLT
-E0NTQ1ODM2OTQsLTQwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkx
-NTgzNSwtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1MDg5NTg3MC
-wyMDY4OTQwMDkyLC05NDg2NDE1NjBdfQ==
+eyJoaXN0b3J5IjpbLTExNzE2MDQ4NCwtMjYzNzQ3NDgwLDcyOD
+U4OTgxNywtMjYwMDI1NTU0LDQwMzcwODM4MiwxNTQ5MzUxODcy
+LC0xMTgwNzk5NDQ1LC00Mzg0NTUyNDMsLTEwMzMzODM1MTAsMT
+Q0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3OTgyLDE5Nzcy
+NzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0MzEzMTc5MC
+wxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0ODY0MTU2MF19
 -->
