@@ -157,7 +157,8 @@ Features to implement:
 
 First time visitor testing:
 1. Landing page.
-2. 
+- The page layout is simple and easy to navigate. It consist of basic colors, which do not distract visitors attention.
+- Navbar - Logo is clear and describes the purpose of the website. It has a link to home page. Navbar menu
 
 # Deployment
 
@@ -236,11 +237,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTk1NTA0NSwtMTA4MTA4OTk2MSwtMj
-YzNzQ3NDgwLDcyODU4OTgxNywtMjYwMDI1NTU0LDQwMzcwODM4
-MiwxNTQ5MzUxODcyLC0xMTgwNzk5NDQ1LC00Mzg0NTUyNDMsLT
-EwMzMzODM1MTAsMTQ0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAz
-ODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0Nz
-MsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0
-ODY0MTU2MF19
+eyJoaXN0b3J5IjpbLTEwOTE5Nzk4NjMsLTEwODEwODk5NjEsLT
+I2Mzc0NzQ4MCw3Mjg1ODk4MTcsLTI2MDAyNTU1NCw0MDM3MDgz
+ODIsMTU0OTM1MTg3MiwtMTE4MDc5OTQ0NSwtNDM4NDU1MjQzLC
+0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLTE0NTQ1ODM2OTQsLTQw
+Mzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNSwtODYwMjUwND
+czLC00NDMxMzE3OTAsMTY1MDg5NTg3MCwyMDY4OTQwMDkyLC05
+NDg2NDE1NjBdfQ==
 -->
