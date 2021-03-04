@@ -158,7 +158,8 @@ Features to implement:
 First time visitor testing:
 1. Landing page.
 - The page layout is simple and easy to navigate. It consist of basic colors, which do not distract visitors attention.
-- Navbar - Logo is clear and describes the purpose of the website. It has a link to home page. Navbar menu has three options: Recipes, Register and Log in leading user to the specific pages. 
+- Navbar - Logo is clear and describes the purpose of the website. It has a link to home page. Navbar menu has three options: Recipes, Register and Log in leading user to the specific pages. Once loged in, use sees Menu options of Profile and Edit Recipes.
+- Footer - simple footer that has li
 
 # Deployment
 
@@ -237,11 +238,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzg4ODQ1MCwtMTA4MTA4OTk2MSwtMj
-YzNzQ3NDgwLDcyODU4OTgxNywtMjYwMDI1NTU0LDQwMzcwODM4
-MiwxNTQ5MzUxODcyLC0xMTgwNzk5NDQ1LC00Mzg0NTUyNDMsLT
-EwMzMzODM1MTAsMTQ0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAz
-ODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0Nz
-MsLTQ0MzEzMTc5MCwxNjUwODk1ODcwLDIwNjg5NDAwOTIsLTk0
-ODY0MTU2MF19
+eyJoaXN0b3J5IjpbMTIwNDc1MjEwNywyMTMzODg4NDUwLC0xMD
+gxMDg5OTYxLC0yNjM3NDc0ODAsNzI4NTg5ODE3LC0yNjAwMjU1
+NTQsNDAzNzA4MzgyLDE1NDkzNTE4NzIsLTExODA3OTk0NDUsLT
+QzODQ1NTI0MywtMTAzMzM4MzUxMCwxNDQ5Nzg3NDA3LC0xNDU0
+NTgzNjk0LC00MDM4NDc5ODIsMTk3NzI3MDQzMSw5Mjc5MTU4Mz
+UsLTg2MDI1MDQ3MywtNDQzMTMxNzkwLDE2NTA4OTU4NzAsMjA2
+ODk0MDA5Ml19
 -->
