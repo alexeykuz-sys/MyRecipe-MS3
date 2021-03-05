@@ -163,7 +163,7 @@ First time visitor testing:
 2. LogIn and /LogOut pages allowed user to log in/out with required fields input min amount of text. if user put a wrong username or password, user gets specific notifcation on the screen.
 3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbols, they get a warning notification. If username already exist, user gets a warning notification.
 4. Profile page -once user has successfully loged in, user is redirected to profile page. Profile page will be set up in the future development of the app.
-5. Log in users have access to menu items only visible to loged in users - New Recipes.  
+5. Log in users have access to menu items only visible to loged in users - New Recipes.  The page contains the form which user has to fill in. once user finished and pressed the add button, user receives n
 
 # Deployment
 
@@ -242,7 +242,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDcyNDM1MywtMTA0Nzg4MDk0MSwtND
+eyJoaXN0b3J5IjpbLTQ4NDYzMjQyMiwtMTA0Nzg4MDk0MSwtND
 E0OTAwMzg3LDEzNTc4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0
 MzU2LC0zNzk4OTMzOTMsLTQ3MTAyNTU0MCwyMTMzODg4NDUwLC
 0xMDgxMDg5OTYxLC0yNjM3NDc0ODAsNzI4NTg5ODE3LC0yNjAw
