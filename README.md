@@ -162,7 +162,7 @@ First time visitor testing:
 - Footer - simple footer that has links to social media and website slogan. All links open correct pages.
 2. LogIn and /LogOut pages allowed user to log in/out with required fields input min amount of text. if user put a wrong username or password, user gets specific notifcation on the screen.
 3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbols, they get a warning notification. If username already exist, user gets a warning notification.
-4. 
+4. Profile page -once
 
 # Deployment
 
@@ -241,11 +241,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMz
-c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
-OTk2MSwtMjYzNzQ3NDgwLDcyODU4OTgxNywtMjYwMDI1NTU0LD
-QwMzcwODM4MiwxNTQ5MzUxODcyLC0xMTgwNzk5NDQ1LC00Mzg0
-NTUyNDMsLTEwMzMzODM1MTAsMTQ0OTc4NzQwNywtMTQ1NDU4Mz
-Y5NCwtNDAzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04
-NjAyNTA0NzNdfQ==
+eyJoaXN0b3J5IjpbMzUzNzY0MTQsLTEyMzUyODM1MTAsLTM2Mj
+ExNDM1NiwtMzc5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1
+MCwtMTA4MTA4OTk2MSwtMjYzNzQ3NDgwLDcyODU4OTgxNywtMj
+YwMDI1NTU0LDQwMzcwODM4MiwxNTQ5MzUxODcyLC0xMTgwNzk5
+NDQ1LC00Mzg0NTUyNDMsLTEwMzMzODM1MTAsMTQ0OTc4NzQwNy
+wtMTQ1NDU4MzY5NCwtNDAzODQ3OTgyLDE5NzcyNzA0MzEsOTI3
+OTE1ODM1XX0=
 -->
