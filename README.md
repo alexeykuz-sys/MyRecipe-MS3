@@ -160,7 +160,8 @@ First time visitor testing:
 - The page layout is simple and easy to navigate. It consist of basic colors, which do not distract visitors attention.
 - Navbar - Logo is clear and describes the purpose of the website. It has a link to home page. Navbar menu has three options: Recipes, Register and Log in leading user to the specific pages. Once loged in, use sees Menu options of Profile and Edit Recipes.
 - Footer - simple footer that has links to social media and website slogan. All links open correct pages.
-2. LogIn and /LogOut pages allowed user to log in/out with required fields input min amount of text. if user put a wrong username or password, user gets specific notifcation on the screem
+2. LogIn and /LogOut pages allowed user to log in/out with required fields input min amount of text. if user put a wrong username or password, user gets specific notifcation on the screen.
+3. Register page - 
 
 # Deployment
 
@@ -239,7 +240,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMjc4OTQzLC0zNjIxMTQzNTYsLTM3OT
+eyJoaXN0b3J5IjpbLTQ4NTA4ODg0LC0zNjIxMTQzNTYsLTM3OT
 g5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLTEwODEwODk5
 NjEsLTI2Mzc0NzQ4MCw3Mjg1ODk4MTcsLTI2MDAyNTU1NCw0MD
 M3MDgzODIsMTU0OTM1MTg3MiwtMTE4MDc5OTQ0NSwtNDM4NDU1
