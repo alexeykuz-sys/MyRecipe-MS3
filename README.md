@@ -161,7 +161,7 @@ First time visitor testing:
 - Navbar - Logo is clear and describes the purpose of the website. It has a link to home page. Navbar menu has three options: Recipes, Register and Log in leading user to the specific pages. Once loged in, use sees Menu options of Profile and Edit Recipes.
 - Footer - simple footer that has links to social media and website slogan. All links open correct pages.
 2. LogIn and /LogOut pages allowed user to log in/out with required fields input min amount of text. if user put a wrong username or password, user gets specific notifcation on the screen.
-3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbo
+3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbols, they get warning notification. If username already exist, user gets warning notification.
 
 # Deployment
 
@@ -240,11 +240,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEyOTM2NDUsLTM2MjExNDM1NiwtMz
-c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
-OTk2MSwtMjYzNzQ3NDgwLDcyODU4OTgxNywtMjYwMDI1NTU0LD
-QwMzcwODM4MiwxNTQ5MzUxODcyLC0xMTgwNzk5NDQ1LC00Mzg0
-NTUyNDMsLTEwMzMzODM1MTAsMTQ0OTc4NzQwNywtMTQ1NDU4Mz
-Y5NCwtNDAzODQ3OTgyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04
-NjAyNTA0NzNdfQ==
+eyJoaXN0b3J5IjpbNTkzNjEyODYyLC0zNjIxMTQzNTYsLTM3OT
+g5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLTEwODEwODk5
+NjEsLTI2Mzc0NzQ4MCw3Mjg1ODk4MTcsLTI2MDAyNTU1NCw0MD
+M3MDgzODIsMTU0OTM1MTg3MiwtMTE4MDc5OTQ0NSwtNDM4NDU1
+MjQzLC0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLTE0NTQ1ODM2OT
+QsLTQwMzg0Nzk4MiwxOTc3MjcwNDMxLDkyNzkxNTgzNSwtODYw
+MjUwNDczXX0=
 -->
