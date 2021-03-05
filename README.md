@@ -149,7 +149,7 @@ Features to implement:
 -   [Canva](https://canva.com/)
 -   [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 -   [MongoDB](https://www.mongodb.com/)
--  [Herku](https://www.heroku.com/)
+-  [Heroku](https://www.heroku.com/)
 
 
 
@@ -159,8 +159,12 @@ First time visitor testing:
 1. Landing page.
 - The page layout is simple and easy to navigate. It consist of basic colors, which do not distract visitors attention.
 - Navbar - Logo is clear and describes the purpose of the website. It has a link to home page. Navbar menu has three options: Recipes, Register and Log in leading user to the specific pages. Once loged in, use sees Menu options of Profile and Edit Recipes.
-- Footer - simple footer that has links to social media and website slogan.
-2. 
+- Footer - simple footer that has links to social media and website slogan. All links open correct pages.
+2. LogIn and /LogOut pages allowed user to log in/out with required fields input min amount of text. if user put a wrong username or password, user gets specific notifcation on the screen.
+3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbols, they get a warning notification. If username already exist, user gets a warning notification.
+4. Profile page -once user has successfully loged in, user is redirected to profile page. Profile page will be set up in the future development of the app.
+5. Log in users have access to menu items only visible to loged in users - New Recipes.  The page contains the form which user has to fill in. once user finished and pressed the add button, user receives flash message of success and redirected to recipe page.
+6. Log in users also gain access to Edit and Delete buttons in get recipe page.
 
 # Deployment
 
@@ -239,11 +243,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTg5MzM5MywtNDcxMDI1NTQwLDIxMz
-M4ODg0NTAsLTEwODEwODk5NjEsLTI2Mzc0NzQ4MCw3Mjg1ODk4
-MTcsLTI2MDAyNTU1NCw0MDM3MDgzODIsMTU0OTM1MTg3MiwtMT
-E4MDc5OTQ0NSwtNDM4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3
-ODc0MDcsLTE0NTQ1ODM2OTQsLTQwMzg0Nzk4MiwxOTc3MjcwND
-MxLDkyNzkxNTgzNSwtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1
-MDg5NTg3MF19
+eyJoaXN0b3J5IjpbLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MT
+Q5MDAzODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQz
+NTYsLTM3OTg5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLT
+EwODEwODk5NjEsLTI2Mzc0NzQ4MCw3Mjg1ODk4MTcsLTI2MDAy
+NTU1NCw0MDM3MDgzODIsMTU0OTM1MTg3MiwtMTE4MDc5OTQ0NS
+wtNDM4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLTE0
+NTQ1ODM2OTRdfQ==
 -->
