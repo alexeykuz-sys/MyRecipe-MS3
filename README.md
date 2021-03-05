@@ -163,7 +163,7 @@ First time visitor testing:
 2. LogIn and /LogOut pages allowed user to log in/out with required fields input min amount of text. if user put a wrong username or password, user gets specific notifcation on the screen.
 3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbols, they get a warning notification. If username already exist, user gets a warning notification.
 4. Profile page -once user has successfully loged in, user is redirected to profile page. Profile page will be set up in the future development of the app.
-5. Log in users have access to menu items only visible to loged in users. New
+5. Log in users have access to menu items only visible to loged in users - New Recipes. 
 
 # Deployment
 
@@ -242,11 +242,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzM1NzA0MywtNDE0OTAwMzg3LDEzNT
-c4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNzk4OTMz
-OTMsLTQ3MTAyNTU0MCwyMTMzODg4NDUwLC0xMDgxMDg5OTYxLC
-0yNjM3NDc0ODAsNzI4NTg5ODE3LC0yNjAwMjU1NTQsNDAzNzA4
-MzgyLDE1NDkzNTE4NzIsLTExODA3OTk0NDUsLTQzODQ1NTI0My
-wtMTAzMzM4MzUxMCwxNDQ5Nzg3NDA3LC0xNDU0NTgzNjk0LC00
-MDM4NDc5ODJdfQ==
+eyJoaXN0b3J5IjpbLTEwNDc4ODA5NDEsLTQxNDkwMDM4NywxMz
+U3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMzc5ODkz
+MzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4OTk2MS
+wtMjYzNzQ3NDgwLDcyODU4OTgxNywtMjYwMDI1NTU0LDQwMzcw
+ODM4MiwxNTQ5MzUxODcyLC0xMTgwNzk5NDQ1LC00Mzg0NTUyND
+MsLTEwMzMzODM1MTAsMTQ0OTc4NzQwNywtMTQ1NDU4MzY5NCwt
+NDAzODQ3OTgyXX0=
 -->
