@@ -149,7 +149,7 @@ Features to implement:
 -   [Canva](https://canva.com/)
 -   [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 -   [MongoDB](https://www.mongodb.com/)
--  [Herku](https://www.heroku.com/)
+-  [Heroku](https://www.heroku.com/)
 
 
 
@@ -239,11 +239,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTg5MzM5MywtNDcxMDI1NTQwLDIxMz
-M4ODg0NTAsLTEwODEwODk5NjEsLTI2Mzc0NzQ4MCw3Mjg1ODk4
-MTcsLTI2MDAyNTU1NCw0MDM3MDgzODIsMTU0OTM1MTg3MiwtMT
-E4MDc5OTQ0NSwtNDM4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3
-ODc0MDcsLTE0NTQ1ODM2OTQsLTQwMzg0Nzk4MiwxOTc3MjcwND
-MxLDkyNzkxNTgzNSwtODYwMjUwNDczLC00NDMxMzE3OTAsMTY1
-MDg5NTg3MF19
+eyJoaXN0b3J5IjpbLTM2MjExNDM1NiwtMzc5ODkzMzkzLC00Nz
+EwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4OTk2MSwtMjYzNzQ3
+NDgwLDcyODU4OTgxNywtMjYwMDI1NTU0LDQwMzcwODM4MiwxNT
+Q5MzUxODcyLC0xMTgwNzk5NDQ1LC00Mzg0NTUyNDMsLTEwMzMz
+ODM1MTAsMTQ0OTc4NzQwNywtMTQ1NDU4MzY5NCwtNDAzODQ3OT
+gyLDE5NzcyNzA0MzEsOTI3OTE1ODM1LC04NjAyNTA0NzMsLTQ0
+MzEzMTc5MF19
 -->
