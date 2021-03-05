@@ -1,96 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
-    integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" type="text/css">
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" type="text/css">
-     <link rel="stylesheet" href="{{url_for('static', filename = 'css/style.css')}}" type="text/css">
-     {% block styles%}
-     {% endblock %}
+        integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
+        crossorigin="anonymous" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+        type="text/css">
+    <link rel="stylesheet" href="{{url_for('static', filename = 'css/style.css')}}" type="text/css">
+    {% block styles%}
+    {% endblock %}
     <title>My Recipe</title>
 </head>
+
 <body>
     <header>
-        
+
         <!-- top navbar -->
         <nav class="nav-extended grey darken-4">
             <div class="nav-wrapper">
-            <a href="{{url_for('recipes')}}" class="brand-logo left"><img src="/static/images/myRecipeLogo.png" alt="logo name"></a>
-            <a href="#" data-target="mobile-demo" class="sidenav-trigger right"><i class="fas fa-bars"></i></a>
-            <ul class="right hide-on-med-and-down">
+                <a href="{{url_for('recipes')}}" class="brand-logo left"><img src="/static/images/myRecipeLogo.png"
+                        alt="logo name"></a>
+                <a href="#" data-target="mobile-demo" class="sidenav-trigger right"><i class="fas fa-bars"></i></a>
+                <ul class="right hide-on-med-and-down">
                     <li><a href="{{url_for('recipes')}}">Recipes</a></li>
-                {% if session.user %}
+                    {% if session.user %}
                     <li><a href="{{url_for('profile', username=session['user']) }}">Profile</a></li>
                     <li><a href="{{url_for('add_recipe')}}">New Recipe</a></li>
                     <li><a href="{{url_for('logout')}}">Log Out</a></li>
-                {% else %}
+                    {% else %}
                     <li><a href="{{url_for('login')}}">Log In</a></li>
                     <li><a href="{{url_for('register')}}">Register</a></li>
-                {% endif %}
-            </ul>
+                    {% endif %}
+                </ul>
             </div>
         </nav>
         <!-- mobile side navbar -->
         <ul class="sidenav grey darken-4 " id="mobile-demo">
-                    <li><a href="{{url_for('recipes')}}">Recipes</a></li>
-                {% if session.user %}
-                    <li><a href="{{url_for('profile', username=session['user']) }}">Profile</a></li>
-                    <li><a href="{{url_for('add_recipe')}}">New Recipe</a></li>
-                    <li><a href="{{url_for('logout')}}">Log Out</a></li>
-                {% else %}
-                    <li><a href="{{url_for('login')}}">Log In</a></li>
-                    <li><a href="{{url_for('register')}}">Register</a></li>
-                {% endif %}
+            <li><a href="{{url_for('recipes')}}">Recipes</a></li>
+            {% if session.user %}
+            <li><a href="{{url_for('profile', username=session['user']) }}">Profile</a></li>
+            <li><a href="{{url_for('add_recipe')}}">New Recipe</a></li>
+            <li><a href="{{url_for('logout')}}">Log Out</a></li>
+            {% else %}
+            <li><a href="{{url_for('login')}}">Log In</a></li>
+            <li><a href="{{url_for('register')}}">Register</a></li>
+            {% endif %}
         </ul>
     </header>
-   
+
     <section>
         <!-- flash message -->
         {% with messages = get_flashed_messages() %}
-            {% if messages %}
-                {% for message in messages %}
-                <div class="row flashes">
-                    <h4 class="center-align">{{ message }}</h4>
-                </div>
-                {% endfor %}
-            {% endif %}
+        {% if messages %}
+        {% for message in messages %}
+        <div class="row flashes">
+            <h4 class="center-align">{{ message }}</h4>
+        </div>
+        {% endfor %}
+        {% endif %}
         {% endwith %}
     </section>
     <div class="container-fluid">
-     {% block image %}
-     {% endblock image %}
+        {% block image %}
+        {% endblock image %}
 
-    
+
     </div>
 
     <div class="container">
-    {% block content %}
+        {% block content %}
 
-    
-    {% endblock %}
+
+        {% endblock %}
     </div>
     <div class="container-fluid">
         <div class="row">
-                <footer class="page-footer grey darken-4">
-                    <div class="col s12 social-icons ">
-                        <div class="footer-text">
+            <footer class="page-footer grey darken-4">
+                <div class="col s12 social-icons ">
+                    <div class="footer-text">
                         <h5 class="white-text">My Recipes</h5>
                         <p class="grey-text text-lighten-4">The way YOU cook.</p>
-                        </div>
-                        <a href="https://www.facebook.com" target="_blank"><img src="/static/images/facebook.png" alt="facebook icon" ></a>
-                        <a href="https://www.instagram.com" target="_blank"><img src="/static/images/instagram.png" alt="instagram icon"></a>
-                        <a href="https://twitter.com/?lang=en-gb" target="_blank"><img src="/static/images/twitter.png" alt="twitter icon"></a>
                     </div>
-                </footer>
+                    <a href="https://www.facebook.com" target="_blank"><img src="/static/images/facebook.png"
+                            alt="facebook icon"></a>
+                    <a href="https://www.instagram.com" target="_blank"><img src="/static/images/instagram.png"
+                            alt="instagram icon"></a>
+                    <a href="https://twitter.com/?lang=en-gb" target="_blank"><img src="/static/images/twitter.png"
+                            alt="twitter icon"></a>
                 </div>
-            </div>
+            </footer>
+        </div>
+    </div>
 
-            
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script src="{{url_for('static', filename='js/script.js')}}"></script>
-  {% block scripts%}
+    {% block scripts%}
     {% endblock %}
 </body>
+
 </html>

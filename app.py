@@ -45,8 +45,16 @@ def page_note_found(e):
 @app.route("/")
 @app.route("/recipes")
 def recipes():
-    recipes = list(mongo.db.recipes.find())
-    return render_template("recipes.html", recipes=recipes)
+    query = request.args.get("query")
+    category = request.args.get("category")
+    if query:
+        recipes = list(mongo.db.recipes.find({"$text": {"$search": query}}))
+    elif category:
+        recipes = list(
+            mongo.db.recipes.find({"category_name": category}))
+    else:
+        recipes = list(mongo.db.recipes.find())
+    return render_template("recipes.html", query=query, recipes=recipes)
 
 
 @app.route("/get_recipe/<recipe_id>", methods=["GET", "POST"])
@@ -60,14 +68,6 @@ def search():
     query = request.form.get("query")
     recipes = list(mongo.db.recipes.find({"$text": {"$search": query}}))
     return render_template("recipes.html", recipes=recipes)
-
-
-@app.route("/search_category", methods=["GET", "POST"])
-def search_category():
-    category = request.args.get("category_name")
-    recipes = list(
-                mongo.db.recipes.find({"category_name": category}))
-    return render_template("recipes.html", recipes=recipes, category=category)
 
 
 @app.route("/register", methods=["GET", "POST"])
