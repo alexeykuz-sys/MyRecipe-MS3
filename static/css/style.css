@@ -27,6 +27,10 @@ nav.nav-extended .nav-wrapper {
     margin-right: 40px;
 }
 
+nav.nav-extended {
+    height: 64px;
+}
+
 nav a img {
     width:64px;
     height:62px;
@@ -200,8 +204,8 @@ nav a img {
 
 
 .recipe-image img{
-    
-    height: 100%;
+    background-size: 100%;
+    height: 400px;
 }
 
 .ingredients-content {
