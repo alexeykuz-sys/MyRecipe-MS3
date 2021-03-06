@@ -5,9 +5,8 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col s12">
-            <div class="recipe-image">
+            <div class="recipe-image center-align">
                 {% if recipes.recipe_img_URL  %}
-                    <!-- <img src="{{ recipes.recipe_img_URL }}"> -->
                     <img src="{{recipes.recipe_img_URL}}" onerror="this.src='../static/images/bgimg.jpg';">
                 {% else %}
                     <img src="../static/images/bgimg.jpg">

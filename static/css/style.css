@@ -53,13 +53,13 @@ nav a img {
 
 .bg-img img {
     width: 100%;
-    height: 80%;
+    height: 50%;
+    background-attachment: local ;
+    background-repeat: no-repeat;
+    background-size: 70%;
 }
 .search-box {
-    position: absolute;
-     top: 50%;
-    left: 70%;
-    transform: translate(-50%, -50%);
+    margin:30px;
 }
 
 .search-btn {
@@ -82,6 +82,9 @@ nav a img {
     border-radius: 10px;
 }
 
+.slogan{
+    margin-top: 2px;
+}
 
 .food-wrapper {
     display: flex;
@@ -197,7 +200,8 @@ nav a img {
 
 
 .recipe-image img{
-    width: 100%;
+    
+    height: 100%;
 }
 
 .ingredients-content {

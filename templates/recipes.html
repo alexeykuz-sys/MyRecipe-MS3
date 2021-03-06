@@ -4,85 +4,87 @@
     <div class="con s12">
         <div class="image">
             <div class="bg-img">
-                <img src="../static/images/bgimg.jpg" alt="food image">
-                <div class="row">
-                    <div class="col s12">
-                        <form action="{{ url_for('recipes') }}" method="get" class="search-box">
-                            <div class=" center-align">
-                                <div class="field-wrapper">
-                                    <div class="input-field ">
-                                        <i class="fas fa-search prefix light-blue-text text-darken-4"></i>
-                                        <input type="text" name="query" value="{{ query if query else ''}}" id="query" style="color: #C0C0C0;" minlength="3" class="validate " required>
-                                        <label for="query">Search Recipes</label>
-                                    </div>
-                                
-                                    <div class="valign-wrapper button-wrapper">
-                                        <a href="{{ url_for('recipes') }}" class="red btn text-shadow">Reset</a>
-                                        <button type="submit" class=" search-btn green accent-4 darken-1 btn text-shadow">
-                                            Search
-                                        </button>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
+                <img src="../static/images/bgimg4.jpg" alt="food image">
+                
+            </div> 
         </div>
     </div>
 </div>
-    {% endblock image%}
-    {% block content %}
-    <h1 class="center-align">Recipes</h1>
+{% endblock image%}
+{% block content %}
+<div class="recipe-wrapper">
+    <h1 class="center-align slogan ">Recipes</h1>
     <hr class="hr-recipes">
     <div class="food-wrapper center-align">
         <div>
-            <a href="{{ url_for('recipes', category='breakfast') }}" >
+            <a href="{{ url_for('recipes', category='breakfast') }}">
                 <img src="/static/images/breakfast.png">
                 <div class="breakfast">Breakfast</div>
             </a>
         </div>
         <div>
             <a href="{{ url_for('recipes', category='lunch') }}">
-                <img src="/static/images/lunch.png" alt="lunch" >
+                <img src="/static/images/lunch.png" alt="lunch">
                 <div class="lunch">Lunch</div>
             </a>
         </div>
         <div>
             <a href="{{ url_for('recipes', category='dinner') }}">
-                <img src="/static/images/dinner.png" alt="dinner" >
+                <img src="/static/images/dinner.png" alt="dinner">
                 <div class="dinner">Dinner</div>
             </a>
         </div>
     </div>
     <hr class="hr-recipes">
     <div class="row">
-        {% for recipe in recipes %} 
-            <div class="col s12 m4">
-                <a href="{{ url_for('get_recipe', recipe_id=recipe._id) }}">
-                    <div class="card hoverable">
-                        <div class="card-image">
-                            {% if recipe.recipe_img_URL  %}
-                            <img src="{{recipe.recipe_img_URL}}" onerror="this.src='../static/images/bgimg.jpg';">
-                            {% else %}
-                            <img src="../static/images/bgimg.jpg">
-                            {% endif %}
-                            
+        <div class="col s12 m8 offset-m2">
+            <form action="{{ url_for('recipes') }}" method="get" class="search-box">
+                <div class=" center-align">
+                    <div class="field-wrapper">
+                        <div class="input-field ">
+                            <i class="fas fa-search prefix light-blue-text text-darken-4"></i>
+                            <input type="text" name="query" value="{{ query if query else ''}}" id="query"
+                                style="color: #C0C0C0;" minlength="3" class="validate " required>
+                            <label for="query">Search Recipes</label>
                         </div>
-                        <p class="card-content">{{recipe.recipe_name }}</p>
-                        <!-- <div >
-                        </div> -->
-                        <div class="card-details">
-                            <p class="cook-time">Cook Time<span class="card-span">{{recipe.recipe_time }}</span></p>
-                            <p class="servings">Serves<span class="card-span">{{recipe.recipe_serving }}</span></p>
-                            <!-- <p><em>by:{{recipe.created_by}}</em></p> -->
+
+                        <div class="valign-wrapper button-wrapper">
+                            <a href="{{ url_for('recipes') }}" class="red btn text-shadow">Reset</a>
+                            <button type="submit" class=" search-btn green accent-4 darken-1 btn text-shadow">
+                                Search
+                            </button>
                         </div>
                     </div>
-                </a>
-            </div>
-        {% endfor %}
-    </div>
-{% endblock %}   
-            
 
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="row">
+    {% for recipe in recipes %}
+    <div class="col s12 m4">
+        <a href="{{ url_for('get_recipe', recipe_id=recipe._id) }}">
+            <div class="card hoverable">
+                <div class="card-image">
+                    {% if recipe.recipe_img_URL  %}
+                    <img src="{{recipe.recipe_img_URL}}" onerror="this.src='../static/images/bgimg.jpg';">
+                    {% else %}
+                    <img src="../static/images/bgimg.jpg">
+                    {% endif %}
+
+                </div>
+                <p class="card-content">{{recipe.recipe_name }}</p>
+                <!-- <div >
+                        </div> -->
+                <div class="card-details">
+                    <p class="cook-time">Cook Time<span class="card-span">{{recipe.recipe_time }}</span></p>
+                    <p class="servings">Serves<span class="card-span">{{recipe.recipe_serving }}</span></p>
+                    <!-- <p><em>by:{{recipe.created_by}}</em></p> -->
+                </div>
+            </div>
+        </a>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
