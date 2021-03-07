@@ -65,16 +65,31 @@
     }
 });
 
-var deleteLinks = document.querySelectorAll('.delete-btn');
+// var deleteLinks = document.querySelectorAll('.delete-btn');
 
-for (var i = 0; i < deleteLinks.length; i++) {
-  deleteLinks[i].addEventListener('click', function(event) {
-      event.preventDefault();
+// for (var i = 0; i < deleteLinks.length; i++) {
+//   deleteLinks[i].addEventListener('click', function(event) {
+//       event.preventDefault();
 
-      var choice = confirm(this.getAttribute('data-confirm'));
+//       var choice = confirm(this.getAttribute('data-confirm'));
 
-      if (choice) {
-        window.location.href = this.getAttribute('href');
-      }
-  });
+//       if (choice) {
+//         window.location.href = this.getAttribute('href');
+//       }
+//   });
+// }
+
+var modalBtn = document.getElementById('modal-btn');
+var modalCloseBtn = document.getElementById('modal-close');
+var modal = document.querySelector('.modal-delete');
+
+function modalHandler(){
+    modal.classList.add('show')
 }
+modalBtn.addEventListener('click', modalHandler);
+
+
+function modalClose(){
+    modal.classList.remove('show');
+}
+modalCloseBtn.addEventListener('click', modalClose);
