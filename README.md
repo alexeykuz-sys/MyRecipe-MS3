@@ -161,7 +161,7 @@ Features to implement:
 All functions were tested for different screen sizes.
 
 Once website loaded, user sees the hero image, underneath which there is search section and then all recipes section.
-Search section allows user to search recipes.  
+Search section allows user to search recipes. I input a word in search and pressed search. If such word exist in recipes, the recipe will be shown on the screen underneath. The search word remains seen in search form.  
 
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
@@ -252,11 +252,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjkwODUwOSwyNDU1MDI0NDIsLTU2Nz
-c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
-LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
-UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
-NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMz
-c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
-OTk2MV19
+eyJoaXN0b3J5IjpbNTA1OTc3MDQ3LDI0NTUwMjQ0MiwtNTY3Nz
+Y2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjIs
+LTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NT
+AzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3
+LDEzNTc4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNz
+k4OTMzOTMsLTQ3MTAyNTU0MCwyMTMzODg4NDUwLC0xMDgxMDg5
+OTYxXX0=
 -->
