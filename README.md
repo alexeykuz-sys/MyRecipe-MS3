@@ -160,7 +160,8 @@ Features to implement:
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing)Manual Testing
 All functions were tested for different screen sizes.
 
-L
+Once website loaded, user sees the hero image, underneath which there is search section and then all recipes section.
+Search section allows user to search recipes.  
 
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
@@ -251,7 +252,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzg2NDYzOCwyNDU1MDI0NDIsLTU2Nz
+eyJoaXN0b3J5IjpbLTkzNjkwODUwOSwyNDU1MDI0NDIsLTU2Nz
 c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
 LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
 UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
