@@ -84,7 +84,7 @@ nav a img {
 }
 
 .slogan{
-    margin-top: 2px;
+    margin-top: 0;
 }
 
 .food-wrapper {
@@ -113,8 +113,6 @@ nav a img {
 }
 
 .card-content {
-    /* text-align: center;
-    position: absolute; */
    
     text-align: center;
 }

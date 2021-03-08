@@ -4,7 +4,7 @@
     <div class="con s12">
         <div class="image">
             <div class="bg-img">
-                <img src="../static/images/bgimg4.jpg" alt="food image">
+                <img src="../static/images/bgimg-hero.jpg" alt="food image">
                 
             </div> 
         </div>
@@ -68,9 +68,9 @@
             <div class="card hoverable">
                 <div class="card-image">
                     {% if recipe.recipe_img_URL  %}
-                    <img src="{{recipe.recipe_img_URL}}" onerror="this.src='../static/images/bgimg.jpg';">
+                    <img src="{{recipe.recipe_img_URL}}" onerror="this.src='../static/images/bgimg-hero.jpg';">
                     {% else %}
-                    <img src="../static/images/bgimg.jpg">
+                    <img src="../static/images/bgimg-hero.jpg">
                     {% endif %}
 
                 </div>
