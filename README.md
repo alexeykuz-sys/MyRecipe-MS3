@@ -171,7 +171,8 @@ I checked that these functions appear only for logged in users.
  I checked that Edit buttons opens the edit page, where user can edit all recipe fields and save recipe.
  I checked that delete button, triggers modal with delete or cancel options. Cancel button hides modal and Delete button reconfirms deletion and delete recipe from the database.
 -**Log In**
-I created own account that complied with min requirements of the number of symbols and 
+I created own account that complied with min requirements and successfully logged in and received corresponding flash notification.
+I also checked if the log in form gives visual and text warning if i input wrong information or less symbols than required.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
 
@@ -261,7 +262,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MjkyNTU1LDI0NTUwMjQ0MiwtNTY3Nz
+eyJoaXN0b3J5IjpbMTg5MDc1MjMyLDI0NTUwMjQ0MiwtNTY3Nz
 Y2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjIs
 LTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NT
 AzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3
