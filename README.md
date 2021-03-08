@@ -164,7 +164,8 @@ All functions were tested for different screen sizes.
 Once website loaded, user sees the hero image, underneath which there is search section and then all recipes section.
 Search section allows user to search recipes. I input a word in search and pressed search. If such word exist in recipes, the recipe will be shown on the screen underneath. The search word remains seen in search form. I have to press reset button to reset page to all recipes.
 I can also sort recipes by Breakfast, Lunch and Dinner. I pressed each button and achieved desired results 
- Each recipe card has
+ Each recipe card has image, recipe name, people served and time to cook. Each recipe card is clickable and give access to full recipe page with detailed cooking instructions.
+-**Single Recipe Page(**
  
 
 
@@ -256,11 +257,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTg2MjQ5OSwyNDU1MDI0NDIsLTU2Nz
-c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
-LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
-UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
-NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMz
-c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
-OTk2MV19
+eyJoaXN0b3J5IjpbLTIwMTc0NzU5ODksMjQ1NTAyNDQyLC01Nj
+c3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMjUyOTU2
+MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUsLTExOT
+k1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MTQ5MDAz
+ODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQzNTYsLT
+M3OTg5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLTEwODEw
+ODk5NjFdfQ==
 -->
