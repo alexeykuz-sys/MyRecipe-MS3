@@ -169,8 +169,8 @@ Once logged in, user sees  new menu options:  Profile and Edit Recipes. Profile 
 - Footer - simple footer that has links to social media and website slogan. All links open correct pages.
 2. Log In and Log Out pages allow user to log in/out. Log In page has required fields and check if user inserted correct username and password. User receives screen notifications in the case user put a wrong username or password.
 3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbols, they get a warning notification. If username already exist, user gets a warning notification.
-4. Profile page -once user has successfully loged in, user is redirected to profile page. Profile page will be set up in the future development of the app.
-5. Log in users have access to menu items only visible to loged in users - New Recipes.  The page contains the form which user has to fill in. once user finished and pressed the add button, user receives flash message of success and redirected to recipe page.
+4. Profile page -once user has successfully logged in, user is redirected to profile page. Profile page will be set up in the future development of the app.
+5. Logged in users have access to menu items only visible to loged in users - New Recipes.  The page contains the form which user has to fill in. once user finished and pressed the add button, user receives flash message of success and redirected to recipe page.
 6. Log in users also gain access to Edit and Delete buttons in get recipe page.
 
 # Deployment
@@ -243,11 +243,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTA3MjkzMiwxMTI1Mjk1NjIsLTI0Mz
-IxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NTAzNjky
-LC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3LDEzNT
-c4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNzk4OTMz
-OTMsLTQ3MTAyNTU0MCwyMTMzODg4NDUwLC0xMDgxMDg5OTYxLC
-0yNjM3NDc0ODAsNzI4NTg5ODE3LC0yNjAwMjU1NTQsNDAzNzA4
-MzgyXX0=
+eyJoaXN0b3J5IjpbLTE3MjAyMjAyNTEsMTEyNTI5NTYyLC0yND
+MyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OTUwMzY5
+MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4NywxMz
+U3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMzc5ODkz
+MzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4OTk2MS
+wtMjYzNzQ3NDgwLDcyODU4OTgxNywtMjYwMDI1NTU0LDQwMzcw
+ODM4Ml19
 -->
