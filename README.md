@@ -171,8 +171,12 @@ I checked that these functions appear only for logged in users.
  I checked that Edit buttons opens the edit page, where user can edit all recipe fields and save recipe.
  I checked that delete button, triggers modal with delete or cancel options. Cancel button hides modal and Delete button reconfirms deletion and delete recipe from the database.
 -**Log In**
+I checked that log in button redirects to log in page.
 I created own account that complied with min requirements and successfully logged in and received corresponding flash notification.
 I also checked if the log in form gives visual and text warning if i input wrong information or less symbols than required.
+-**Log Out**
+i checked that log out buttons redirects you back to log in page.
+
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
 
@@ -262,11 +266,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDc1MjMyLDI0NTUwMjQ0MiwtNTY3Nz
-Y2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjIs
-LTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NT
-AzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3
-LDEzNTc4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNz
-k4OTMzOTMsLTQ3MTAyNTU0MCwyMTMzODg4NDUwLC0xMDgxMDg5
-OTYxXX0=
+eyJoaXN0b3J5IjpbLTk1NTIwODkxNywyNDU1MDI0NDIsLTU2Nz
+c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
+LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
+UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
+NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMz
+c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
+OTk2MV19
 -->
