@@ -39,14 +39,12 @@ A live version of the site is available [LIVE SITE](https://my-recipe-ms3.heroku
 10.  [Testing User Stories](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)
     
 11.  [Bugs and De-bugging](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)
+
+ 12.  [Project Deployment](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)
     
-12.  [Version Control](https://github.com/alexeykuz-sys/myRecipe-MS3#version-control)
+13.  [Credits](https://github.com/alexeykuz-sys/myRecipe-MS3#credits)
     
-13.  [Project Deployment](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)
-    
-14.  [Credits](https://github.com/alexeykuz-sys/myRecipe-MS3#credits)
-    
-15.  [Acknowledgements](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)
+14.  [Acknowledgements](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)
 
 ====
 
@@ -271,11 +269,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTk2MjE1NiwzNTI3NDkzMzcsMTA4Nj
-UzNjYwNSwxODI4MTQ3NDk2LDI0NTUwMjQ0MiwtNTY3NzY2OTk1
-LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjIsLTI0Mz
-IxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NTAzNjky
-LC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3LDEzNT
-c4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNzk4OTMz
-OTNdfQ==
+eyJoaXN0b3J5IjpbOTM1Mjg2MTk0LDE5Mjk5NjIxNTYsMzUyNz
+Q5MzM3LDEwODY1MzY2MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIs
+LTU2Nzc2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNT
+I5NTYyLC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwt
+MTE5OTUwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxND
+kwMDM4NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1
+Nl19
 -->
