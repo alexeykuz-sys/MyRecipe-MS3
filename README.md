@@ -159,9 +159,11 @@ Features to implement:
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing)Manual Testing
 All functions were tested for different screen sizes.
-
+- Landing Page
 Once website loaded, user sees the hero image, underneath which there is search section and then all recipes section.
-Search section allows user to search recipes. I input a word in search and pressed search. If such word exist in recipes, the recipe will be shown on the screen underneath. The search word remains seen in search form.  
+Search section allows user to search recipes. I input a word in search and pressed search. If such word exist in recipes, the recipe will be shown on the screen underneath. The search word remains seen in search form. I have to press reset button to reset page to all recipes.
+I can also sort recipes by Breakfast, Lunch and Dinner. I pressef
+ 
 
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
@@ -252,11 +254,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1OTc3MDQ3LDI0NTUwMjQ0MiwtNTY3Nz
-Y2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjIs
-LTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NT
-AzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3
-LDEzNTc4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNz
-k4OTMzOTMsLTQ3MTAyNTU0MCwyMTMzODg4NDUwLC0xMDgxMDg5
-OTYxXX0=
+eyJoaXN0b3J5IjpbLTEzODI0NDg1NDcsMjQ1NTAyNDQyLC01Nj
+c3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMjUyOTU2
+MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUsLTExOT
+k1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MTQ5MDAz
+ODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQzNTYsLT
+M3OTg5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLTEwODEw
+ODk5NjFdfQ==
 -->
