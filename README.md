@@ -201,7 +201,7 @@ Once logged in, user sees  new menu options:  Profile and Edit Recipes. Profile 
 
 
 
-# Deployment
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#deployment)Deployment
 
 Hosting on Heroku
 
@@ -271,11 +271,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTQwNzk5MSwxMDg2NTM2NjA1LDE4Mj
-gxNDc0OTYsMjQ1NTAyNDQyLC01Njc3NjY5OTUsLTIzNDM0NTg0
-OCwtMTA3MjA2NzcwLDExMjUyOTU2MiwtMjQzMjE5MjA0LDE5OD
-c4NDAzNDgsMTE2ODY2MjUsLTExOTk1MDM2OTIsLTczODg0MTI4
-LC0xMDQ3ODgwOTQxLC00MTQ5MDAzODcsMTM1Nzg4MjQ0LC0xMj
-M1MjgzNTEwLC0zNjIxMTQzNTYsLTM3OTg5MzM5MywtNDcxMDI1
-NTQwXX0=
+eyJoaXN0b3J5IjpbMzUyNzQ5MzM3LDEwODY1MzY2MDUsMTgyOD
+E0NzQ5NiwyNDU1MDI0NDIsLTU2Nzc2Njk5NSwtMjM0MzQ1ODQ4
+LC0xMDcyMDY3NzAsMTEyNTI5NTYyLC0yNDMyMTkyMDQsMTk4Nz
+g0MDM0OCwxMTY4NjYyNSwtMTE5OTUwMzY5MiwtNzM4ODQxMjgs
+LTEwNDc4ODA5NDEsLTQxNDkwMDM4NywxMzU3ODgyNDQsLTEyMz
+UyODM1MTAsLTM2MjExNDM1NiwtMzc5ODkzMzkzLC00NzEwMjU1
+NDBdfQ==
 -->
