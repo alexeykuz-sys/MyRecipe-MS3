@@ -182,7 +182,7 @@ I checked that user gets relevant notifications if user tries to register with l
 I checked that user get notification if he tries to register with username that already exists in database.
 I checked that user get notification and redirected to profile page.
 -**New Recipe**
-I checked that user can input all information to all fields in new recipe form. I checked if user get warning notifications if he o
+I checked that user can input all information to all fields in new recipe form. I checked if user get warning notifications if he omits any field in the form. I also checked that once user presses the button Add Recipe
 
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
@@ -273,11 +273,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI1MDI0MTAsMjQ1NTAyNDQyLC01Nj
-c3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMjUyOTU2
-MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUsLTExOT
-k1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MTQ5MDAz
-ODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQzNTYsLT
-M3OTg5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLTEwODEw
-ODk5NjFdfQ==
+eyJoaXN0b3J5IjpbMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nz
+c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
+LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
+UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
+NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMz
+c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
+OTk2MV19
 -->
