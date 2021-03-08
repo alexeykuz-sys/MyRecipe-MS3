@@ -1,3 +1,7 @@
+![(https://github.com/alexeykuz-sys/myRecipe-MS3/blob/6d3315a8ea02ce3ebebc3e83ee4701bdf642b1d5/static/images/amiresponsive.PNG)
+](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/6d3315a8ea02ce3ebebc3e83ee4701bdf642b1d5/static/images/amiresponsive.PNG)
+
+
 My Recipes is a recipe site of user's  favourite receipes. The recipes are added by users to have a single digitised point of reference for user's favorite recipes. The site is designed to be easy to navigate and use, promoting a simple layout with minimal but effective and purposeful features.
 
 **Project Requirements:**
@@ -5,8 +9,7 @@ My Recipes is a recipe site of user's  favourite receipes. The recipes are added
 Build an interactive front-end website that responds to user actions and alters the way the site displays data/information.
 
 Required Technologies : HTML, CSS, JavaScript, Python+Flask, MongoDB. 
-A live version of the site is available  [here.](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/images/aimiresponsive.PNG)
-
+A live version of the site is available [LIVE SITE](https://my-recipe-ms3.herokuapp.com/)  
 **Contents**
 
 1.  [UX Development](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-development)
@@ -236,11 +239,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MT
-Q5MDAzODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQz
-NTYsLTM3OTg5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLT
-EwODEwODk5NjEsLTI2Mzc0NzQ4MCw3Mjg1ODk4MTcsLTI2MDAy
-NTU1NCw0MDM3MDgzODIsMTU0OTM1MTg3MiwtMTE4MDc5OTQ0NS
-wtNDM4NDU1MjQzLC0xMDMzMzgzNTEwLDE0NDk3ODc0MDcsLTE0
-NTQ1ODM2OTRdfQ==
+eyJoaXN0b3J5IjpbLTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNj
+g2NjI1LC0xMTk5NTAzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0
+MSwtNDE0OTAwMzg3LDEzNTc4ODI0NCwtMTIzNTI4MzUxMCwtMz
+YyMTE0MzU2LC0zNzk4OTMzOTMsLTQ3MTAyNTU0MCwyMTMzODg4
+NDUwLC0xMDgxMDg5OTYxLC0yNjM3NDc0ODAsNzI4NTg5ODE3LC
+0yNjAwMjU1NTQsNDAzNzA4MzgyLDE1NDkzNTE4NzIsLTExODA3
+OTk0NDVdfQ==
 -->
