@@ -35,7 +35,7 @@ A live version of the site is available [LIVE SITE](https://my-recipe-ms3.heroku
     -   [Technologies used](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)
 9.  [Testing](https://github.com/alexeykuz-sys/myRecipe-MS3#testing)
     
-10.  [Testing User Stories from UX Section](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories-from-ux-section)
+10.  [Testing User Stories](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)
     
 11.  [Bugs and De-bugging](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)
     
@@ -155,7 +155,7 @@ Features to implement:
 -  [Heroku](https://www.heroku.com/)
 
 
-# [](https://github.com/alexeykuz-sys/myRecipe-MS3#user-stories-testing)User Stories Testing
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
 
 User story testing:
 All functions were tested for different screen sizes.
@@ -244,7 +244,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjgyNjcwNywtMTA3MjA2NzcwLDExMj
+eyJoaXN0b3J5IjpbLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMj
 UyOTU2MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUs
 LTExOTk1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MT
 Q5MDAzODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQz
