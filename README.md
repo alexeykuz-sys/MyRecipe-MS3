@@ -178,7 +178,9 @@ I also checked if the log in form gives visual and text warning if i input wrong
 I checked that log out buttons redirects you back to log in page.
 -**Register**
 I checked that register button is visible to all guest, not logged in users.
-I checked that user gets rel
+I checked that user gets relevant notifications if user tries to register with less symbols or wrond symbols.
+I checked that user get notification and redirected to profile page.
+
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
 
 User story testing:
@@ -267,11 +269,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODY3Njk2NywyNDU1MDI0NDIsLTU2Nz
-c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
-LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
-UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
-NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMz
-c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
-OTk2MV19
+eyJoaXN0b3J5IjpbMzA4NzUzMDQwLDI0NTUwMjQ0MiwtNTY3Nz
+Y2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjIs
+LTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NT
+AzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3
+LDEzNTc4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNz
+k4OTMzOTMsLTQ3MTAyNTU0MCwyMTMzODg4NDUwLC0xMDgxMDg5
+OTYxXX0=
 -->
