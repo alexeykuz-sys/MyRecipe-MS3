@@ -158,13 +158,14 @@ Features to implement:
 -  [Heroku](https://www.heroku.com/)
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing)Manual Testing
+All functions were tested for different screen sizes.
 
+L
 
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
 
 User story testing:
-All functions were tested for different screen sizes.
 
 1. Landing page.
 - The page layout is simple and easy to navigate. It consist of basic colors, which do not distract visitors attention.
@@ -250,11 +251,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1NTAyNDQyLC01Njc3NjY5OTUsLTIzND
-M0NTg0OCwtMTA3MjA2NzcwLDExMjUyOTU2MiwtMjQzMjE5MjA0
-LDE5ODc4NDAzNDgsMTE2ODY2MjUsLTExOTk1MDM2OTIsLTczOD
-g0MTI4LC0xMDQ3ODgwOTQxLC00MTQ5MDAzODcsMTM1Nzg4MjQ0
-LC0xMjM1MjgzNTEwLC0zNjIxMTQzNTYsLTM3OTg5MzM5MywtND
-cxMDI1NTQwLDIxMzM4ODg0NTAsLTEwODEwODk5NjEsLTI2Mzc0
-NzQ4MF19
+eyJoaXN0b3J5IjpbLTYzNzg2NDYzOCwyNDU1MDI0NDIsLTU2Nz
+c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
+LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
+UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
+NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMz
+c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
+OTk2MV19
 -->
