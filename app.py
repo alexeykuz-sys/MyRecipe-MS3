@@ -58,6 +58,7 @@ def recipes():
 
 
 @app.route("/get_recipe/<recipe_id>", methods=["GET", "POST"])
+# finds recipe in db and renders on page
 def get_recipe(recipe_id):
     recipes = mongo.db.recipes.find_one({"_id": ObjectId(recipe_id)})
     return render_template('get_recipes.html', recipes=recipes)
@@ -129,7 +130,7 @@ def profile(username):
     # grab the session user's username from db
     username = mongo.db.users.find_one(
         {"username": session["user"]})["username"]
-
+    #render username profile card
     if session["user"]:
         return render_template("profile.html", username=username)
 
