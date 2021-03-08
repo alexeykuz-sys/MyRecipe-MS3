@@ -34,7 +34,7 @@ A live version of the site is available [LIVE SITE](https://my-recipe-ms3.heroku
     -   [Colours](https://github.com/alexeykuz-sys/myRecipe-MS3#colours)
     -   [Features and Future Releases](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)
     -   [Technologies used](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)
-9.  [Testing](https://github.com/alexeykuz-sys/myRecipe-MS3#testing)
+9.  [Manual Testing](https://github.com/alexeykuz-sys/myRecipe-MS3#manual-testing)
     
 10.  [Testing User Stories](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)
     
@@ -157,7 +157,7 @@ Features to implement:
 -   [MongoDB](https://www.mongodb.com/)
 -  [Heroku](https://www.heroku.com/)
 
-# [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing)Manual Testing
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#manual-testing)Manual Testing
 All functions were tested for different screen sizes.
 - **Landing Page**
 
@@ -271,7 +271,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODYxNzA4MSwxMDg2NTM2NjA1LDE4Mj
+eyJoaXN0b3J5IjpbLTU1OTQwNzk5MSwxMDg2NTM2NjA1LDE4Mj
 gxNDc0OTYsMjQ1NTAyNDQyLC01Njc3NjY5OTUsLTIzNDM0NTg0
 OCwtMTA3MjA2NzcwLDExMjUyOTU2MiwtMjQzMjE5MjA0LDE5OD
 c4NDAzNDgsMTE2ODY2MjUsLTExOTk1MDM2OTIsLTczODg0MTI4
