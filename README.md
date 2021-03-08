@@ -179,6 +179,7 @@ I checked that log out buttons redirects you back to log in page.
 -**Register**
 I checked that register button is visible to all guest, not logged in users.
 I checked that user gets relevant notifications if user tries to register with less symbols or wrond symbols.
+I checked that user get notification if 
 I checked that user get notification and redirected to profile page.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
@@ -269,7 +270,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4NzUzMDQwLDI0NTUwMjQ0MiwtNTY3Nz
+eyJoaXN0b3J5IjpbMTE4OTAwOTIyLDI0NTUwMjQ0MiwtNTY3Nz
 Y2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjIs
 LTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NT
 AzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3
