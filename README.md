@@ -168,13 +168,6 @@ First time visitor testing:
 
 # Deployment
 
--   The site was developed in GitPod and pushed to the following remote GitHub repository -  [here](https://github.com/alexeykuz-sys/myRecipe-MS3)
-    -   The following GIT commands were used throughout deployment:
-        -   **git status**  ------ used to check the status of files and any changes made / untracked.
-        -   **git add -A**  ------ to stage files ready to commit.
-        -   **git commit -m " "**  ------ to commit the files.
-        -   **git push**  ------ to push the files to the master branch of the GitHub repo.
-
 Hosting on Heroku
 
 -   This site is hosted using Heroku, deployed directly from the master branch via GitHub. -  [LIVE SITE](https://my-recipe-ms3.herokuapp.com/)
