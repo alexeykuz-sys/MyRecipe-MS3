@@ -10,6 +10,7 @@ Build an interactive front-end website that responds to user actions and alters 
 
 Required Technologies : HTML, CSS, JavaScript, Python+Flask, MongoDB. 
 A live version of the site is available [LIVE SITE](https://my-recipe-ms3.herokuapp.com/)  
+
 **Contents**
 
 1.  [UX Development](https://github.com/alexeykuz-sys/myRecipe-MS3#ux-development)
@@ -120,7 +121,7 @@ The colours were determined by the pallet of Cooler website:
 
 -   For navbar #212121  [![navbar](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/blackColor.png?raw=true)](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/blackColor.png?raw=true)
 
--   For body background: #effafa.  [![Background](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png)](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png?raw=true)
+-   For body background #effafa.  [![Background](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png)](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png?raw=true)
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)Features and Future Releases
 
@@ -244,11 +245,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NDEyMjMyLC0yMzQzNDU4NDgsLTEwNz
-IwNjc3MCwxMTI1Mjk1NjIsLTI0MzIxOTIwNCwxOTg3ODQwMzQ4
-LDExNjg2NjI1LC0xMTk5NTAzNjkyLC03Mzg4NDEyOCwtMTA0Nz
-g4MDk0MSwtNDE0OTAwMzg3LDEzNTc4ODI0NCwtMTIzNTI4MzUx
-MCwtMzYyMTE0MzU2LC0zNzk4OTMzOTMsLTQ3MTAyNTU0MCwyMT
-MzODg4NDUwLC0xMDgxMDg5OTYxLC0yNjM3NDc0ODAsNzI4NTg5
-ODE3XX0=
+eyJoaXN0b3J5IjpbMTI3OTkyNjcxMiwtMjM0MzQ1ODQ4LC0xMD
+cyMDY3NzAsMTEyNTI5NTYyLC0yNDMyMTkyMDQsMTk4Nzg0MDM0
+OCwxMTY4NjYyNSwtMTE5OTUwMzY5MiwtNzM4ODQxMjgsLTEwND
+c4ODA5NDEsLTQxNDkwMDM4NywxMzU3ODgyNDQsLTEyMzUyODM1
+MTAsLTM2MjExNDM1NiwtMzc5ODkzMzkzLC00NzEwMjU1NDAsMj
+EzMzg4ODQ1MCwtMTA4MTA4OTk2MSwtMjYzNzQ3NDgwLDcyODU4
+OTgxN119
 -->
