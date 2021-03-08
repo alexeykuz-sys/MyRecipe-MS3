@@ -154,7 +154,7 @@ Features to implement:
 -   [MongoDB](https://www.mongodb.com/)
 -  [Heroku](https://www.heroku.com/)
 
-
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing)Manual Testing
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
 
 User story testing:
@@ -244,11 +244,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMj
-UyOTU2MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUs
-LTExOTk1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MT
-Q5MDAzODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQz
-NTYsLTM3OTg5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLT
-EwODEwODk5NjEsLTI2Mzc0NzQ4MCw3Mjg1ODk4MTcsLTI2MDAy
-NTU1NF19
+eyJoaXN0b3J5IjpbNTI1NDEyMjMyLC0yMzQzNDU4NDgsLTEwNz
+IwNjc3MCwxMTI1Mjk1NjIsLTI0MzIxOTIwNCwxOTg3ODQwMzQ4
+LDExNjg2NjI1LC0xMTk5NTAzNjkyLC03Mzg4NDEyOCwtMTA0Nz
+g4MDk0MSwtNDE0OTAwMzg3LDEzNTc4ODI0NCwtMTIzNTI4MzUx
+MCwtMzYyMTE0MzU2LC0zNzk4OTMzOTMsLTQ3MTAyNTU0MCwyMT
+MzODg4NDUwLC0xMDgxMDg5OTYxLC0yNjM3NDc0ODAsNzI4NTg5
+ODE3XX0=
 -->
