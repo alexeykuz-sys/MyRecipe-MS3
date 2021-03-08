@@ -1,23 +1,25 @@
 {% extends "base.html" %}
 {% block content %}
 
-    
-    
+
+
+<div class="section">
     <div class="row">
-        <div class="col s12 m8 offset-m2" >
-            <div class="card-panel">
-                <h3 class="center-align light-blue-text text-darken-4">
-                    {{username}}'s Profile
-                </h3>
-                
+        <div class="card-profile ">
+            <div class="profile card-image">
+                <img src="/static/images/bgimg (1).jpg">
+                <div class="profile-info">
+                    <span class=" profile-name card-title light-blue-text text-darken-4">{{username}}'s Profile</span>
+                    <p>Age:<span>45</span> years old</p>
+                    <p>Diet:<span>Vegeterian</span></p>
+
+                </div>
             </div>
-            <!-- <div>
-                    <div>My Recipes</div>
-                    <div>My Favourite Recipes</div>
-                    
-                </div> -->
+
         </div>
+
     </div>
-    
+
+</div>
 
 {% endblock %}

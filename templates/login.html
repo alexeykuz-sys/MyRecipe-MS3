@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+<div class="section">
     <h3 class="center-align">Log In</h3>
     <div class="row">
         <form class="col s12 m8 offset-m2" method="POST" action="{{url_for('login')}}">
@@ -8,7 +9,8 @@
                 <div class="row">
                     <div class="input-field col s12">
                         <i class="fas fa-user-cog prefix"></i>
-                        <input id="username" name="username" type="text" minlength="5" maxlength="15" pattern="^[a-zA-Z0-9]{5,15}$" class="validate" required>
+                        <input id="username" name="username" type="text" minlength="5" maxlength="15"
+                            pattern="^[a-zA-Z0-9]{5,15}$" class="validate" required>
                         <label for="username">Username</label>
                     </div>
                 </div>
@@ -16,7 +18,8 @@
                 <div class="row">
                     <div class="input-field col s12">
                         <i class="fas fa-user-lock prefix"></i>
-                        <input id="password" name="password" type="password" minlength="5" maxlength="15" pattern="^[a-zA-Z0-9]{5,15}$" class="validate" required>
+                        <input id="password" name="password" type="password" minlength="5" maxlength="15"
+                            pattern="^[a-zA-Z0-9]{5,15}$" class="validate" required>
                         <label for="password">Password</label>
                     </div>
                 </div>
@@ -32,9 +35,9 @@
         <div class="col s12">
             <p class="center-align">
                 New Here?
-            <a href="{{url_for('register')}}" class="light-blue-text">Register Account</a>
+                <a href="{{url_for('register')}}" class="light-blue-text">Register Account</a>
             </p>
         </div>
     </div>
-            
-{% endblock %}   
+</div>
+{% endblock %}

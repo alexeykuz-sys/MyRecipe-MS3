@@ -19,10 +19,7 @@ body {
   color:#212121;
   
 }
-/* 
-nav.nav-extended .nav-wrapper {
-    height: 90px;
-} */
+
 .nav-wrapper ul{
     margin-right: 40px;
 }
@@ -247,5 +244,40 @@ nav a img {
 .modal-buttons{
     display: flex;
     justify-content: space-between;
+    
+}
+
+.section{
+    position: relative;
+    height: 76vh;
+}
+
+.card-profile{
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+.profile {
+    display: flex;
+
+}
+
+.profile-info{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+.profile img{
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.profile-name {
+    font-size: 2rem;
+    font-weight: 600;
+    word-spacing: 1rem;
     
 }
