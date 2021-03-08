@@ -93,7 +93,7 @@ The users goal is to identify application allowing them to have access to the re
 1.  Returning Visitor I would like to be able to add ingredients to the shopping list
 2.  Returning Visitor I would like to share recipe by email or via social media.
 
-# [](https://github.com/alexeykuz-sys/myRecipe-MS3#design-choices) Design Choices
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#design-choices)Design Choices
 
 When designing website I took inspiration from various recipe websites like BBCGoodFood and AllRecipes. The website was adapted to fit user requirements. 
 The webpages consist of :
@@ -271,11 +271,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjUzNjYwNSwxODI4MTQ3NDk2LDI0NT
-UwMjQ0MiwtNTY3NzY2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3
-MCwxMTI1Mjk1NjIsLTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNj
-g2NjI1LC0xMTk5NTAzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0
-MSwtNDE0OTAwMzg3LDEzNTc4ODI0NCwtMTIzNTI4MzUxMCwtMz
-YyMTE0MzU2LC0zNzk4OTMzOTMsLTQ3MTAyNTU0MCwyMTMzODg4
-NDUwXX0=
+eyJoaXN0b3J5IjpbLTIzODYxNzA4MSwxMDg2NTM2NjA1LDE4Mj
+gxNDc0OTYsMjQ1NTAyNDQyLC01Njc3NjY5OTUsLTIzNDM0NTg0
+OCwtMTA3MjA2NzcwLDExMjUyOTU2MiwtMjQzMjE5MjA0LDE5OD
+c4NDAzNDgsMTE2ODY2MjUsLTExOTk1MDM2OTIsLTczODg0MTI4
+LC0xMDQ3ODgwOTQxLC00MTQ5MDAzODcsMTM1Nzg4MjQ0LC0xMj
+M1MjgzNTEwLC0zNjIxMTQzNTYsLTM3OTg5MzM5MywtNDcxMDI1
+NTQwXX0=
 -->
