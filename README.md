@@ -1,4 +1,5 @@
-[My Recipe](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/images/aimiresponsive.PNG)
+[(https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/images/aimiresponsive.PNG)
+](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/images/aimiresponsive.PNG)
 
 My Recipes is a recipe site of user's  favourite receipes. The recipes are added by users to have a single digitised point of reference for user's favorite recipes. The site is designed to be easy to navigate and use, promoting a simple layout with minimal but effective and purposeful features.
 
@@ -237,11 +238,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk1MDM2OTIsLTczODg0MTI4LC0xMD
-Q3ODgwOTQxLC00MTQ5MDAzODcsMTM1Nzg4MjQ0LC0xMjM1Mjgz
-NTEwLC0zNjIxMTQzNTYsLTM3OTg5MzM5MywtNDcxMDI1NTQwLD
-IxMzM4ODg0NTAsLTEwODEwODk5NjEsLTI2Mzc0NzQ4MCw3Mjg1
-ODk4MTcsLTI2MDAyNTU1NCw0MDM3MDgzODIsMTU0OTM1MTg3Mi
-wtMTE4MDc5OTQ0NSwtNDM4NDU1MjQzLC0xMDMzMzgzNTEwLDE0
-NDk3ODc0MDddfQ==
+eyJoaXN0b3J5IjpbMTE2ODY2MjUsLTExOTk1MDM2OTIsLTczOD
+g0MTI4LC0xMDQ3ODgwOTQxLC00MTQ5MDAzODcsMTM1Nzg4MjQ0
+LC0xMjM1MjgzNTEwLC0zNjIxMTQzNTYsLTM3OTg5MzM5MywtND
+cxMDI1NTQwLDIxMzM4ODg0NTAsLTEwODEwODk5NjEsLTI2Mzc0
+NzQ4MCw3Mjg1ODk4MTcsLTI2MDAyNTU1NCw0MDM3MDgzODIsMT
+U0OTM1MTg3MiwtMTE4MDc5OTQ0NSwtNDM4NDU1MjQzLC0xMDMz
+MzgzNTEwXX0=
 -->
