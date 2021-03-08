@@ -197,7 +197,9 @@ Once logged in, user sees  new menu options:  Profile and Edit Recipes. Profile 
 5. New Recipe page -  Logged in users have access to this page. The page contains the form which user has to be filled in. Once user has finished and pressed the add button, user receives flash message of success and screen redirected to recipe page.
 6. Logged in users also gain access to Edit and Delete buttons in get recipe page. Once user decides to delete recipe, user receives modal warning if he really wants to delete recipe to reconfirm user's decisision.
 
-#[](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
+
+No bugs have been noticed.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)Project Deployment
 
@@ -269,11 +271,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMDA1MTMyLDE5Mjk5NjIxNTYsMzUyNz
-Q5MzM3LDEwODY1MzY2MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIs
-LTU2Nzc2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNT
-I5NTYyLC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwt
-MTE5OTUwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxND
-kwMDM4NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1
-Nl19
+eyJoaXN0b3J5IjpbMTYxNzM5MzEyMiwxOTI5OTYyMTU2LDM1Mj
+c0OTMzNywxMDg2NTM2NjA1LDE4MjgxNDc0OTYsMjQ1NTAyNDQy
+LC01Njc3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMj
+UyOTU2MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUs
+LTExOTk1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MT
+Q5MDAzODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQz
+NTZdfQ==
 -->
