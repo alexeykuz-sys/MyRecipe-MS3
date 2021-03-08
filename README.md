@@ -168,7 +168,8 @@ I can also sort recipes by Breakfast, Lunch and Dinner. I pressed each button an
 -**Single Recipe Page(Get_Recipe)**
 The single recipe page gives all user access to the recipe ingredients and method of cooking. In addition, only logged in users have access to Edit and Delete functions.
 I checked that these functions appear only for logged in users.  
- I checked that Edit buttons opens th
+ I checked that Edit buttons opens the edit page, where user can edit all recipe fields and save recipe.
+ I checked that delete button, triggers modal with delete or cancel function reconfirmation
 
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
@@ -259,7 +260,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODk3MjE0MSwyNDU1MDI0NDIsLTU2Nz
+eyJoaXN0b3J5IjpbMTYxNjc5OTk5NSwyNDU1MDI0NDIsLTU2Nz
 c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
 LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
 UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
