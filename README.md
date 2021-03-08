@@ -175,8 +175,8 @@ I checked that log in button redirects to log in page.
 I created own account that complied with min requirements and successfully logged in and received corresponding flash notification.
 I also checked if the log in form gives visual and text warning if i input wrong information or less symbols than required.
 -**Log Out**
-i checked that log out buttons redirects you back to log in page.
-
+I checked that log out buttons redirects you back to log in page.
+-**Register**
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
 
@@ -266,11 +266,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTIwODkxNywyNDU1MDI0NDIsLTU2Nz
-c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
-LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
-UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
-NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMz
-c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
-OTk2MV19
+eyJoaXN0b3J5IjpbLTIxMDA2MTUxODUsMjQ1NTAyNDQyLC01Nj
+c3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMjUyOTU2
+MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUsLTExOT
+k1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MTQ5MDAz
+ODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQzNTYsLT
+M3OTg5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLTEwODEw
+ODk5NjFdfQ==
 -->
