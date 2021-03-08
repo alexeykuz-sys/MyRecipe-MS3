@@ -197,7 +197,7 @@ Once logged in, user sees  new menu options:  Profile and Edit Recipes. Profile 
 5. New Recipe page -  Logged in users have access to this page. The page contains the form which user has to be filled in. Once user has finished and pressed the add button, user receives flash message of success and screen redirected to recipe page.
 6. Logged in users also gain access to Edit and Delete buttons in get recipe page. Once user decides to delete recipe, user receives modal warning if he really wants to delete recipe to reconfirm user's decisision.
 
-
+#[](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)Project Deployment
 
@@ -269,7 +269,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1Mjg2MTk0LDE5Mjk5NjIxNTYsMzUyNz
+eyJoaXN0b3J5IjpbNDUyMDA1MTMyLDE5Mjk5NjIxNTYsMzUyNz
 Q5MzM3LDEwODY1MzY2MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIs
 LTU2Nzc2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNT
 I5NTYyLC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwt
