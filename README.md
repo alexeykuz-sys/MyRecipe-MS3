@@ -141,7 +141,8 @@ Features to implement:
 **Languages**
 
 -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
--   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Tools & Libraries**
 
@@ -218,9 +219,9 @@ To run this code locally, you can clone this repository directly into the editor
 
 ### [](https://github.com/alexeykuz-sys/myRecipe-MS3#images)Images
 
-The following images used for this app/website were taken from Unsplash:
+The images for this app/website were taken from Unsplash:
 
-Recipes - Unsplash:
+Unsplash]
 
 
 All other images were contributed from personal sources, of which no acknowledgement is required.
@@ -245,11 +246,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTkyNjcxMiwtMjM0MzQ1ODQ4LC0xMD
-cyMDY3NzAsMTEyNTI5NTYyLC0yNDMyMTkyMDQsMTk4Nzg0MDM0
-OCwxMTY4NjYyNSwtMTE5OTUwMzY5MiwtNzM4ODQxMjgsLTEwND
-c4ODA5NDEsLTQxNDkwMDM4NywxMzU3ODgyNDQsLTEyMzUyODM1
-MTAsLTM2MjExNDM1NiwtMzc5ODkzMzkzLC00NzEwMjU1NDAsMj
-EzMzg4ODQ1MCwtMTA4MTA4OTk2MSwtMjYzNzQ3NDgwLDcyODU4
-OTgxN119
+eyJoaXN0b3J5IjpbLTgyMzA1ODQwLC0yMzQzNDU4NDgsLTEwNz
+IwNjc3MCwxMTI1Mjk1NjIsLTI0MzIxOTIwNCwxOTg3ODQwMzQ4
+LDExNjg2NjI1LC0xMTk5NTAzNjkyLC03Mzg4NDEyOCwtMTA0Nz
+g4MDk0MSwtNDE0OTAwMzg3LDEzNTc4ODI0NCwtMTIzNTI4MzUx
+MCwtMzYyMTE0MzU2LC0zNzk4OTMzOTMsLTQ3MTAyNTU0MCwyMT
+MzODg4NDUwLC0xMDgxMDg5OTYxLC0yNjM3NDc0ODAsNzI4NTg5
+ODE3XX0=
 -->
