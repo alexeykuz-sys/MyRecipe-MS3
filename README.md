@@ -156,7 +156,7 @@ Features to implement:
 
 
 
-# User Story Testing
+#[](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories-from-ux-section) User Story Testing
 
 User story testing:
 All functions were tested for different screen sizes.
@@ -245,11 +245,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzkxMzI1NCwtMTA3MjA2NzcwLDExMj
-UyOTU2MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUs
-LTExOTk1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MT
-Q5MDAzODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQz
-NTYsLTM3OTg5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLT
-EwODEwODk5NjEsLTI2Mzc0NzQ4MCw3Mjg1ODk4MTcsLTI2MDAy
-NTU1NF19
+eyJoaXN0b3J5IjpbNzk4NjA1OTM2LC0xMDcyMDY3NzAsMTEyNT
+I5NTYyLC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwt
+MTE5OTUwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxND
+kwMDM4NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1
+NiwtMzc5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMT
+A4MTA4OTk2MSwtMjYzNzQ3NDgwLDcyODU4OTgxNywtMjYwMDI1
+NTU0XX0=
 -->
