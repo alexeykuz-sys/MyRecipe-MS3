@@ -177,13 +177,11 @@ I also checked if the log in form gives visual and text warning if i input wrong
 -**Log Out**
 I checked that log out buttons redirects you back to log in page.
 -**Register**
-I checked that register button is visible to all guest, not logged in users.
-I checked that user gets relevant notifications if user tries to register with less symbols or wrond symbols.
+I checked that register button is visible to all guest, not logged in users. I checked that user gets relevant notifications if user tries to register with less symbols or wrond symbols.
 I checked that user get notification if he tries to register with username that already exists in database.
 I checked that user get notification and redirected to profile page.
 -**New Recipe**
-I checked that user can input all information to all fields in new recipe form. I checked if user get warning notifications if he omits any field in the form. I also checked that once user presses the button Add Recipe
-
+I checked that user can input all information to all fields in new recipe form. I checked if user get warning notifications if he omits any field in the form. I also checked that once user presses the button Add Recipe, he redirected to all recipes page and gets flash message tht recipe was added successfully.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
 
@@ -273,11 +271,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nz
-c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
-LC0yNDMyMTkyMDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OT
-UwMzY5MiwtNzM4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4
-NywxMzU3ODgyNDQsLTEyMzUyODM1MTAsLTM2MjExNDM1NiwtMz
-c5ODkzMzkzLC00NzEwMjU1NDAsMjEzMzg4ODQ1MCwtMTA4MTA4
-OTk2MV19
+eyJoaXN0b3J5IjpbMTA4NjUzNjYwNSwxODI4MTQ3NDk2LDI0NT
+UwMjQ0MiwtNTY3NzY2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3
+MCwxMTI1Mjk1NjIsLTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNj
+g2NjI1LC0xMTk5NTAzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0
+MSwtNDE0OTAwMzg3LDEzNTc4ODI0NCwtMTIzNTI4MzUxMCwtMz
+YyMTE0MzU2LC0zNzk4OTMzOTMsLTQ3MTAyNTU0MCwyMTMzODg4
+NDUwXX0=
 -->
