@@ -179,8 +179,11 @@ I checked that log out buttons redirects you back to log in page.
 -**Register**
 I checked that register button is visible to all guest, not logged in users.
 I checked that user gets relevant notifications if user tries to register with less symbols or wrond symbols.
-I checked that user get notification if 
+I checked that user get notification if he tries to register with username that already exists in database.
 I checked that user get notification and redirected to profile page.
+-**New Recipe**
+I checked that user can input all information to all fields in new recipe form. I checked if user get warning notifications if he o
+
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
 
@@ -270,11 +273,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTAwOTIyLDI0NTUwMjQ0MiwtNTY3Nz
-Y2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjIs
-LTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NT
-AzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3
-LDEzNTc4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNz
-k4OTMzOTMsLTQ3MTAyNTU0MCwyMTMzODg4NDUwLC0xMDgxMDg5
-OTYxXX0=
+eyJoaXN0b3J5IjpbLTE0NzI1MDI0MTAsMjQ1NTAyNDQyLC01Nj
+c3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMjUyOTU2
+MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUsLTExOT
+k1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MTQ5MDAz
+ODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQzNTYsLT
+M3OTg5MzM5MywtNDcxMDI1NTQwLDIxMzM4ODg0NTAsLTEwODEw
+ODk5NjFdfQ==
 -->
