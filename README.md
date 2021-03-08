@@ -171,7 +171,7 @@ Once logged in, user sees  new menu options:  Profile and Edit Recipes. Profile 
 3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbols, they get a warning notification. If username already exist, user gets a warning notification.
 4. Profile page -once user has successfully logged in, user is redirected to profile page. Profile page will be set up in the future development of the app.
 5. Logged in users have access to menu items only visible to logged in users - New Recipes.  The page contains the form which user has to fill in. Once user has finished and pressed the add button, user receives flash message of success and screen redirected to recipe page.
-6. Logged in users also gain access to Edit and Delete buttons in get recipe page. Once user decides to delete recipe, user receives e
+6. Logged in users also gain access to Edit and Delete buttons in get recipe page. Once user decides to delete recipe, user receives modal warning if he really wants to delete recipe to reconfirm user's decisision.
 
 # Deployment
 
@@ -243,7 +243,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDIyODA3OSwxMTI1Mjk1NjIsLTI0Mz
+eyJoaXN0b3J5IjpbLTEwNzIwNjc3MCwxMTI1Mjk1NjIsLTI0Mz
 IxOTIwNCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NTAzNjky
 LC03Mzg4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3LDEzNT
 c4ODI0NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNzk4OTMz
