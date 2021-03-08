@@ -131,7 +131,8 @@ Features to implement:
 
 -   To add favourite option
 -   To add shopping list option
--
+-	To add fully functional profile page.
+
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)Technologies Used
 
 **UX/UI design**
@@ -246,11 +247,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Nzc2Njk5NSwtMjM0MzQ1ODQ4LC0xMD
-cyMDY3NzAsMTEyNTI5NTYyLC0yNDMyMTkyMDQsMTk4Nzg0MDM0
-OCwxMTY4NjYyNSwtMTE5OTUwMzY5MiwtNzM4ODQxMjgsLTEwND
-c4ODA5NDEsLTQxNDkwMDM4NywxMzU3ODgyNDQsLTEyMzUyODM1
-MTAsLTM2MjExNDM1NiwtMzc5ODkzMzkzLC00NzEwMjU1NDAsMj
-EzMzg4ODQ1MCwtMTA4MTA4OTk2MSwtMjYzNzQ3NDgwLDcyODU4
-OTgxN119
+eyJoaXN0b3J5IjpbLTU0ODUzODc2NCwtNTY3NzY2OTk1LC0yMz
+QzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjIsLTI0MzIxOTIw
+NCwxOTg3ODQwMzQ4LDExNjg2NjI1LC0xMTk5NTAzNjkyLC03Mz
+g4NDEyOCwtMTA0Nzg4MDk0MSwtNDE0OTAwMzg3LDEzNTc4ODI0
+NCwtMTIzNTI4MzUxMCwtMzYyMTE0MzU2LC0zNzk4OTMzOTMsLT
+Q3MTAyNTU0MCwyMTMzODg4NDUwLC0xMDgxMDg5OTYxLC0yNjM3
+NDc0ODBdfQ==
 -->
