@@ -45,7 +45,9 @@ def page_note_found(e):
 @app.route("/")
 @app.route("/recipes")
 def recipes():
-    #finds recipes in db and render on page either by search query or categor or all recipes
+    """function finds recipes in db
+    renders on page either by search query 
+    or categor or all recipes"""
 
     query = request.args.get("query")
     category = request.args.get("category")
@@ -61,7 +63,7 @@ def recipes():
 
 
 @app.route("/get_recipe/<recipe_id>", methods=["GET", "POST"])
-# finds recipe in db and renders on page
+"""function finds recipe in db and renders on page"""
 def get_recipe(recipe_id):
     recipes = mongo.db.recipes.find_one(
         {"_id": ObjectId(recipe_id)})
@@ -78,7 +80,9 @@ def search():
 @app.route("/register", methods=["GET", "POST"])
 def register():
     if request.method == "POST":
-        # check if username already exists in db
+     
+     """check if username already exists in db"""
+
         existing_user = mongo.db.users.find_one(
             {"username": request.form.get("username").lower()})
 
@@ -92,7 +96,8 @@ def register():
         }
         mongo.db.users.insert_one(register)
 
-        # put the new user into 'session' cookie
+        """put the new user into 'session' cookie"""
+
         session["user"] = request.form.get("username").lower()
         flash("Registration Successful!")
         return redirect(url_for("profile", username=session["user"]))
@@ -103,12 +108,14 @@ def register():
 @app.route("/login", methods=["GET", "POST"])
 def login():
     if request.method == "POST":
-        # check if username exists in db
+        """check if username exists in db"""
         existing_user = mongo.db.users.find_one(
             {"username": request.form.get("username").lower()})
 
         if existing_user:
-            # ensure hashed password matches user input
+
+            """ensure hashed password matches user input"""
+
             if check_password_hash(
                     existing_user["password"], request.form.get("password")):
                 session["user"] = request.form.get("username").lower()
@@ -117,12 +124,14 @@ def login():
                 return redirect(url_for(
                     "profile", username=session["user"]))
             else:
-                # invalid password match
+                """invalid password match"""
+
                 flash("Incorrect Username and/or Password")
                 return redirect(url_for("login"))
 
         else:
-            # username doesn't exist
+            """username doesn't exist"""
+
             flash("Incorrect Username and/or Password")
             return redirect(url_for("login"))
 
@@ -131,10 +140,14 @@ def login():
 
 @app.route("/profile/<username>", methods=["GET", "POST"])
 def profile(username):
-    # grab the session user's username from db
+    
+    """grab the session user's username from db"""
+
     username = mongo.db.users.find_one(
         {"username": session["user"]})["username"]
-    #render username profile card
+    
+    """render username profile card"""
+
     if session["user"]:
         return render_template("profile.html", username=username)
 
@@ -143,7 +156,9 @@ def profile(username):
 
 @app.route("/logout")
 def logout():
-    # remove user from session cookie
+    
+    """remove user from session cookie"""
+
     flash("You have been logged out")
     session.pop("user")
     return redirect(url_for("login"))
@@ -151,7 +166,9 @@ def logout():
 
 @app.route("/add_recipe", methods=["GET", "POST"])
 def add_recipe():
-    #dd recipe to db and render flash msg
+    
+    """add recipe to db and render flash msg"""
+
     if request.method == "POST":
         recipe = {
             "category_name": request.form.get("category_name"),
@@ -173,7 +190,9 @@ def add_recipe():
 
 @app.route("/edit_recipe/<recipe_id>", methods=["GET", "POST"])
 def edit_recipe(recipe_id):
-    #edit recipe and render recipe page
+    
+    """function edits recipe and render recipe page"""
+
     if request.method == "POST":
         submit = {
             "category_name": request.form.get("category_name"),
@@ -197,7 +216,9 @@ def edit_recipe(recipe_id):
 
 @app.route("/delete_recipe/<recipe_id>")
 def delete_recipe(recipe_id):
-    #deleted recipe from db
+    
+    """function delets recipe from db"""
+
     mongo.db.recipes.remove({"_id": ObjectId(recipe_id)})
     flash("Recipe Successfully Deleted")
     return redirect(url_for("recipes"))
