@@ -2,6 +2,7 @@
 {% block content %}
 
 <h1 class="center-align">{{recipes.recipe_name }}</h1>
+<!-- recipe details. recipe image or  -->
 <div class="container-fluid">
     <div class="row">
         <div class="col s12 m3">
@@ -15,7 +16,7 @@
 
         </div>
 
-
+<!-- recipe serving/time details -->
         <div class="col s12 m7 offset-m2 ingredients-info">
             <div class="info">
 
@@ -26,7 +27,7 @@
                     <p class="user-added-info">Added by: {{ recipes.created_by }}</p>
                 </div>
             </div>
-        
+       <!--cooking method  -->
             <div class=" method">
                 {% if session.user == recipes.created_by %}
                 <div id="controls">
@@ -53,7 +54,7 @@
         </div>
 
     </div>
-
+<!-- ingredients -->
     <div class="row">
         <div class="col s12 m3 ingredients">
             <div>
@@ -63,6 +64,7 @@
         </div>
         <div class="col s12 m7 offset-m2 method">
             <div class="method-section">
+<!-- cooking method -->
                 <h4>Method</h4>
                 <p class="method-content">{{ recipes.recipe_description }}</p>
             </div>

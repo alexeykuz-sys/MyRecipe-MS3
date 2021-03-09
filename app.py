@@ -45,6 +45,8 @@ def page_note_found(e):
 @app.route("/")
 @app.route("/recipes")
 def recipes():
+    #finds recipes in db and render on page either by search query or categor or all recipes
+
     query = request.args.get("query")
     category = request.args.get("category")
     if query:
@@ -149,6 +151,7 @@ def logout():
 
 @app.route("/add_recipe", methods=["GET", "POST"])
 def add_recipe():
+    #dd recipe to db and render flash msg
     if request.method == "POST":
         recipe = {
             "category_name": request.form.get("category_name"),
@@ -170,6 +173,7 @@ def add_recipe():
 
 @app.route("/edit_recipe/<recipe_id>", methods=["GET", "POST"])
 def edit_recipe(recipe_id):
+    #edit recipe and render recipe page
     if request.method == "POST":
         submit = {
             "category_name": request.form.get("category_name"),
@@ -193,6 +197,7 @@ def edit_recipe(recipe_id):
 
 @app.route("/delete_recipe/<recipe_id>")
 def delete_recipe(recipe_id):
+    #deleted recipe from db
     mongo.db.recipes.remove({"_id": ObjectId(recipe_id)})
     flash("Recipe Successfully Deleted")
     return redirect(url_for("recipes"))
