@@ -63,8 +63,10 @@ def recipes():
 
 
 @app.route("/get_recipe/<recipe_id>", methods=["GET", "POST"])
-"""function finds recipe in db and renders on page"""
 def get_recipe(recipe_id):
+
+    """function finds recipe in db and renders on page"""
+    
     recipes = mongo.db.recipes.find_one(
         {"_id": ObjectId(recipe_id)})
     return render_template('get_recipes.html', recipes=recipes)
@@ -79,24 +81,20 @@ def search():
 
 @app.route("/register", methods=["GET", "POST"])
 def register():
+    """checkes if user exist in db"""
     if request.method == "POST":
-     
-     """check if username already exists in db"""
-
         existing_user = mongo.db.users.find_one(
-            {"username": request.form.get("username").lower()})
+        {"username": request.form.get("username").lower()})
 
         if existing_user:
             flash("Username already exists")
             return redirect(url_for("register"))
-
+        """register user in db"""
         register = {
             "username": request.form.get("username").lower(),
             "password": generate_password_hash(request.form.get("password"))
         }
         mongo.db.users.insert_one(register)
-
-        """put the new user into 'session' cookie"""
 
         session["user"] = request.form.get("username").lower()
         flash("Registration Successful!")
