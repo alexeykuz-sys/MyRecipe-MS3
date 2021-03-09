@@ -51,16 +51,18 @@ def recipes():
         recipes = list(mongo.db.recipes.find({"$text": {"$search": query}}))
     elif category:
         recipes = list(
-            mongo.db.recipes.find({"category_name": category}))
+            mongo.db.recipes.find(
+                {"category_name": category})).sort([("_id", -1)])
     else:
-        recipes = list(mongo.db.recipes.find())
+        recipes = list(mongo.db.recipes.find().sort([("_id", -1)]))
     return render_template("recipes.html", query=query, recipes=recipes)
 
 
 @app.route("/get_recipe/<recipe_id>", methods=["GET", "POST"])
 # finds recipe in db and renders on page
 def get_recipe(recipe_id):
-    recipes = mongo.db.recipes.find_one({"_id": ObjectId(recipe_id)})
+    recipes = mongo.db.recipes.find_one(
+        {"_id": ObjectId(recipe_id)})
     return render_template('get_recipes.html', recipes=recipes)
 
 

@@ -28,7 +28,7 @@
             </div>
         
             <div class=" method">
-                {% if session.user %}
+                {% if session.user == recipes.created_by %}
                 <div id="controls">
                     <a href="{{ url_for('edit_recipe', recipe_id=recipes._id)}}" class="control-btn btn-small">Edit</a>
 

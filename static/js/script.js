@@ -31,7 +31,8 @@
     function validateMaterializeSelect() {
         let classValid = "border-bottom: 1px solid #4caf50; box-shadow: 0 1px 0 0 #4caf50;";
         let classInvalid = "border-bottom: 1px solid #f44336; box-shadow: 0 1px 0 0 #f44336;";
-        let selectValidate = document.querySelector("select.validate");
+        var selectValidate = document.querySelector(".select .validate");
+        console.log(selectValidate)
         let selectWrapperInput = document.querySelector(".select-wrapper input.select-dropdown");
         if (selectValidate.hasAttribute("required")) {
             selectValidate.style.cssText = "display: block; height: 0; padding: 0; width: 0; position: absolute;";
@@ -64,20 +65,6 @@
         });
     }
 });
-
-// var deleteLinks = document.querySelectorAll('.delete-btn');
-
-// for (var i = 0; i < deleteLinks.length; i++) {
-//   deleteLinks[i].addEventListener('click', function(event) {
-//       event.preventDefault();
-
-//       var choice = confirm(this.getAttribute('data-confirm'));
-
-//       if (choice) {
-//         window.location.href = this.getAttribute('href');
-//       }
-//   });
-// }
 
 var modalBtn = document.getElementById('modal-btn');
 var modalCloseBtn = document.getElementById('modal-close');
