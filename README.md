@@ -199,7 +199,7 @@ Once logged in, user sees  new menu options:  Profile and Edit Recipes. Profile 
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
-No bugs have been noticed.
+there is a bug in javascript function provided by code institute in task app, which i used for my project. i couldnt debug it to resolve the issue.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)Project Deployment
 
