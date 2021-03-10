@@ -199,7 +199,7 @@ Once logged in, user sees  new menu options:  Profile and Edit Recipes. Profile 
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
-there is a bug in javascript function provided by code institute in task app, which i used for my project. i couldnt debug it to resolve the issue.
+There is a bug in javascript function provided by code institute in task app, which i used for my project. I couldn't debug it to resolve the issue.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)Project Deployment
 
@@ -271,11 +271,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzM5MzEyMiwxOTI5OTYyMTU2LDM1Mj
-c0OTMzNywxMDg2NTM2NjA1LDE4MjgxNDc0OTYsMjQ1NTAyNDQy
-LC01Njc3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMj
-UyOTU2MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUs
-LTExOTk1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MT
-Q5MDAzODcsMTM1Nzg4MjQ0LC0xMjM1MjgzNTEwLC0zNjIxMTQz
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTc3MjgzNTMzMSwxNjE3MzkzMTIyLDE5Mj
+k5NjIxNTYsMzUyNzQ5MzM3LDEwODY1MzY2MDUsMTgyODE0NzQ5
+NiwyNDU1MDI0NDIsLTU2Nzc2Njk5NSwtMjM0MzQ1ODQ4LC0xMD
+cyMDY3NzAsMTEyNTI5NTYyLC0yNDMyMTkyMDQsMTk4Nzg0MDM0
+OCwxMTY4NjYyNSwtMTE5OTUwMzY5MiwtNzM4ODQxMjgsLTEwND
+c4ODA5NDEsLTQxNDkwMDM4NywxMzU3ODgyNDQsLTEyMzUyODM1
+MTBdfQ==
 -->
