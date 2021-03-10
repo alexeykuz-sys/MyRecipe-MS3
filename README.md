@@ -196,6 +196,8 @@ Once a user has logged in, a user sees new menu options:  Profile and Edit Recip
 5. New Recipe page -  Logged in users have access to this page. The page contains the form which the user has to be filled in. Once the user has finished and pressed the add button, the user receives a flash message of success and the screen redirected to the recipe page.
 6. Logged in users also gain access to Edit and Delete buttons on the get recipe page. Once the user decides to delete a recipe, the user receives a modal warning if he wants to delete the recipe to reconfirm the user's decision.
 
+As a first time 
+
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
 There is a bug in javascript function provided by code institute in task app, which i used for my project. I couldn't debug it to resolve the issue.
@@ -270,11 +272,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjE2ODEzMSwtMTEwNDI3MjExNCwxNj
-E3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3LDEwODY1MzY2
-MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nzc2Njk5NSwtMj
-M0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYyLC0yNDMyMTky
-MDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OTUwMzY5MiwtNz
-M4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4NywxMzU3ODgy
-NDRdfQ==
+eyJoaXN0b3J5IjpbMTg1NDg3ODM3LDEzNzYxNjgxMzEsLTExMD
+QyNzIxMTQsMTYxNzM5MzEyMiwxOTI5OTYyMTU2LDM1Mjc0OTMz
+NywxMDg2NTM2NjA1LDE4MjgxNDc0OTYsMjQ1NTAyNDQyLC01Nj
+c3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMjUyOTU2
+MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUsLTExOT
+k1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MTQ5MDAz
+ODddfQ==
 -->
