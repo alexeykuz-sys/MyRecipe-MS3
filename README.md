@@ -196,7 +196,23 @@ Once a user has logged in, a user sees new menu options:  Profile and Edit Recip
 5. New Recipe page -  Logged in users have access to this page. The page contains the form which the user has to be filled in. Once the user has finished and pressed the add button, the user receives a flash message of success and the screen redirected to the recipe page.
 6. Logged in users also gain access to Edit and Delete buttons on the get recipe page. Once the user decides to delete a recipe, the user receives a modal warning if he wants to delete the recipe to reconfirm the user's decision.
 
-As a first time 
+#### As a first-time guest visitor:
+
+-   Upon visiting the website, I want to see the recipes available with the latest recipes at the top.
+-   The navbar should be easy to find and contain links to show all recipes.
+-   I should easily search recipes either by specific keywords or category: breakfast, lunch, or dinner.
+-   I should expect results to show underneath the search field.
+-   I should expect to be able to open each recipe and see ingredients and cooking instructions.
+
+#### As a returning visitor:
+
+-   As a returning user, interested in using the website regularly. I want to see clearly, where I can register as a user or log in.
+-   Upon signing up, I am redirected to my profile page.
+-   The navbar is now showing new menu options to add a new recipe.
+-   Now, I can start adding my favorite recipes to the website. I should expect the add new recipe form to be comprehensive but easy to use.
+-   I expect to be able to edit and delete recipes I have added to the website. Edit and Delete buttons appear on the recipe page for recipes added by the user.
+-   Upon pressing the edit button, I expect to be redirected to the edit page, which is similar to add recipe button and allows edit all recipe fields.
+-   Upon pressing the delete button, I expect to have the warning appear on my screen, asking if I m sure I want to delete the recipe. I expect to have it if I pressed delete mistakenly.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
@@ -272,11 +288,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDg3ODM3LDEzNzYxNjgxMzEsLTExMD
-QyNzIxMTQsMTYxNzM5MzEyMiwxOTI5OTYyMTU2LDM1Mjc0OTMz
-NywxMDg2NTM2NjA1LDE4MjgxNDc0OTYsMjQ1NTAyNDQyLC01Nj
-c3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2NzcwLDExMjUyOTU2
-MiwtMjQzMjE5MjA0LDE5ODc4NDAzNDgsMTE2ODY2MjUsLTExOT
-k1MDM2OTIsLTczODg0MTI4LC0xMDQ3ODgwOTQxLC00MTQ5MDAz
-ODddfQ==
+eyJoaXN0b3J5IjpbODY3NzQ2MzcwLDE4NTQ4NzgzNywxMzc2MT
+Y4MTMxLC0xMTA0MjcyMTE0LDE2MTczOTMxMjIsMTkyOTk2MjE1
+NiwzNTI3NDkzMzcsMTA4NjUzNjYwNSwxODI4MTQ3NDk2LDI0NT
+UwMjQ0MiwtNTY3NzY2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3
+MCwxMTI1Mjk1NjIsLTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNj
+g2NjI1LC0xMTk5NTAzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0
+MV19
 -->
