@@ -182,20 +182,19 @@ I checked that user get notification and redirected to profile page.
 I checked that user can input all information to all fields in new recipe form. I checked if user get warning notifications if he omits any field in the form. I also checked that once user presses the button Add Recipe, he redirected to all recipes page and gets flash message tht recipe was added successfully.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
-
 User story testing:
 
 1. Landing page.
-- The page layout is simple and easy to navigate. It consist of basic colors, which do not distract visitors attention.
-- Navbar - Logo is clear and describes the purpose of the website. It has a link to home page. 
-Navbar menu has three options: Recipes, Register and Log in, leading user to the relevant pages. Recipe page shows all recipes published by users. It available for logged in and guest users. 
-Once user has logged in, user sees a new menu options:  Profile and Edit Recipes. Profile page is a simple card with user details. In the future it will be developed into more detailed information with extra features allowing users to see their own recipes.
+- The page layout is simple and easy to navigate. It consists of basic colors, which do not distract visitor's attention.
+- Navbar - The logo is clear and describes the purpose of the website. It has a link to the home page. 
+Navbar menu has three options: Recipes, Register, and Log in. Each of them leads a user to the relevant pages. The recipe page shows all recipes published by users. It is available for logged-in and guest users. 
+Once a user has logged in, a user sees new menu options:  Profile and Edit Recipes. The profile page is a simple card with user details. In the future, it will be developed into more detailed information with extra features allowing users to see their recipes.
 - Footer - simple footer that has links to social media and website slogan. All links open correct pages.
-2. Log In and Log Out pages allow user to log in/out. Log In page has required fields and check if user inserted correct username and password. User receives screen notifications in the case user put a wrong username or password.
-3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbols, they get a warning notification. If username already exist, user gets a warning notification.
-4. Profile page -once user has successfully logged in, user is redirected to profile page. Profile page will be set up in the future development of the app.
-5. New Recipe page -  Logged in users have access to this page. The page contains the form which user has to be filled in. Once user has finished and pressed the add button, user receives flash message of success and screen redirected to recipe page.
-6. Logged in users also gain access to Edit and Delete buttons in get recipe page. Once user decides to delete recipe, user receives modal warning if he really wants to delete recipe to reconfirm user's decisision.
+2. Log In and Log Out pages allow the user to log in/out. Log In page has required fields and check if the user inserted the correct username and password. The user receives screen notifications in the case user puts a wrong username or password.
+3. Register page - allows users to register with a username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if users insert fewer symbols, they get a warning notification. If the username already exists, the user gets a warning notification.
+4. Profile page -once the user has successfully logged in, the user is redirected to the profile page. The profile page will be set up in the future development of the app.
+5. New Recipe page -  Logged in users have access to this page. The page contains the form which the user has to be filled in. Once the user has finished and pressed the add button, the user receives a flash message of success and the screen redirected to the recipe page.
+6. Logged in users also gain access to Edit and Delete buttons on the get recipe page. Once the user decides to delete a recipe, the user receives a modal warning if he wants to delete the recipe to reconfirm the user's decision.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
@@ -271,11 +270,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQyNzIxMTQsMTYxNzM5MzEyMiwxOT
-I5OTYyMTU2LDM1Mjc0OTMzNywxMDg2NTM2NjA1LDE4MjgxNDc0
-OTYsMjQ1NTAyNDQyLC01Njc3NjY5OTUsLTIzNDM0NTg0OCwtMT
-A3MjA2NzcwLDExMjUyOTU2MiwtMjQzMjE5MjA0LDE5ODc4NDAz
-NDgsMTE2ODY2MjUsLTExOTk1MDM2OTIsLTczODg0MTI4LC0xMD
-Q3ODgwOTQxLC00MTQ5MDAzODcsMTM1Nzg4MjQ0LC0xMjM1Mjgz
-NTEwXX0=
+eyJoaXN0b3J5IjpbMTM3NjE2ODEzMSwtMTEwNDI3MjExNCwxNj
+E3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3LDEwODY1MzY2
+MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nzc2Njk5NSwtMj
+M0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYyLC0yNDMyMTky
+MDQsMTk4Nzg0MDM0OCwxMTY4NjYyNSwtMTE5OTUwMzY5MiwtNz
+M4ODQxMjgsLTEwNDc4ODA5NDEsLTQxNDkwMDM4NywxMzU3ODgy
+NDRdfQ==
 -->
