@@ -189,7 +189,7 @@ User story testing:
 - The page layout is simple and easy to navigate. It consist of basic colors, which do not distract visitors attention.
 - Navbar - Logo is clear and describes the purpose of the website. It has a link to home page. 
 Navbar menu has three options: Recipes, Register and Log in, leading user to the relevant pages. Recipe page shows all recipes published by users. It available for logged in and guest users. 
-Once logged in, user sees  new menu options:  Profile and Edit Recipes. Profile page is a simple card with user details. In the future it will be developed into more detailed information with extra features allowing users to see their own recipes.
+Once user has logged in, user sees a new menu options:  Profile and Edit Recipes. Profile page is a simple card with user details. In the future it will be developed into more detailed information with extra features allowing users to see their own recipes.
 - Footer - simple footer that has links to social media and website slogan. All links open correct pages.
 2. Log In and Log Out pages allow user to log in/out. Log In page has required fields and check if user inserted correct username and password. User receives screen notifications in the case user put a wrong username or password.
 3. Register page - allows user to register with username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if user insert less symbols, they get a warning notification. If username already exist, user gets a warning notification.
@@ -271,7 +271,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAwODIwNTgsMTYxNzM5MzEyMiwxOT
+eyJoaXN0b3J5IjpbLTExMDQyNzIxMTQsMTYxNzM5MzEyMiwxOT
 I5OTYyMTU2LDM1Mjc0OTMzNywxMDg2NTM2NjA1LDE4MjgxNDc0
 OTYsMjQ1NTAyNDQyLC01Njc3NjY5OTUsLTIzNDM0NTg0OCwtMT
 A3MjA2NzcwLDExMjUyOTU2MiwtMjQzMjE5MjA0LDE5ODc4NDAz
