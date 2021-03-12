@@ -32,6 +32,7 @@ A live version of the site is available [LIVE SITE](https://my-recipe-ms3.heroku
     -   [Fonts](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)
     -   [Icons](https://github.com/alexeykuz-sys/myRecipe-MS3#icons)
     -   [Colours](https://github.com/alexeykuz-sys/myRecipe-MS3#colours)
+    - [Database design](https://github.com/alexeykuz-sys/myRecipe-MS3#databse)
     -   [Features and Future Releases](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)
     -   [Technologies used](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)
 9.  [Manual Testing](https://github.com/alexeykuz-sys/myRecipe-MS3#manual-testing)
@@ -288,11 +289,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3NzQ2MzcwLDE4NTQ4NzgzNywxMzc2MT
-Y4MTMxLC0xMTA0MjcyMTE0LDE2MTczOTMxMjIsMTkyOTk2MjE1
-NiwzNTI3NDkzMzcsMTA4NjUzNjYwNSwxODI4MTQ3NDk2LDI0NT
-UwMjQ0MiwtNTY3NzY2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3
-MCwxMTI1Mjk1NjIsLTI0MzIxOTIwNCwxOTg3ODQwMzQ4LDExNj
-g2NjI1LC0xMTk5NTAzNjkyLC03Mzg4NDEyOCwtMTA0Nzg4MDk0
-MV19
+eyJoaXN0b3J5IjpbMTQzNDg3NDk3Myw4Njc3NDYzNzAsMTg1ND
+g3ODM3LDEzNzYxNjgxMzEsLTExMDQyNzIxMTQsMTYxNzM5MzEy
+MiwxOTI5OTYyMTU2LDM1Mjc0OTMzNywxMDg2NTM2NjA1LDE4Mj
+gxNDc0OTYsMjQ1NTAyNDQyLC01Njc3NjY5OTUsLTIzNDM0NTg0
+OCwtMTA3MjA2NzcwLDExMjUyOTU2MiwtMjQzMjE5MjA0LDE5OD
+c4NDAzNDgsMTE2ODY2MjUsLTExOTk1MDM2OTIsLTczODg0MTI4
+XX0=
 -->
