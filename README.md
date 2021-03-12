@@ -242,7 +242,8 @@ Once a user has logged in, a user sees new menu options:  Profile and Edit Recip
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
-There is a bug in javascript function provided by code institute in task app, which i used for my project. I couldn't debug it to resolve the issue.
+There is a bug in line 37 of javascript function, provided by code institute in task app, which i used for my project. I couldn't debug it to resolve the issue.
+I have also noticed that occassionally 
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)Project Deployment
 
@@ -314,11 +315,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg3ODkwMjMsNTcwMTg5MjQxLDExOD
-YzOTkwMTMsLTQ3NzEzNTg4MSw4Njc3NDYzNzAsMTg1NDg3ODM3
-LDEzNzYxNjgxMzEsLTExMDQyNzIxMTQsMTYxNzM5MzEyMiwxOT
-I5OTYyMTU2LDM1Mjc0OTMzNywxMDg2NTM2NjA1LDE4MjgxNDc0
-OTYsMjQ1NTAyNDQyLC01Njc3NjY5OTUsLTIzNDM0NTg0OCwtMT
-A3MjA2NzcwLDExMjUyOTU2MiwtMjQzMjE5MjA0LDE5ODc4NDAz
-NDhdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzUxNTg0NywtMTk1ODc4OTAyMyw1Nz
+AxODkyNDEsMTE4NjM5OTAxMywtNDc3MTM1ODgxLDg2Nzc0NjM3
+MCwxODU0ODc4MzcsMTM3NjE2ODEzMSwtMTEwNDI3MjExNCwxNj
+E3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3LDEwODY1MzY2
+MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nzc2Njk5NSwtMj
+M0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYyLC0yNDMyMTky
+MDRdfQ==
 -->
