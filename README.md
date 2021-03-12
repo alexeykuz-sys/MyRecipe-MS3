@@ -122,7 +122,7 @@ The colours were determined by the pallet of Cooler website:
 
 -   For body background #effafa.  [![Background](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png)](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png?raw=true)
 
-# [](https://github.com/alexeykuz-sys/myRecipe-MS3#databse)Databse design
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#database)Databse design
 -   The database consist of three collections. Compiled and hosted using  [MongoDB](https://www.mongodb.com/) 
 
 #### Structure
@@ -315,7 +315,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjIxMzU4NCwtNDc3MTM1ODgxLDg2Nz
+eyJoaXN0b3J5IjpbLTI1MzE3OTM2OSwtNDc3MTM1ODgxLDg2Nz
 c0NjM3MCwxODU0ODc4MzcsMTM3NjE2ODEzMSwtMTEwNDI3MjEx
 NCwxNjE3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3LDEwOD
 Y1MzY2MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nzc2Njk5
