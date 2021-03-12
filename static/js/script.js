@@ -66,14 +66,15 @@
     }
 });
 
-var modalBtn = document.getElementById('modal-btn');
-var modalCloseBtn = document.getElementById('modal-close');
-var modal = document.querySelector('.modal-delete');
+const modalBtnRef = document.querySelector(".delete-btn");
+console.log(modalBtnRef)
+var modalCloseBtn = document.getElementById("modal-close");
+var modal = document.querySelector(".modal-delete");
 
 function modalHandler(){
     modal.classList.add('show')
 }
-modalBtn.addEventListener('click', modalHandler);
+modalBtnRef.addEventListener('click', modalHandler);
 
 
 function modalClose(){

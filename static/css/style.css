@@ -20,6 +20,7 @@ body {
   
 }
 
+/* Nav bar */
 .nav-wrapper ul{
     margin-right: 40px;
 }
@@ -42,6 +43,7 @@ nav a img {
     line-height: 2;
 }
 
+/* hero image */
 .bg-img{
     position: relative;
     background-repeat: no-repeat;
@@ -59,6 +61,8 @@ nav a img {
     background-repeat: no-repeat;
     background-size: 70%;
 }
+
+/* search area */
 .search-box {
     margin:30px;
 }
@@ -92,6 +96,7 @@ nav a img {
     flex-direction: row;
     align-items: center;
     justify-content:space-evenly;
+    
 }
 
 .hr-recipes {
@@ -102,9 +107,8 @@ nav a img {
     width: 85%;
 }
 
+/* card section */
 .card{
-    /* width: 250px; */
-    /* height:350px;  */
     border-radius: 10px;
     display: block;
    flex-direction: column;
@@ -163,7 +167,7 @@ nav a img {
 }
 
 
-
+/* footer  */
 .page-footer{
     display: flex;
     align-items: center;
@@ -178,10 +182,13 @@ nav a img {
     float: left;
 }
 
+.footer-text h5 {
+    margin: 0;
+}
 
 .social-icons {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: flex-end;
     align-items: center;
     
 }
@@ -191,7 +198,7 @@ nav a img {
     margin-right:30px;
 }
 
-
+/* get recipe page */
 .recipe-image img{
    width: 100%;
     height: 100%;
@@ -219,6 +226,7 @@ nav a img {
     padding: 10px;
 }
 
+/* delete modal  */
 .modal-delete {
     display: none;
 }
@@ -246,6 +254,10 @@ nav a img {
     
 }
 
+/* profile */
+.section {
+    height:76vh;
+}
 
 .card-profile{
     
