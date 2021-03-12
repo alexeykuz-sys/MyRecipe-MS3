@@ -243,7 +243,7 @@ Once a user has logged in, a user sees new menu options:  Profile and Edit Recip
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
 There is a bug in line 37 of javascript function, provided by code institute in task app, which i used for my project. I couldn't debug it to resolve the issue.
-I have also noticed that occassionally 
+I have also noticed that error pops up for line 77. It appears only when console c
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)Project Deployment
 
@@ -315,7 +315,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzUxNTg0NywtMTk1ODc4OTAyMyw1Nz
+eyJoaXN0b3J5IjpbLTU3MjE0Njk2MCwtMTk1ODc4OTAyMyw1Nz
 AxODkyNDEsMTE4NjM5OTAxMywtNDc3MTM1ODgxLDg2Nzc0NjM3
 MCwxODU0ODc4MzcsMTM3NjE2ODEzMSwtMTEwNDI3MjExNCwxNj
 E3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3LDEwODY1MzY2
