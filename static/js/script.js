@@ -67,7 +67,7 @@
 });
 
 const modalBtnRef = document.querySelector(".delete-btn");
-console.log(modalBtnRef)
+
 var modalCloseBtn = document.getElementById("modal-close");
 var modal = document.querySelector(".modal-delete");
 

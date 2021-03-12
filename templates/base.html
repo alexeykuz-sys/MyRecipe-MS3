@@ -52,7 +52,7 @@
             {% endif %}
         </ul>
     </header>
-
+    <main>
     <section>
         <!-- flash message -->
         {% with messages = get_flashed_messages() %}
@@ -78,11 +78,12 @@
 
         {% endblock %}
     </div>
+    </main>
     <!-- footer container -->
     <div class="container-fluid">
-        <div class="row">
+        <div class="row" style="margin-bottom: 0;">
             <footer class="page-footer grey darken-4">
-            <div class="col s12">
+                <div class="col s12">
                     <div class="footer-text">
                         <h5 class="white-text">My Recipes</h5>
                         <p class="grey-text text-lighten-4">The way YOU cook.</p>
@@ -96,9 +97,9 @@
                                 alt="twitter icon"></a>
                     </div>
                 </div>
-            </footer>
-            </div>
         </div>
+    </div>
+    </footer>
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>

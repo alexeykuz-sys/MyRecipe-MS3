@@ -17,8 +17,15 @@ body {
   background-color: #effafa;
   width: 100vw;
   color:#212121;
-  
-}
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
 
 /* Nav bar */
 .nav-wrapper ul{
@@ -194,8 +201,8 @@ nav a img {
 }
 
 .social-icons a img{
-    width: 40px;
-    margin-right:30px;
+    width: 28px;
+    margin-right:32px;
 }
 
 /* get recipe page */
@@ -255,9 +262,7 @@ nav a img {
 }
 
 /* profile */
-.section {
-    height:76vh;
-}
+ 
 
 .card-profile{
     
