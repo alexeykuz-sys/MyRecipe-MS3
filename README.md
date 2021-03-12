@@ -134,9 +134,8 @@ The colours were determined by the pallet of Cooler website:
 5.  recipe_name - string
 6.  recipe_description - string
 7.  recipe_time - string
-8.  img_url - str
-9.  votes - int
-10.  added_by - str
+8.  recipe_serving - string
+9.  created_by - string
 
 ### Categories Structure
 
@@ -316,7 +315,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzA1MzUwNiwtNDc3MTM1ODgxLDg2Nz
+eyJoaXN0b3J5IjpbLTQ2NjIxMzU4NCwtNDc3MTM1ODgxLDg2Nz
 c0NjM3MCwxODU0ODc4MzcsMTM3NjE2ODEzMSwtMTEwNDI3MjEx
 NCwxNjE3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3LDEwOD
 Y1MzY2MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nzc2Njk5
