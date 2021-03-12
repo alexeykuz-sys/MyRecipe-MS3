@@ -56,7 +56,7 @@ def recipes():
     elif category:
         recipes = list(
             mongo.db.recipes.find(
-                {"category_name": category})).sort([("_id", -1)])
+                {"category_name": category}))
     else:
         recipes = list(mongo.db.recipes.find().sort([("_id", -1)]))
     return render_template("recipes.html", query=query, recipes=recipes)
