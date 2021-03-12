@@ -32,7 +32,7 @@ A live version of the site is available [LIVE SITE](https://my-recipe-ms3.heroku
     -   [Fonts](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)
     -   [Icons](https://github.com/alexeykuz-sys/myRecipe-MS3#icons)
     -   [Colours](https://github.com/alexeykuz-sys/myRecipe-MS3#colours)
-    - [Database design](https://github.com/alexeykuz-sys/myRecipe-MS3#databse)
+    - [Database design](https://github.com/alexeykuz-sys/myRecipe-MS3#database)
     -   [Features and Future Releases](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)
     -   [Technologies used](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)
 9.  [Manual Testing](https://github.com/alexeykuz-sys/myRecipe-MS3#manual-testing)
@@ -122,7 +122,7 @@ The colours were determined by the pallet of Cooler website:
 
 -   For body background #effafa.  [![Background](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png)](https://github.com/alexeykuz-sys/myRecipe-MS3/blob/master/static/colors/bgColor.png?raw=true)
 
-# [](https://github.com/alexeykuz-sys/myRecipe-MS3#database)Databse design
+# [](https://github.com/alexeykuz-sys/myRecipe-MS3#database)Database design
 -   The database consist of three collections. Compiled and hosted using  [MongoDB](https://www.mongodb.com/) 
 
 #### Structure
@@ -315,7 +315,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzE3OTM2OSwtNDc3MTM1ODgxLDg2Nz
+eyJoaXN0b3J5IjpbMTE4NjM5OTAxMywtNDc3MTM1ODgxLDg2Nz
 c0NjM3MCwxODU0ODc4MzcsMTM3NjE2ODEzMSwtMTEwNDI3MjEx
 NCwxNjE3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3LDEwOD
 Y1MzY2MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nzc2Njk5
