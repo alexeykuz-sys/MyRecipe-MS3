@@ -168,6 +168,7 @@ Features to implement:
 -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 -   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Python](https://www.python.org/)
 
 **Tools & Libraries**
 
@@ -314,7 +315,7 @@ Sites used for information and support
 -   [W3C](https://www.w3.org/)
 -   [Stack overflow](https://stackoverflow.com/)
 -   [W3schools](https://www.w3schools.com/)
--   CSS Tricks
+-   [CSS Tricks](https://css-tricks.com/)
 -   [JS Commenting](https://jsdoc.app/about-getting-started.html)
 -   [MongoDB Documentation](https://docs.atlas.mongodb.com/)
 -   [Python Documentation](https://docs.python.org/3/)
@@ -327,7 +328,7 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzQzMzQ4OCw0MjA4MDAyNywtMTk1OD
+eyJoaXN0b3J5IjpbMTkyMzM3MjA0MSw0MjA4MDAyNywtMTk1OD
 c4OTAyMyw1NzAxODkyNDEsMTE4NjM5OTAxMywtNDc3MTM1ODgx
 LDg2Nzc0NjM3MCwxODU0ODc4MzcsMTM3NjE2ODEzMSwtMTEwND
 I3MjExNCwxNjE3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3
