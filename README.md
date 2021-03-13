@@ -301,7 +301,11 @@ To run this code locally, you can clone this repository directly into the editor
 The images for this app/website were taken from Unsplash:
 
 [Unsplash](https://unsplash.com/s/photos/recipe)
-[BBB
+
+The recipes were taken from:
+[BBC Good Food(https://www.bbcgoodfood.com/)
+
+I used Code Institute Task Follow up project as a reference and guidance in building this website.
 
 ## [](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)Acknowledgements
 
@@ -323,11 +327,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MDMyMzc4LDQyMDgwMDI3LC0xOTU4Nz
-g5MDIzLDU3MDE4OTI0MSwxMTg2Mzk5MDEzLC00NzcxMzU4ODEs
-ODY3NzQ2MzcwLDE4NTQ4NzgzNywxMzc2MTY4MTMxLC0xMTA0Mj
-cyMTE0LDE2MTczOTMxMjIsMTkyOTk2MjE1NiwzNTI3NDkzMzcs
-MTA4NjUzNjYwNSwxODI4MTQ3NDk2LDI0NTUwMjQ0MiwtNTY3Nz
-Y2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjJd
-fQ==
+eyJoaXN0b3J5IjpbMjEyMzQzMzQ4OCw0MjA4MDAyNywtMTk1OD
+c4OTAyMyw1NzAxODkyNDEsMTE4NjM5OTAxMywtNDc3MTM1ODgx
+LDg2Nzc0NjM3MCwxODU0ODc4MzcsMTM3NjE2ODEzMSwtMTEwND
+I3MjExNCwxNjE3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3
+LDEwODY1MzY2MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nz
+c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
+XX0=
 -->
