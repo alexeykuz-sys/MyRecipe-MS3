@@ -254,7 +254,7 @@ Once a user has logged in, a user sees new menu options:  Profile and Edit Recip
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
 There is a bug in line 37 of javascript function, provided by code institute in task app, which i used for my project. I couldn't debug it to resolve the issue.
-I have also noticed that error pops up for line 77, refering to modalBtnRef in line 69. It appears only when console checked on any page other than get_recipe. This code applies to button DELETE on get_recipe page and error disappears once get_recipe page open.
+I have also noticed that error pops up for line 77, refering to modalBtnRef in line 69. It appears only when console checked on any page other than get_recipe. This code applies to button DELETE on get_recipe page and error disappears once get_recipe page is open.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)Project Deployment
 
@@ -328,11 +328,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY2MDY1MDAsMTkyMzM3MjA0MSw0Mj
-A4MDAyNywtMTk1ODc4OTAyMyw1NzAxODkyNDEsMTE4NjM5OTAx
-MywtNDc3MTM1ODgxLDg2Nzc0NjM3MCwxODU0ODc4MzcsMTM3Nj
-E2ODEzMSwtMTEwNDI3MjExNCwxNjE3MzkzMTIyLDE5Mjk5NjIx
-NTYsMzUyNzQ5MzM3LDEwODY1MzY2MDUsMTgyODE0NzQ5NiwyND
-U1MDI0NDIsLTU2Nzc2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3
-NzBdfQ==
+eyJoaXN0b3J5IjpbLTM2NDIzODMzNCwxOTIzMzcyMDQxLDQyMD
+gwMDI3LC0xOTU4Nzg5MDIzLDU3MDE4OTI0MSwxMTg2Mzk5MDEz
+LC00NzcxMzU4ODEsODY3NzQ2MzcwLDE4NTQ4NzgzNywxMzc2MT
+Y4MTMxLC0xMTA0MjcyMTE0LDE2MTczOTMxMjIsMTkyOTk2MjE1
+NiwzNTI3NDkzMzcsMTA4NjUzNjYwNSwxODI4MTQ3NDk2LDI0NT
+UwMjQ0MiwtNTY3NzY2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3
+MF19
 -->
