@@ -304,7 +304,7 @@ The images for this app/website were taken from Unsplash:
 [Unsplash](https://unsplash.com/s/photos/recipe)
 
 The recipes were taken from:
-[BBC Good Food(https://www.bbcgoodfood.com/)
+[BBC Good Food](https://www.bbcgoodfood.com/)
 
 I used Code Institute Task Follow up project as a reference and guidance in building this website.
 
@@ -328,11 +328,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzM3MjA0MSw0MjA4MDAyNywtMTk1OD
-c4OTAyMyw1NzAxODkyNDEsMTE4NjM5OTAxMywtNDc3MTM1ODgx
-LDg2Nzc0NjM3MCwxODU0ODc4MzcsMTM3NjE2ODEzMSwtMTEwND
-I3MjExNCwxNjE3MzkzMTIyLDE5Mjk5NjIxNTYsMzUyNzQ5MzM3
-LDEwODY1MzY2MDUsMTgyODE0NzQ5NiwyNDU1MDI0NDIsLTU2Nz
-c2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3NzAsMTEyNTI5NTYy
+eyJoaXN0b3J5IjpbNDUyOTgxMzkyLDE5MjMzNzIwNDEsNDIwOD
+AwMjcsLTE5NTg3ODkwMjMsNTcwMTg5MjQxLDExODYzOTkwMTMs
+LTQ3NzEzNTg4MSw4Njc3NDYzNzAsMTg1NDg3ODM3LDEzNzYxNj
+gxMzEsLTExMDQyNzIxMTQsMTYxNzM5MzEyMiwxOTI5OTYyMTU2
+LDM1Mjc0OTMzNywxMDg2NTM2NjA1LDE4MjgxNDc0OTYsMjQ1NT
+AyNDQyLC01Njc3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2Nzcw
 XX0=
 -->
