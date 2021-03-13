@@ -324,15 +324,15 @@ Sites used for information and support
 #### [](https://github.com/alexeykuz-sys/myRecipe-MS3#I-received-advice-and-support-from)I received advice and support from
 
 -   Oluwafemi Medale (mentor)
--   Code Institute - Slack Community (various students, tutors and mentors)
+-   Code Institute - Slack Community.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyOTgxMzkyLDE5MjMzNzIwNDEsNDIwOD
-AwMjcsLTE5NTg3ODkwMjMsNTcwMTg5MjQxLDExODYzOTkwMTMs
-LTQ3NzEzNTg4MSw4Njc3NDYzNzAsMTg1NDg3ODM3LDEzNzYxNj
-gxMzEsLTExMDQyNzIxMTQsMTYxNzM5MzEyMiwxOTI5OTYyMTU2
-LDM1Mjc0OTMzNywxMDg2NTM2NjA1LDE4MjgxNDc0OTYsMjQ1NT
-AyNDQyLC01Njc3NjY5OTUsLTIzNDM0NTg0OCwtMTA3MjA2Nzcw
-XX0=
+eyJoaXN0b3J5IjpbLTExNTY2MDY1MDAsMTkyMzM3MjA0MSw0Mj
+A4MDAyNywtMTk1ODc4OTAyMyw1NzAxODkyNDEsMTE4NjM5OTAx
+MywtNDc3MTM1ODgxLDg2Nzc0NjM3MCwxODU0ODc4MzcsMTM3Nj
+E2ODEzMSwtMTEwNDI3MjExNCwxNjE3MzkzMTIyLDE5Mjk5NjIx
+NTYsMzUyNzQ5MzM3LDEwODY1MzY2MDUsMTgyODE0NzQ5NiwyND
+U1MDI0NDIsLTU2Nzc2Njk5NSwtMjM0MzQ1ODQ4LC0xMDcyMDY3
+NzBdfQ==
 -->
