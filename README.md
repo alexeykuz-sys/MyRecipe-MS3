@@ -189,22 +189,32 @@ Once website loaded, user sees the hero image, underneath which there is search 
 Search section allows user to search recipes. I input a word in search and pressed search. If such word exist in recipes, the recipe will be shown on the screen underneath. The search word remains seen in search form. I have to press reset button to reset page to all recipes.
 I can also sort recipes by Breakfast, Lunch and Dinner. I pressed each button and achieved desired results 
  Each recipe card has image, recipe name, people served and time to cook. Each recipe card is clickable and give access to full recipe page with detailed cooking instructions.
+ 
 -**Single Recipe Page(Get_Recipe)**
+
 The single recipe page gives all user access to the recipe ingredients and method of cooking. In addition, only logged in users have access to Edit and Delete functions.
 I checked that these functions appear only for logged in users.  
  I checked that Edit buttons opens the edit page, where user can edit all recipe fields and save recipe.
  I checked that delete button, triggers modal with delete or cancel options. Cancel button hides modal and Delete button reconfirms deletion and delete recipe from the database.
+ 
 -**Log In**
+
 I checked that log in button redirects to log in page.
 I created own account that complied with min requirements and successfully logged in and received corresponding flash notification.
 I also checked if the log in form gives visual and text warning if i input wrong information or less symbols than required.
+
 -**Log Out**
+
 I checked that log out buttons redirects you back to log in page.
+
 -**Register**
+
 I checked that register button is visible to all guest, not logged in users. I checked that user gets relevant notifications if user tries to register with less symbols or wrond symbols.
 I checked that user get notification if he tries to register with username that already exists in database.
 I checked that user get notification and redirected to profile page.
+
 -**New Recipe**
+
 I checked that user can input all information to all fields in new recipe form. I checked if user get warning notifications if he omits any field in the form. I also checked that once user presses the button Add Recipe, he redirected to all recipes page and gets flash message tht recipe was added successfully.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
@@ -291,9 +301,7 @@ To run this code locally, you can clone this repository directly into the editor
 The images for this app/website were taken from Unsplash:
 
 [Unsplash](https://unsplash.com/s/photos/recipe)
-
-
-All other images were contributed from personal sources, of which no acknowledgement is required.
+[BBB
 
 ## [](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)Acknowledgements
 
@@ -306,7 +314,7 @@ Sites used for information and support
 -   [JS Commenting](https://jsdoc.app/about-getting-started.html)
 -   [MongoDB Documentation](https://docs.atlas.mongodb.com/)
 -   [Python Documentation](https://docs.python.org/3/)
--   [Reading for Pagination](https://www.thatsoftwaredude.com/content/6125/how-to-paginate-through-a-collection-in-javascript)
+
 
 #### [](https://github.com/alexeykuz-sys/myRecipe-MS3#I-received-advice-and-support-from)I received advice and support from
 
@@ -315,11 +323,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwODAwMjcsLTE5NTg3ODkwMjMsNTcwMT
-g5MjQxLDExODYzOTkwMTMsLTQ3NzEzNTg4MSw4Njc3NDYzNzAs
-MTg1NDg3ODM3LDEzNzYxNjgxMzEsLTExMDQyNzIxMTQsMTYxNz
-M5MzEyMiwxOTI5OTYyMTU2LDM1Mjc0OTMzNywxMDg2NTM2NjA1
-LDE4MjgxNDc0OTYsMjQ1NTAyNDQyLC01Njc3NjY5OTUsLTIzND
-M0NTg0OCwtMTA3MjA2NzcwLDExMjUyOTU2MiwtMjQzMjE5MjA0
-XX0=
+eyJoaXN0b3J5IjpbMjc1MDMyMzc4LDQyMDgwMDI3LC0xOTU4Nz
+g5MDIzLDU3MDE4OTI0MSwxMTg2Mzk5MDEzLC00NzcxMzU4ODEs
+ODY3NzQ2MzcwLDE4NTQ4NzgzNywxMzc2MTY4MTMxLC0xMTA0Mj
+cyMTE0LDE2MTczOTMxMjIsMTkyOTk2MjE1NiwzNTI3NDkzMzcs
+MTA4NjUzNjYwNSwxODI4MTQ3NDk2LDI0NTUwMjQ0MiwtNTY3Nz
+Y2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3MCwxMTI1Mjk1NjJd
+fQ==
 -->
