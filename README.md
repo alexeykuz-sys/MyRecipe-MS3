@@ -36,16 +36,17 @@ A live version of the site is available [LIVE SITE](https://my-recipe-ms3.heroku
     -   [Features and Future Releases](https://github.com/alexeykuz-sys/myRecipe-MS3#features-and-future-releases)
     -   [Technologies used](https://github.com/alexeykuz-sys/myRecipe-MS3#technologies-used)
 9.  [Manual Testing](https://github.com/alexeykuz-sys/myRecipe-MS3#manual-testing)
-    
+
+ 1    
 10.  [Testing User Stories](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)
     
 11.  [Bugs and De-bugging](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)
 
  12.  [Project Deployment](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)
     
-13.  [Credits](https://github.com/alexeykuz-sys/myRecipe-MS3#credits)
+1.  [Credits](https://github.com/alexeykuz-sys/myRecipe-MS3#credits)
     
-14.  [Acknowledgements](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)
+1.  [Acknowledgements](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)
 
 ====
 
@@ -100,7 +101,7 @@ The webpages consist of :
 2. Recipe Page - single page devided in two parts. Upper parts represents the hero image with a search bar.
 The bottom part is the section where all recipes are seen and can be separate into Breakfast, Lunch and Dinner categories.
 3. Add Recipe page - simple page with recipe catgories, linked to MongoDB database.
-4. Register Page  - user has to input username and password that are restricted to min and max number of characters.
+4. Register Page  - user has to input username  password that are restricted to min and max number of characters.
 5. Profile Page - user profile page, basic card, which will be expanded in later versions.
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)Fonts
 
@@ -187,13 +188,13 @@ All functions were tested for different screen sizes.
 - **Landing Page**
 
 Once website loaded, user sees the hero image, underneath which there is search section and then all recipes section.
-Search section allows user to search recipes. I input a word in search and pressed search. If such word exist in recipes, the recipe will be shown on the screen underneath. The search word remains seen in search form. I have to press reset button to reset page to all recipes.
+Search section allow user to search recipes. I input a word in search and pressed search. If such word exist in recipes, the recipe will be shown n the ceen underneath. The search word remains seen in search form. I have to press reset button to reset page to all recipes.
 I can also sort recipes by Breakfast, Lunch and Dinner. I pressed each button and achieved desired results 
- Each recipe card has image, recipe name, people served and time to cook. Each recipe card is clickable and give access to full recipe page with detailed cooking instructions.
+ Each recipe card has imae, recipe name, people served and time to cook. Each recipe card is clickable and give access to full recipe page with detailed cooking instructions.
  
 -**Single Recipe Page(Get_Recipe)**
 
-The single recipe page gives all user access to the recipe ingredients and method of cooking. In addition, only logged in users have access to Edit and Delete functions.
+The single recipe page gives all user access to the recipe ingredients and method of cooking. In addition, access to Edit and Delete functions.
 I checked that these functions appear only for logged in users.  
  I checked that Edit buttons opens the edit page, where user can edit all recipe fields and save recipe.
  I checked that delete button, triggers modal with delete or cancel options. Cancel button hides modal and Delete button reconfirms deletion and delete recipe from the database.
@@ -216,22 +217,23 @@ I checked that user get notification and redirected to profile page.
 
 -**New Recipe**
 
-I checked that user can input all information to all fields in new recipe form. I checked if user get warning notifications if he omits any field in the form. I also checked that once user presses the button Add Recipe, he redirected to all recipes page and gets flash message tht recipe was added successfully.
+I checked that user can input all information to all fields in new recipe form. I checked if user get warning notifications if he omits any field in the form. I also checked that nce user presses the button Add Recipe, he redirected to all recipes page and gets flash message tht recipe was added successfully.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#testing-user-stories)Testing User Stories
+
 User story testing:
 
 1. Landing page.
 - The page layout is simple and easy to navigate. It consists of basic colors, which do not distract visitor's attention.
-- Navbar - The logo is clear and describes the purpose of the website. It has a link to the home page. 
-Navbar menu has three options: Recipes, Register, and Log in. Each of them leads a user to the relevant pages. The recipe page shows all recipes published by users. It is available for logged-in and guest users. 
-Once a user has logged in, a user sees new menu options:  Profile and Edit Recipes. The profile page is a simple card with user details. In the future, it will be developed into more detailed information with extra features allowing users to see their recipes.
+- Navbar - The lLogo is clear and describes the purpose of the website. It has a link to the home page. 
+Navbar menu has three options: Recipes, Register, and Log in. Each of them leads aing user to the relevantspecifi ages. The rRecipe page shows all recipes published by users. It is available for logged- in and guest users. 
+Once a user has logged in, a user sees  new enu options:  Profile and Edit tis ge. The pProfile page is a simple card with user details. In the future, it will be developed into more detailed information with extra features allowing users to see their own recipes.
 - Footer - simple footer that has links to social media and website slogan. All links open correct pages.
-2. Log In and Log Out pages allow the user to log in/out. Log In page has required fields and check if the user inserted the correct username and password. The user receives screen notifications in the case user puts a wrong username or password.
+2. Log In and Log Out pages allow the user to log in/out. Log In page has required fields and check if the user inserted the correct username and password. The uUser receives screen notifications in the case user puts a wrong username or password.
 3. Register page - allows users to register with a username and password. It has a requirement to put min number of symbols and a-z and 0-9.  if users insert fewer symbols, they get a warning notification. If the username already exists, the user gets a warning notification.
-4. Profile page -once the user has successfully logged in, the user is redirected to the profile page. The profile page will be set up in the future development of the app.
+4. Profile page -once the user has successfully logged in, the user is redirected to the profile page. The pProfile page will be set up in the future development of the app.
 5. New Recipe page -  Logged in users have access to this page. The page contains the form which the user has to be filled in. Once the user has finished and pressed the add button, the user receives a flash message of success and the screen redirected to the recipe page.
-6. Logged in users also gain access to Edit and Delete buttons on the get recipe page. Once the user decides to delete a recipe, the user receives a modal warning if he wants to delete the recipe to reconfirm the user's decision.
+6. Logged in users also gain access to Edit and Delete buttons on thein get recipe page. Once the user decides to delete a recipe, the user receives a modal warning if he wants to delete the recipe to reconfirm the user's decision.
 
 #### As a first-time guest visitor:
 
@@ -239,7 +241,7 @@ Once a user has logged in, a user sees new menu options:  Profile and Edit Recip
 -   The navbar should be easy to find and contain links to show all recipes.
 -   I should easily search recipes either by specific keywords or category: breakfast, lunch, or dinner.
 -   I should expect results to show underneath the search field.
--   I should expect to be able to open each recipe and see ingredients and cooking instructions.
+-   I should expect to be able to open each recipe and see ingredients and cooking instructionsshotsreie.
 
 #### As a returning visitor:
 
@@ -249,11 +251,11 @@ Once a user has logged in, a user sees new menu options:  Profile and Edit Recip
 -   Now, I can start adding my favorite recipes to the website. I should expect the add new recipe form to be comprehensive but easy to use.
 -   I expect to be able to edit and delete recipes I have added to the website. Edit and Delete buttons appear on the recipe page for recipes added by the user.
 -   Upon pressing the edit button, I expect to be redirected to the edit page, which is similar to add recipe button and allows edit all recipe fields.
--   Upon pressing the delete button, I expect to have the warning appear on my screen, asking if I m sure I want to delete the recipe. I expect to have it if I pressed delete mistakenly.
+-   Upon pressing the delete button, I expect to have the warning appear on my screen, asking if I m sure I want to delete the recipe. I expect to have it if I pressed delete mistakenlyreally wants to delete recipe to reconfirm user's decisision.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#bugs-and-debugging)Bugs and Debugging
 
-There is a bug in line 37 of javascript function, provided by code institute in task app, which i used for my project. I couldn't debug it to resolve the issue.
+Tthere is a bug in line 37 of javascript function, provided by code institute in task app, which i used for my project. Ii couldn't debug it to resolve the issue.
 I have also noticed that error pops up for line 77, refering to modalBtnRef in line 69. It appears only when console checked on any page other than get_recipe. This code applies to button DELETE on get_recipe page and error disappears once get_recipe page is open.
 
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#project-deployment)Project Deployment
@@ -306,7 +308,8 @@ The images for this app/website were taken from Unsplash:
 The recipes were taken from:
 [BBC Good Food](https://www.bbcgoodfood.com/)
 
-I used Code Institute Task Follow up project as a reference and guidance in building this website.
+I used Code Institute Task Follow up project as a reference and guidance in building this website
+All other images were contributed from personal sources, of which no acknowledgement is required.
 
 ## [](https://github.com/alexeykuz-sys/myRecipe-MS3#acknowledgements)Acknowledgements
 
@@ -319,20 +322,20 @@ Sites used for information and support
 -   [JS Commenting](https://jsdoc.app/about-getting-started.html)
 -   [MongoDB Documentation](https://docs.atlas.mongodb.com/)
 -   [Python Documentation](https://docs.python.org/3/)
-
+-   [Reading for Pagination](https://www.thatsoftwaredude.com/content/6125/how-to-paginate-through-a-collection-in-javascript)
 
 #### [](https://github.com/alexeykuz-sys/myRecipe-MS3#I-received-advice-and-support-from)I received advice and support from
 
 -   Oluwafemi Medale (mentor)
--   Code Institute - Slack Community.
+-   Code Institute - Slack Community. (various students, tutors and mentors)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDIzODMzNCwxOTIzMzcyMDQxLDQyMD
-gwMDI3LC0xOTU4Nzg5MDIzLDU3MDE4OTI0MSwxMTg2Mzk5MDEz
-LC00NzcxMzU4ODEsODY3NzQ2MzcwLDE4NTQ4NzgzNywxMzc2MT
-Y4MTMxLC0xMTA0MjcyMTE0LDE2MTczOTMxMjIsMTkyOTk2MjE1
-NiwzNTI3NDkzMzcsMTA4NjUzNjYwNSwxODI4MTQ3NDk2LDI0NT
-UwMjQ0MiwtNTY3NzY2OTk1LC0yMzQzNDU4NDgsLTEwNzIwNjc3
-MF19
+eyJoaXN0b3J5IjpbLTE5NTQ4NTA0OTQsLTM2NDIzODMzNCwxOT
+IzMzcyMDQxLDQyMDgwMDI3LC0xOTU4Nzg5MDIzLDU3MDE4OTI0
+MSwxMTg2Mzk5MDEzLC00NzcxMzU4ODEsODY3NzQ2MzcwLDE4NT
+Q4NzgzNywxMzc2MTY4MTMxLC0xMTA0MjcyMTE0LDE2MTczOTMx
+MjIsMTkyOTk2MjE1NiwzNTI3NDkzMzcsMTA4NjUzNjYwNSwxOD
+I4MTQ3NDk2LDI0NTUwMjQ0MiwtNTY3NzY2OTk1LC0yMzQzNDU4
+NDhdfQ==
 -->
