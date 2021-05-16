@@ -79,30 +79,30 @@ Individuals interested to keep their recipes in digital form
 The users goal is to identify application allowing them to have access to the recipe any time anywhere.
 
 
-# [](https://github.com/alexeykuz-sys/myRecipe-MS3#user-stories)User Stories
+	# [](https://github.com/alexeykuz-sys/myRecipe-MS3#user-stories)User Stories
 
-**- First Time Visitor Goals:**
+	**- First Time Visitor Goals:**
 
-1.  As a visitor to the website, I want to easily understand the main purpose of the website.
-2.  As a visitor easy to register and login/out
-3.  As a visitor I want to see recipes on my frontpage
-4.  As a visitor i want an easy to add,edit and delete recipes.
+	1.  As a visitor to the website, I want to easily understand the main purpose of the website.
+	2.  As a visitor easy to register and login/out
+	3.  As a visitor I want to see recipes on my frontpage
+	4.  As a visitor i want an easy to add,edit and delete recipes.
 
-**- Returning Visitor Goals:**
+	**- Returning Visitor Goals:**
 
-1.  Returning Visitor I would like to be able to add ingredients to the shopping list
-2.  Returning Visitor I would like to share recipe by email or via social media.
+	1.  Returning Visitor I would like to be able to add ingredients to the shopping list
+	2.  Returning Visitor I would like to share recipe by email or via social media.
 
-# [](https://github.com/alexeykuz-sys/myRecipe-MS3#design-choices)Design Choices
+	# [](https://github.com/alexeykuz-sys/myRecipe-MS3#design-choices)Design Choices
 
-When designing website I took inspiration from various recipe websites like BBCGoodFood and AllRecipes. The website was adapted to fit user requirements. 
-The webpages consist of :
-1. Navbar and Footbar - simple layout. Navbar gives mobile and desktop menu views with options for user to see all recipes, register and login. Once loged in user can add,edit and delete recipes.
-2. Recipe Page - single page devided in two parts. Upper parts represents the hero image with a search bar.
-The bottom part is the section where all recipes are seen and can be separate into Breakfast, Lunch and Dinner categories.
-3. Add Recipe page - simple page with recipe catgories, linked to MongoDB database.
-4. Register Page  - user has to input username  password that are restricted to min and max number of characters.
-5. Profile Page - user profile page, basic card, which will be expanded in later versions.
+	When designing website I took inspiration from various recipe websites like BBCGoodFood and AllRecipes. The website was adapted to fit user requirements. 
+	The webpages consist of :
+	1. Navbar and Footbar - simple layout. Navbar gives mobile and desktop menu views with options for user to see all recipes, register and login. Once loged in user can add,edit and delete recipes.
+	2. Recipe Page - single page devided in two parts. Upper parts represents the hero image with a search bar.
+	The bottom part is the section where all recipes are seen and can be separate into Breakfast, Lunch and Dinner categories.
+	3. Add Recipe page - simple page with recipe catgories, linked to MongoDB database.
+	4. Register Page  - user has to input username  password that are restricted to min and max number of characters.
+	5. Profile Page - user profile page, basic card, which will be expanded in later versions.
 # [](https://github.com/alexeykuz-sys/myRecipe-MS3#fonts)Fonts
 
 I have used Google Fonts to determine the best fonts suitable for each part of the website, I.e. Logo, Menu and Body information.
@@ -331,11 +331,11 @@ Sites used for information and support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ4NTA0OTQsLTM2NDIzODMzNCwxOT
-IzMzcyMDQxLDQyMDgwMDI3LC0xOTU4Nzg5MDIzLDU3MDE4OTI0
-MSwxMTg2Mzk5MDEzLC00NzcxMzU4ODEsODY3NzQ2MzcwLDE4NT
-Q4NzgzNywxMzc2MTY4MTMxLC0xMTA0MjcyMTE0LDE2MTczOTMx
-MjIsMTkyOTk2MjE1NiwzNTI3NDkzMzcsMTA4NjUzNjYwNSwxOD
-I4MTQ3NDk2LDI0NTUwMjQ0MiwtNTY3NzY2OTk1LC0yMzQzNDU4
-NDhdfQ==
+eyJoaXN0b3J5IjpbMTUyNDI5OTA3NCwtMTk1NDg1MDQ5NCwtMz
+Y0MjM4MzM0LDE5MjMzNzIwNDEsNDIwODAwMjcsLTE5NTg3ODkw
+MjMsNTcwMTg5MjQxLDExODYzOTkwMTMsLTQ3NzEzNTg4MSw4Nj
+c3NDYzNzAsMTg1NDg3ODM3LDEzNzYxNjgxMzEsLTExMDQyNzIx
+MTQsMTYxNzM5MzEyMiwxOTI5OTYyMTU2LDM1Mjc0OTMzNywxMD
+g2NTM2NjA1LDE4MjgxNDc0OTYsMjQ1NTAyNDQyLC01Njc3NjY5
+OTVdfQ==
 -->
